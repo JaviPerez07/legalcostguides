@@ -80,13 +80,16 @@
       banner.className = 'cookie-banner show';
       banner.innerHTML = '<p><strong>Cookie notice:</strong> LegalCostGuides uses cookies and similar technologies for essential site functions, analytics, and Google AdSense advertising.</p><div class="cookie-actions"><button class="accept" type="button">Accept</button><button class="reject" type="button">Reject non-essential</button></div>';
       document.body.appendChild(banner);
+      const dismissBanner = (value) => {
+        localStorage.setItem(cookieKey, value);
+        banner.classList.remove('show');
+        banner.style.display = 'none';
+      };
       banner.querySelector('.accept').addEventListener('click', () => {
-        localStorage.setItem(cookieKey, 'accepted');
-        banner.remove();
+        dismissBanner('accepted');
       });
       banner.querySelector('.reject').addEventListener('click', () => {
-        localStorage.setItem(cookieKey, 'rejected');
-        banner.remove();
+        dismissBanner('rejected');
       });
     }
 
