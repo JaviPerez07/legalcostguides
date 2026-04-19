@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*?q=*
+Disallow: /*?s=*
+Sitemap: https://legalcostguides.com/sitemap.xml
