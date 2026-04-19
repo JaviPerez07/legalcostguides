@@ -1,7 +1,7 @@
 (() => {
   'use strict';
 
-  const lawyerRates = {"personal-injury-lawyer-cost":337,"divorce-lawyer-cost":344,"criminal-defense-lawyer-cost":216,"dui-lawyer-cost":326,"bankruptcy-lawyer-cost":460,"immigration-lawyer-cost":366,"estate-planning-lawyer-cost":371,"real-estate-lawyer-cost":377,"employment-lawyer-cost":387,"business-lawyer-cost":378,"how-much-does-a-lawyer-cost":349,"lawyer-consultation-fee":349,"contingency-fee-explained":337,"hourly-vs-flat-fee-lawyer":349,"can-i-afford-a-lawyer":349,"mediation-cost-guide":371,"power-of-attorney-cost":371,"will-cost-guide":371,"trademark-lawyer-cost":453,"patent-lawyer-cost":453,"mesothelioma-lawyer-cost":337,"truck-accident-lawyer-cost":337,"workers-comp-lawyer-cost":216,"social-security-disability-lawyer-cost":216,"child-custody-lawyer-cost":344,"wrongful-termination-lawyer-cost":387,"landlord-tenant-lawyer-cost":377};
+  const lawyerRates = {"personal-injury-lawyer-cost":337,"divorce-lawyer-cost":344,"criminal-defense-lawyer-cost":216,"dui-lawyer-cost":326,"bankruptcy-lawyer-cost":460,"immigration-lawyer-cost":366,"estate-planning-lawyer-cost":371,"real-estate-lawyer-cost":377,"employment-lawyer-cost":387,"business-lawyer-cost":378,"how-much-does-a-lawyer-cost":349,"lawyer-consultation-fee":349,"contingency-fee-explained":337,"hourly-vs-flat-fee-lawyer":349,"can-i-afford-a-lawyer":349,"mediation-cost-guide":371,"power-of-attorney-cost":371,"will-cost-guide":371,"trademark-lawyer-cost":453,"patent-lawyer-cost":453,"mesothelioma-lawyer-cost":337,"truck-accident-lawyer-cost":337,"workers-comp-lawyer-cost":216,"social-security-disability-lawyer-cost":216,"child-custody-lawyer-cost":344,"wrongful-termination-lawyer-cost":387,"landlord-tenant-lawyer-cost":377,"asbestos-lawsuit-cost":337,"18-wheeler-accident-lawyer-cost":337,"uber-lyft-accident-lawyer-cost":337,"motorcycle-accident-lawyer-cost":337,"medical-malpractice-lawyer-cost":405,"birth-injury-lawyer-cost":405,"surgical-error-lawyer-cost":405,"class-action-lawsuit-cost":337,"roundup-lawsuit-cost":337,"talcum-powder-lawsuit-cost":337,"camp-lejeune-lawsuit-cost":337,"federal-criminal-defense-lawyer-cost":425,"white-collar-crime-lawyer-cost":425,"drug-trafficking-lawyer-cost":425,"how-much-does-a-lawsuit-cost":349,"contingency-fee-lawyer-finder":337};
 
   const stateMultipliers = {"california":1.21,"texas":1.05,"florida":1.01,"new-york":1.22,"illinois":1,"pennsylvania":0.89,"ohio":0.79,"georgia":1.06,"north-carolina":0.91,"michigan":0.85};
 
@@ -172,6 +172,39 @@
           ? '<p>' + record.note + '</p>'
           : '<p>This is a planning band for the featured state-guide market, not a court-certified quote. Always verify with the local court clerk before filing.</p>';
         document.getElementById('small-claims-filing-fee-calculator-result').innerHTML = '<h3>Estimated filing-fee band</h3><p><strong>' + money(low) + ' to ' + money(high) + '</strong></p>' + detail;
+      });
+    }
+
+    const mesotheliomaButton = document.querySelector('[data-calc-action="mesothelioma-settlement-calculator"]');
+    if (mesotheliomaButton) {
+      mesotheliomaButton.addEventListener('click', () => {
+        const diagnosis = Number(document.getElementById('ms-diagnosis').value || 1);
+        const state = document.getElementById('ms-state').value;
+        const history = Number(document.getElementById('ms-history').value || 1);
+        const track = Number(document.getElementById('ms-track').value || 1);
+        const stateFactor = stateMultipliers[state] || 1;
+        const base = 1200000;
+        const midpoint = base * diagnosis * history * track * (0.92 + stateFactor * 0.18);
+        const low = midpoint * 0.78;
+        const high = midpoint * 1.22;
+        document.getElementById('mesothelioma-settlement-calculator-result').innerHTML =
+          '<h3>Estimated mesothelioma claim planning range</h3><p><strong>' + money(low) + ' to ' + money(high) + '</strong></p><p>This estimate reflects the diagnosis profile, a state-market proxy, and whether the facts suggest trust-claim-only handling or a broader civil-plus-trust strategy. It does not account for product-specific trust percentages, liens, or unusual venue leverage.</p>';
+      });
+    }
+
+    const personalInjurySettlementButton = document.querySelector('[data-calc-action="personal-injury-settlement-calculator"]');
+    if (personalInjurySettlementButton) {
+      personalInjurySettlementButton.addEventListener('click', () => {
+        const type = Number(document.getElementById('pi-type').value || 1);
+        const severity = Number(document.getElementById('pi-severity').value || 1);
+        const medical = Number(document.getElementById('pi-medical').value || 0);
+        const wages = Number(document.getElementById('pi-wages').value || 0);
+        const specials = medical + wages;
+        const midpoint = Math.max(25000, specials * (1.6 + type * 0.7) * severity);
+        const low = midpoint * 0.72;
+        const high = midpoint * 1.28;
+        document.getElementById('personal-injury-settlement-calculator-result').innerHTML =
+          '<h3>Estimated personal injury settlement band</h3><p><strong>' + money(low) + ' to ' + money(high) + '</strong></p><p>The formula starts with economic damages and then applies severity and injury-type multipliers to approximate pain, suffering, impairment, and future-risk value. Liability disputes, policy limits, and liens can still move the real outcome sharply.</p>';
       });
     }
   });
