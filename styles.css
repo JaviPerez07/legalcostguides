@@ -179,6 +179,21 @@ p,li{font-size:1rem}
   font-size: 12px;
   color: #666;
 }
+.editorial-block{
+  border:1px solid var(--line);
+  border-radius:8px;
+  padding:1rem;
+  background:#f8fafc;
+  margin:1rem 0 1.25rem;
+}
+.editorial-block strong{
+  display:block;
+  color:var(--navy);
+  margin-bottom:.35rem;
+}
+.editorial-block p{
+  margin:.35rem 0 0;
+}
 .editorial-note {
   background: #fffbf0;
   border: 1px solid #f0d080;

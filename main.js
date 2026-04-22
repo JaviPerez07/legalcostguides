@@ -107,7 +107,7 @@
             document.getElementById('contact-message').value
           ].join('\n')
         });
-        window.location.href = 'mailto:focuslocalaiagency@gmail.com?' + params.toString();
+        window.location.href = 'mailto:javiperezguides@gmail.com?' + params.toString();
       });
     }
 
