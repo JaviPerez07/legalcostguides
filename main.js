@@ -209,3 +209,20 @@
     }
   });
 })();
+/* === Cookie Consent (Google Consent Mode v2 update logic) === */
+(function(){
+  function setConsent(granted){
+    var consent=granted?{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'}:{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied'};
+    if(typeof gtag==='function'){gtag('consent','update',consent);}
+    try{localStorage.setItem('lcg_consent',JSON.stringify(consent));localStorage.setItem('lcg_consent_ts',String(Date.now()));}catch(e){}
+    var b=document.getElementById('lcg-consent-banner');if(b){b.hidden=true;}
+  }
+  document.addEventListener('DOMContentLoaded',function(){
+    var b=document.getElementById('lcg-consent-banner');if(!b){return;}
+    var stored=null;try{stored=localStorage.getItem('lcg_consent');}catch(e){}
+    if(!stored){b.hidden=false;}
+    var a=document.getElementById('lcg-consent-accept');var r=document.getElementById('lcg-consent-reject');
+    if(a){a.addEventListener('click',function(){setConsent(true);});}
+    if(r){r.addEventListener('click',function(){setConsent(false);});}
+  });
+})();

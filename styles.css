@@ -266,3 +266,16 @@ textarea{resize:vertical}
   .article-content h1{font-size:2rem}
   .data-table{min-width:560px}
 }
+/* === Cookie Consent Banner (Google Consent Mode v2 frontend) === */
+#lcg-consent-banner{position:fixed;left:0;right:0;bottom:0;z-index:9999;background:#0d182e;color:#e2e8f0;border-top:3px solid #f59e0b;box-shadow:0 -4px 24px rgba(0,0,0,.35);font-size:.92rem;line-height:1.5}
+#lcg-consent-banner .lcg-consent-inner{max-width:1100px;margin:0 auto;padding:1rem 1.25rem;display:flex;flex-wrap:wrap;align-items:center;gap:1rem;justify-content:space-between}
+#lcg-consent-banner p{margin:0}
+#lcg-consent-banner a{color:#fbbf24;text-decoration:underline}
+#lcg-consent-banner .lcg-consent-text{flex:1 1 320px;min-width:240px}
+#lcg-consent-banner .lcg-consent-actions{display:flex;gap:.5rem;flex-wrap:wrap}
+#lcg-consent-banner button{padding:.55rem 1rem;border-radius:6px;font-weight:600;border:0;cursor:pointer;font-size:.92rem}
+#lcg-consent-banner #lcg-consent-accept{background:#f59e0b;color:#0d182e}
+#lcg-consent-banner #lcg-consent-accept:hover{background:#fbbf24}
+#lcg-consent-banner #lcg-consent-reject{background:transparent;color:#e2e8f0;border:1px solid #475569}
+#lcg-consent-banner #lcg-consent-reject:hover{background:#1e293b;border-color:#94a3b8}
+#lcg-consent-banner[hidden]{display:none}
