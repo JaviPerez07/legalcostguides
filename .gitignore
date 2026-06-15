@@ -20,3 +20,7 @@ npm-debug.log
 
 # Build
 .cache/
+
+# Informes de trabajo (no deploy)
+cleanup-report-legalcostguides-jun.md
+seo-report-bloque2-legalcostguides.md
