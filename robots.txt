@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /reports/
 Disallow: /*?q=*
 Disallow: /*?s=*
 Sitemap: https://legalcostguides.com/sitemap.xml
