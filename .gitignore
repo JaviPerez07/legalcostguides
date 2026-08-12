@@ -24,3 +24,15 @@ npm-debug.log
 # Informes de trabajo (no deploy)
 cleanup-report-legalcostguides-jun.md
 seo-report-bloque2-legalcostguides.md
+
+# Archivos de trabajo/auditoria (no deploy)
+adsense-audit-*
+adsense-fix-*
+audit-*
+bloque1-report.md
+date-conflicts-list.txt
+doorway_*.py
+seo-technical-*
+tanda*-verified-data.json
+master-plan-*.md
+PROMPT-MAESTRO-*.md
