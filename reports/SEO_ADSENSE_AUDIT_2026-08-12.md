@@ -459,3 +459,11 @@ nuevo — son el único cambio que les afecta y es trivialmente reversible con
 | `reports/gsc_cannibalization.csv` | 82 consultas con ≥2 URLs |
 | `reports/truth_and_source_audit.csv` | 66 afirmaciones: 12 corregidas, 20 verificadas, 34 no verificables |
 | `reports/legal_lead_generation_plan.md` | Plan de monetización. **Nada activado** |
+
+**Aviso:** Cloudflare Pages despliega todo el repositorio, así que estos
+informes habrían quedado accesibles en `legalcostguides.com/reports/`. Commit
+`38f4d36` lo impide: `_redirects` devuelve 404 para `/reports/*` (sin usar
+reglas 200) y `robots.txt` añade `Disallow: /reports/`. Los ficheros siguen
+versionados en git.
+
+**La rama no se ha subido.** Queda en local a la espera de tu confirmación.
