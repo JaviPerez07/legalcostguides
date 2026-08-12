@@ -36,3 +36,9 @@ seo-technical-*
 tanda*-verified-data.json
 master-plan-*.md
 PROMPT-MAESTRO-*.md
+
+# Informes internos de auditoria: NO deben desplegarse.
+# Cloudflare Pages sirve todo el repositorio y da prioridad al fichero estatico
+# sobre las reglas de _redirects, asi que /reports/*.md quedaba accesible.
+# Se versionan en la rama legalcostguides-adsense-seo-geo-final-2026-08-12.
+reports/
