@@ -2,8 +2,9 @@
   --navy:#1B2A4A;
   --navy-2:#24385f;
   --gold:#C9A84C;
+  --gold-text:#8A6F1F;  /* solo texto: 4.80:1 sobre blanco (WCAG AA) */
   --ink:#192432;
-  --muted:#64748b;
+  --muted:#556070;  /* 5.93:1 sobre #f4f7fb (WCAG AA) */
   --line:#d8e0ea;
   --bg:#f4f7fb;
   --card:#ffffff;
@@ -48,7 +49,7 @@ p,li{font-size:1rem}
   color:#fff;display:grid;place-items:center;font-size:.9rem;letter-spacing:0;
 }
 .logo-text{font-size:1.08rem;color:var(--navy)}
-.logo-text span{color:var(--gold)}
+.logo-text span{color:var(--gold-text)}
 .nav-desktop{display:flex;align-items:center;gap:1.3rem;font-weight:600}
 .nav-desktop>a,.nav-trigger{font:inherit;color:var(--ink);background:none;border:0;padding:0;cursor:pointer}
 .nav-dropdown{position:relative}
@@ -103,7 +104,7 @@ p,li{font-size:1rem}
 .article-content h2{font-size:1.6rem;line-height:1.2;margin:2.1rem 0 .85rem;color:var(--navy)}
 .article-content h3{font-size:1.15rem;line-height:1.3;margin:1.4rem 0 .6rem}
 .article-meta{display:flex;flex-wrap:wrap;gap:.85rem;color:var(--muted);font-size:.94rem;margin-bottom:1.1rem}
-.eyebrow{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--gold);font-weight:800}
+.eyebrow{font-size:.78rem;text-transform:uppercase;letter-spacing:.08em;color:var(--gold-text);font-weight:800}
 .hero-eyebrow{color:#f9df95}
 .disclaimer-banner{
   padding:1rem 1rem;border-left:4px solid var(--gold);background:#fff8e7;border-radius:0 8px 8px 0;margin:1.2rem 0 1.5rem
@@ -279,3 +280,20 @@ textarea{resize:vertical}
 #lcg-consent-banner #lcg-consent-reject{background:transparent;color:#e2e8f0;border:1px solid #475569}
 #lcg-consent-banner #lcg-consent-reject:hover{background:#1e293b;border-color:#94a3b8}
 #lcg-consent-banner[hidden]{display:none}
+
+/* Accesibilidad: los enlaces dentro del texto no pueden distinguirse solo por color
+   (WCAG 1.4.1). Se subrayan en el contenido editorial; la navegacion, las tarjetas
+   y los botones quedan excluidos porque su forma ya los identifica. */
+.article-content p a,
+.article-content li a,
+.estimate-note a,
+.editorial-byline a,
+.footer-disclaimer a{
+  text-decoration:underline;
+  text-underline-offset:2px;
+  text-decoration-thickness:1px;
+}
+.article-content p a:hover,
+.article-content li a:hover,
+.estimate-note a:hover,
+.editorial-byline a:hover{ text-decoration-thickness:2px; }
