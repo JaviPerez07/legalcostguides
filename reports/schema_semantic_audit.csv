@@ -1,0 +1,292 @@
+url,schema_type,types_before_a3a8187,types_after,verdict,note
+/about,AboutPage,"Article,BreadcrumbList,FAQPage","AboutPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/about,BreadcrumbList,"Article,BreadcrumbList,FAQPage","AboutPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/authors/javi-perez/,@graph,"@graph,BreadcrumbList","@graph,BreadcrumbList",OK,ProfilePage + Person del autor real
+/authors/javi-perez/,BreadcrumbList,"@graph,BreadcrumbList","@graph,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/contact,ContactPage,"Article,BreadcrumbList,FAQPage","ContactPage,BreadcrumbList,FAQPage",OK,tipo acorde al proposito real de la pagina
+/contact,BreadcrumbList,"Article,BreadcrumbList,FAQPage","ContactPage,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/contact,FAQPage,"Article,BreadcrumbList,FAQPage","ContactPage,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/disclaimer,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/disclaimer,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/editorial-policy,WebPage,"Article,BreadcrumbList","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/editorial-policy,BreadcrumbList,"Article,BreadcrumbList","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/how-we-research,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,tipo acorde al proposito real de la pagina
+/how-we-research,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/how-we-research,FAQPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/,WebSite,"WebSite,Organization,Article,BreadcrumbList,FAQPage,ItemList","WebSite,Organization,BreadcrumbList,FAQPage,ItemList",OK,"entidad editorial real, sin datos inventados"
+/,Organization,"WebSite,Organization,Article,BreadcrumbList,FAQPage,ItemList","WebSite,Organization,BreadcrumbList,FAQPage,ItemList",OK,"entidad editorial real, sin datos inventados"
+/,BreadcrumbList,"WebSite,Organization,Article,BreadcrumbList,FAQPage,ItemList","WebSite,Organization,BreadcrumbList,FAQPage,ItemList",OK,coincide con breadcrumbs visibles
+/,FAQPage,"WebSite,Organization,Article,BreadcrumbList,FAQPage,ItemList","WebSite,Organization,BreadcrumbList,FAQPage,ItemList",OK,"6 preguntas, todas visibles en la pagina"
+/,ItemList,"WebSite,Organization,Article,BreadcrumbList,FAQPage,ItemList","WebSite,Organization,BreadcrumbList,FAQPage,ItemList",OK,lista real de elementos enlazados en la pagina
+/pages/18-wheeler-accident-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/18-wheeler-accident-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/18-wheeler-accident-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"3 preguntas, todas visibles en la pagina"
+/pages/asbestos-lawsuit-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/asbestos-lawsuit-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/asbestos-lawsuit-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/bankruptcy-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/bankruptcy-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/birth-injury-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/birth-injury-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/birth-injury-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/business-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/business-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/camp-lejeune-lawsuit-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/camp-lejeune-lawsuit-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/can-i-afford-a-lawyer,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/can-i-afford-a-lawyer,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/child-custody-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/child-custody-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/class-action-lawsuit-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/class-action-lawsuit-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/contingency-fee-calculator,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/pages/contingency-fee-calculator,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/contingency-fee-explained,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/contingency-fee-explained,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/contingency-fee-lawyer-finder,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/contingency-fee-lawyer-finder,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/contingency-fee-lawyer-finder,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/criminal-defense-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/criminal-defense-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/divorce-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/divorce-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/drug-trafficking-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/drug-trafficking-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/drug-trafficking-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/dui-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/dui-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/employment-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/employment-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/estate-planning-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/estate-planning-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/federal-criminal-defense-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/federal-criminal-defense-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/federal-criminal-defense-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/hourly-vs-flat-fee-lawyer,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/hourly-vs-flat-fee-lawyer,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/how-much-does-a-lawsuit-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/how-much-does-a-lawsuit-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/how-much-does-a-lawsuit-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/how-much-does-a-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/how-much-does-a-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/immigration-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/immigration-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/landlord-tenant-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/landlord-tenant-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/lawyer-consultation-fee,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/lawyer-consultation-fee,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/lawyer-cost-calculator,WebPage,"Article,BreadcrumbList,INVALID","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/pages/lawyer-cost-calculator,BreadcrumbList,"Article,BreadcrumbList,INVALID","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/legal-aid-guide,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/legal-aid-guide,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/legal-fee-calculator,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/pages/legal-fee-calculator,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/mediation-cost-guide,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/mediation-cost-guide,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/medical-malpractice-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/medical-malpractice-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/medical-malpractice-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/mesothelioma-lawyer-cost,Article,"Article,BreadcrumbList,INVALID","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/mesothelioma-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,INVALID","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/mesothelioma-lawyer-cost,FAQPage,"Article,BreadcrumbList,INVALID","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/mesothelioma-settlement-calculator,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,tipo acorde al proposito real de la pagina
+/pages/mesothelioma-settlement-calculator,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/mesothelioma-settlement-calculator,FAQPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/motorcycle-accident-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/motorcycle-accident-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/motorcycle-accident-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"3 preguntas, todas visibles en la pagina"
+/pages/notary-cost-guide,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/notary-cost-guide,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/patent-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/patent-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/personal-injury-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/personal-injury-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/personal-injury-settlement-calculator,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,tipo acorde al proposito real de la pagina
+/pages/personal-injury-settlement-calculator,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/personal-injury-settlement-calculator,FAQPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/power-of-attorney-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/power-of-attorney-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/real-estate-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/real-estate-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/roundup-lawsuit-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/roundup-lawsuit-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/small-claims-court-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/small-claims-court-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/small-claims-filing-fee-calculator,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/pages/small-claims-filing-fee-calculator,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/social-security-disability-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/social-security-disability-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/surgical-error-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/surgical-error-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/surgical-error-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/talcum-powder-lawsuit-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/talcum-powder-lawsuit-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/trademark-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/trademark-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/truck-accident-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/truck-accident-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/truck-accident-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"3 preguntas, todas visibles en la pagina"
+/pages/uber-lyft-accident-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/uber-lyft-accident-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/uber-lyft-accident-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"3 preguntas, todas visibles en la pagina"
+/pages/white-collar-crime-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/white-collar-crime-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/pages/white-collar-crime-lawyer-cost,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/pages/will-cost-guide,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/will-cost-guide,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/workers-comp-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/workers-comp-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/pages/wrongful-termination-lawyer-cost,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/pages/wrongful-termination-lawyer-cost,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/privacy-policy,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/privacy-policy,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/sitemap,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/sitemap,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/states/alabama-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/alabama-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/alabama-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"5 preguntas, todas visibles en la pagina"
+/states/alaska-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/alaska-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/alaska-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/arizona-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/arizona-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/arizona-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/arkansas-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/arkansas-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/arkansas-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/california-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/california-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/california-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/colorado-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/colorado-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/colorado-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/connecticut-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/connecticut-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/connecticut-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/delaware-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/delaware-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/delaware-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/florida-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/florida-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/states/georgia-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/georgia-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/states/hawaii-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/hawaii-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/hawaii-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/idaho-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/idaho-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/idaho-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/illinois-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/illinois-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/states/,CollectionPage,"Article,BreadcrumbList,ItemList","CollectionPage,BreadcrumbList,ItemList",OK,tipo acorde al proposito real de la pagina
+/states/,BreadcrumbList,"Article,BreadcrumbList,ItemList","CollectionPage,BreadcrumbList,ItemList",OK,coincide con breadcrumbs visibles
+/states/,ItemList,"Article,BreadcrumbList,ItemList","CollectionPage,BreadcrumbList,ItemList",OK,lista real de elementos enlazados en la pagina
+/states/indiana-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/indiana-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/indiana-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/iowa-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/iowa-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/iowa-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/kansas-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/kansas-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/kansas-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/kentucky-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/kentucky-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/kentucky-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"5 preguntas, todas visibles en la pagina"
+/states/louisiana-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/louisiana-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/louisiana-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"7 preguntas, todas visibles en la pagina"
+/states/maine-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/maine-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/maine-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/maryland-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/maryland-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/maryland-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/massachusetts-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/massachusetts-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/massachusetts-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/michigan-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/michigan-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/states/minnesota-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/minnesota-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/minnesota-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"5 preguntas, todas visibles en la pagina"
+/states/mississippi-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/mississippi-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/mississippi-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/missouri-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/missouri-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/missouri-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"5 preguntas, todas visibles en la pagina"
+/states/montana-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/montana-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/montana-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/nebraska-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/nebraska-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/nebraska-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/nevada-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/nevada-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/nevada-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/new-hampshire-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/new-hampshire-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/new-hampshire-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/new-jersey-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/new-jersey-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/new-jersey-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/new-mexico-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/new-mexico-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/new-mexico-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/new-york-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/new-york-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/new-york-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/north-carolina-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/north-carolina-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/north-carolina-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/north-dakota-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/north-dakota-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/north-dakota-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/ohio-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/ohio-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/states/oklahoma-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/oklahoma-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/oklahoma-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/oregon-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/oregon-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/oregon-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/pennsylvania-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/pennsylvania-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/states/rhode-island-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/rhode-island-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/rhode-island-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/south-carolina-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/south-carolina-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/south-carolina-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/south-dakota-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/south-dakota-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/south-dakota-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"5 preguntas, todas visibles en la pagina"
+/states/tennessee-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/tennessee-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/tennessee-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/texas-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/texas-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList",OK,coincide con breadcrumbs visibles
+/states/utah-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/utah-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/utah-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/vermont-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/vermont-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/vermont-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/virginia-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/virginia-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/virginia-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/washington-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/washington-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/washington-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/west-virginia-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/west-virginia-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/west-virginia-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/wisconsin-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/wisconsin-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/wisconsin-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/states/wyoming-lawyer-costs,Article,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"pagina editorial con autor, cuerpo y fuentes"
+/states/wyoming-lawyer-costs,BreadcrumbList,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,coincide con breadcrumbs visibles
+/states/wyoming-lawyer-costs,FAQPage,"Article,BreadcrumbList,FAQPage","Article,BreadcrumbList,FAQPage",OK,"6 preguntas, todas visibles en la pagina"
+/terms,WebPage,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,tipo acorde al proposito real de la pagina
+/terms,BreadcrumbList,"Article,BreadcrumbList,FAQPage","WebPage,BreadcrumbList",OK,coincide con breadcrumbs visibles
