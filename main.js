@@ -209,20 +209,27 @@
     }
   });
 })();
-/* === Cookie Consent (Google Consent Mode v2 update logic) === */
+/* === Consentimiento ===
+   La fuente de verdad es la CMP certificada de Google (Funding Choices), que
+   carga el script de AdSense y aplica TCF. Aqui NO se decide el consentimiento:
+   solo se ofrece al usuario una via para reabrir el panel de la CMP, tal como
+   pide el propio mensaje ("look for a link at the bottom of this page").
+   El gtag('consent','default', ... 'denied') sigue en el <head>; la CMP emite
+   el 'update' por su cuenta. */
 (function(){
-  function setConsent(granted){
-    var consent=granted?{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'}:{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied'};
-    if(typeof gtag==='function'){gtag('consent','update',consent);}
-    try{localStorage.setItem('lcg_consent',JSON.stringify(consent));localStorage.setItem('lcg_consent_ts',String(Date.now()));}catch(e){}
-    var b=document.getElementById('lcg-consent-banner');if(b){b.hidden=true;}
-  }
   document.addEventListener('DOMContentLoaded',function(){
-    var b=document.getElementById('lcg-consent-banner');if(!b){return;}
-    var stored=null;try{stored=localStorage.getItem('lcg_consent');}catch(e){}
-    if(!stored){b.hidden=false;}
-    var a=document.getElementById('lcg-consent-accept');var r=document.getElementById('lcg-consent-reject');
-    if(a){a.addEventListener('click',function(){setConsent(true);});}
-    if(r){r.addEventListener('click',function(){setConsent(false);});}
+    var btn=document.getElementById('lcg-privacy-choices');
+    if(!btn){return;}
+    function wire(){
+      if(typeof googlefc==='undefined'||typeof googlefc.showRevocationMessage!=='function'){return false;}
+      btn.hidden=false;
+      btn.addEventListener('click',function(){try{googlefc.showRevocationMessage();}catch(e){}});
+      return true;
+    }
+    if(wire()){return;}
+    // La CMP carga de forma asincrona: se reintenta durante unos segundos.
+    var tries=0,t=setInterval(function(){
+      if(wire()||++tries>20){clearInterval(t);}
+    },500);
   });
 })();
