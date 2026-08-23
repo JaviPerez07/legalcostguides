@@ -1,0 +1,691 @@
+{
+ "disclosure_short": "We may earn a commission if you create a document through LawDepot. It does not change what you pay, and it does not affect the cost figures on this page.",
+ "hub_url": "/legal-document-tools",
+ "hub_anchor": "Browse U.S. legal document tools",
+ "pages": {
+  "pages/18-wheeler-accident-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/asbestos-lawsuit-cost.html": {
+   "tier": "C"
+  },
+  "pages/bankruptcy-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/birth-injury-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/business-lawyer-cost.html": {
+   "offer": "llc-operating-agreement",
+   "title": "Formation packages run $500–$2,000 plus state filing fees",
+   "copy": "If your ownership structure is simple and the members agree, the operating agreement itself can be drafted online. Multi-class ownership, investor terms, and buy-sell provisions are where a lawyer earns the fee.",
+   "cta": "Create an Operating Agreement",
+   "anchor": "Draft an LLC Operating Agreement online",
+   "inline_offer": "nda",
+   "inline_anchor": "a standard NDA",
+   "inline_before": "The same logic applies to routine contracts: ",
+   "inline_after": " rarely justifies $750–$5,000 of drafting time, while a negotiated commercial agreement usually does.",
+   "tier": "A"
+  },
+  "pages/camp-lejeune-lawsuit-cost.html": {
+   "tier": "C"
+  },
+  "pages/can-i-afford-a-lawyer.html": {
+   "offer": "talk-to-a-lawyer",
+   "anchor": "an online legal-advice subscription",
+   "before": "When full representation is out of reach, the options are legal aid, limited-scope representation, court self-help centers, and — for a single narrow question — ",
+   "after": ". A subscription is not representation and the provider is not a law firm; if your matter involves a deadline, a hearing, or your liberty, keep looking for a licensed attorney.",
+   "tier": "B"
+  },
+  "pages/child-custody-lawyer-cost.html": {
+   "offer": "power-of-attorney-for-child",
+   "anchor": "a temporary caregiver authorization",
+   "before": "One document people confuse with custody is ",
+   "after": " — it lets a named adult make day-to-day decisions for a child for a limited period. It is not a custody order, it does not survive a contrary court order, and it has no effect on a custody case. Custody itself is decided by a judge.",
+   "tier": "B"
+  },
+  "pages/class-action-lawsuit-cost.html": {
+   "tier": "C"
+  },
+  "pages/contingency-fee-calculator.html": {
+   "tier": "C"
+  },
+  "pages/contingency-fee-explained.html": {
+   "tier": "C"
+  },
+  "pages/contingency-fee-lawyer-finder.html": {
+   "tier": "C"
+  },
+  "pages/criminal-defense-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/divorce-lawyer-cost.html": {
+   "offer": "separation-agreement",
+   "title": "Uncontested cases only",
+   "copy": "If you already agree on property, support, and parenting, putting that agreement in writing before you file is what keeps an uncontested divorce in the low-thousands band. If any of those three is genuinely in dispute, this is not the route.",
+   "cta": "Draft a separation agreement",
+   "anchor": "Put an uncontested agreement in writing before you file",
+   "tier": "A"
+  },
+  "pages/drug-trafficking-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/dui-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/employment-lawyer-cost.html": {
+   "offer": "independent-contractor-agreement",
+   "title": "If you are the employer, not the employee",
+   "copy": "Putting the working relationship in writing is the cheapest item on this page. Nothing here helps with a dispute that has already started — if you are the worker and something has gone wrong, this is attorney territory.",
+   "cta": "Create a contractor agreement",
+   "anchor": "Put a contractor relationship in writing",
+   "inline_offer": "employment-contract",
+   "inline_anchor": "an employment contract",
+   "inline_before": "Employers hiring staff rather than contractors can draft ",
+   "inline_after": " the same way. Neither document is a substitute for advice once a claim, a termination dispute, or a wage complaint is on the table.",
+   "tier": "A"
+  },
+  "pages/estate-planning-lawyer-cost.html": {
+   "offer": "last-will-and-testament",
+   "title": "A full estate plan is more than a will",
+   "copy": "If a simple will is all you need right now, an online template will get you there for a fraction of a flat-fee package. Trust funding, tax planning, and blended-family provisions are not template work.",
+   "cta": "See what a DIY will covers",
+   "anchor": "Create a state-specific Last Will and Testament online",
+   "inline_offer": "living-will",
+   "inline_anchor": "a living will and medical power of attorney",
+   "inline_before": "Advance directives are the other half of a basic plan. Many people who only need a will and ",
+   "inline_after": " can complete both online and keep the attorney budget for the parts that actually need judgment.",
+   "tier": "A"
+  },
+  "pages/federal-criminal-defense-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/hourly-vs-flat-fee-lawyer.html": {
+   "tier": "C"
+  },
+  "pages/how-much-does-a-lawsuit-cost.html": {
+   "tier": "C"
+  },
+  "pages/how-much-does-a-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/immigration-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/landlord-tenant-lawyer-cost.html": {
+   "offer": "residential-lease",
+   "title": "Most landlord–tenant disputes start with a lease that never said enough",
+   "copy": "A written, state-specific lease is the cheapest point in this entire table. It will not resolve a dispute that has already started, but it prevents a large share of them.",
+   "cta": "Start a lease agreement",
+   "anchor": "Create a state-specific Residential Lease Agreement",
+   "inline_offer": "eviction-notice",
+   "inline_anchor": "an eviction notice in your state's required format",
+   "inline_before": "If the relationship has already broken down, ",
+   "inline_after": " is the first procedural step. A contested eviction, a habitability claim, or a fair-housing allegation is attorney work, not template work.",
+   "tier": "A"
+  },
+  "pages/lawyer-consultation-fee.html": {
+   "offer": "talk-to-a-lawyer",
+   "title": "A paid consultation is not the only way to get a question answered",
+   "copy": "Online legal-advice subscriptions price by the month rather than by the hour. LawDepot is not a law firm and a subscription is not representation — but for a single question it can cost less than one paid consult.",
+   "cta": "Compare subscription pricing",
+   "anchor": "Compare a paid consultation with an online legal-advice subscription",
+   "tier": "A"
+  },
+  "pages/lawyer-cost-calculator.html": {
+   "tier": "C"
+  },
+  "pages/legal-aid-guide.html": {
+   "tier": "C"
+  },
+  "pages/legal-fee-calculator.html": {
+   "tier": "C"
+  },
+  "pages/mediation-cost-guide.html": {
+   "offer": "settlement-agreement",
+   "title": "Mediation ends in a written agreement — or it ends in nothing",
+   "copy": "Whatever the parties agree in the session only becomes enforceable once it is written down and signed. For straightforward money or property settlements a template is often enough; anything involving ongoing obligations should be reviewed.",
+   "cta": "Draft the settlement agreement",
+   "anchor": "Turn a mediated agreement into a written document",
+   "tier": "A"
+  },
+  "pages/medical-malpractice-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/mesothelioma-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/mesothelioma-settlement-calculator.html": {
+   "tier": "C"
+  },
+  "pages/motorcycle-accident-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/notary-cost-guide.html": {
+   "offer": "power-of-attorney",
+   "title": "A notary certifies signatures — it does not draft the document",
+   "copy": "Notarization is the last step, not the first. If the document does not exist yet, an online template is usually the cheapest way to produce one before you pay for the notarial act.",
+   "cta": "Create the document first",
+   "anchor": "Draft a state-specific document before you notarize it",
+   "tier": "A"
+  },
+  "pages/patent-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/personal-injury-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/personal-injury-settlement-calculator.html": {
+   "tier": "C"
+  },
+  "pages/power-of-attorney-cost.html": {
+   "offer": "power-of-attorney",
+   "title": "Online form services sit at the $0–$150 end of the table above",
+   "copy": "What you are paying for above that band is attorney review: whether the powers granted match your situation, and whether your state has execution rules a template will not warn you about.",
+   "cta": "Create a Power of Attorney",
+   "anchor": "Build a state-specific Power of Attorney online",
+   "tier": "A"
+  },
+  "pages/real-estate-lawyer-cost.html": {
+   "offer": "real-estate-purchase-agreement",
+   "title": "A contract review costs less when there is already a clean document to review",
+   "copy": "Preparing the purchase agreement yourself narrows the attorney's scope to the part that needs judgment. Closing itself still involves an attorney or a title company in many states.",
+   "cta": "Build a purchase agreement",
+   "anchor": "Prepare a purchase agreement before you pay for a contract review",
+   "inline_offer": "quitclaim-deed",
+   "inline_anchor": "a quitclaim deed",
+   "inline_before": "Simple transfers between family members or into a trust often use ",
+   "inline_after": ", but recording rules and title consequences vary by county — confirm both before you file.",
+   "tier": "A"
+  },
+  "pages/roundup-lawsuit-cost.html": {
+   "tier": "C"
+  },
+  "pages/small-claims-court-cost.html": {
+   "offer": "demand-letter",
+   "title": "Send a written demand before you file",
+   "copy": "Most small claims cases are argued without a lawyer, and a documented written demand often settles the matter outright. If it does not, it is the first thing the court will ask you about.",
+   "cta": "Write a demand letter",
+   "anchor": "Send a documented written demand before you file",
+   "tier": "A"
+  },
+  "pages/small-claims-filing-fee-calculator.html": {
+   "tier": "C"
+  },
+  "pages/social-security-disability-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/surgical-error-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/talcum-powder-lawsuit-cost.html": {
+   "tier": "C"
+  },
+  "pages/trademark-lawyer-cost.html": {
+   "offer": "trademark-registration",
+   "anchor": "a filing service",
+   "before": "Registration paperwork can be prepared through ",
+   "after": " for far less than an attorney-managed filing. What a filing service does not do is clearance searching, likelihood-of-confusion analysis, or responding to an office action — which is where most of the value of a trademark attorney sits.",
+   "tier": "B"
+  },
+  "pages/truck-accident-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/uber-lyft-accident-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/white-collar-crime-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/will-cost-guide.html": {
+   "offer": "last-will-and-testament",
+   "title": "If your estate is straightforward, a will is one of the few legal documents you can safely prepare yourself",
+   "copy": "An online, state-specific will covers the same core decisions the $400–$1,200 attorney-drafted version does. What you do not get is the risk review — so if you have a blended family, minor children, a business interest, or estate-tax exposure, pay the attorney.",
+   "cta": "Start a Last Will online",
+   "anchor": "Create a state-specific Last Will and Testament online",
+   "tier": "A"
+  },
+  "pages/workers-comp-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "pages/wrongful-termination-lawyer-cost.html": {
+   "tier": "C"
+  },
+  "states/alabama-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Alabama"
+  },
+  "states/alaska-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Alaska"
+  },
+  "states/arizona-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Arizona"
+  },
+  "states/arkansas-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Arkansas"
+  },
+  "states/california-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "California"
+  },
+  "states/colorado-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Colorado"
+  },
+  "states/connecticut-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Connecticut"
+  },
+  "states/delaware-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Delaware"
+  },
+  "states/florida-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Florida"
+  },
+  "states/georgia-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Georgia"
+  },
+  "states/hawaii-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Hawaii"
+  },
+  "states/idaho-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Idaho"
+  },
+  "states/illinois-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Illinois"
+  },
+  "states/indiana-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Indiana"
+  },
+  "states/iowa-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Iowa"
+  },
+  "states/kansas-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Kansas"
+  },
+  "states/kentucky-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Kentucky"
+  },
+  "states/louisiana-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Louisiana"
+  },
+  "states/maine-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Maine"
+  },
+  "states/maryland-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Maryland"
+  },
+  "states/massachusetts-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Massachusetts"
+  },
+  "states/michigan-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Michigan"
+  },
+  "states/minnesota-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Minnesota"
+  },
+  "states/mississippi-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Mississippi"
+  },
+  "states/missouri-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Missouri"
+  },
+  "states/montana-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Montana"
+  },
+  "states/nebraska-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Nebraska"
+  },
+  "states/nevada-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Nevada"
+  },
+  "states/new-hampshire-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "New Hampshire"
+  },
+  "states/new-jersey-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "New Jersey"
+  },
+  "states/new-mexico-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "New Mexico"
+  },
+  "states/new-york-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "New York"
+  },
+  "states/north-carolina-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "North Carolina"
+  },
+  "states/north-dakota-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "North Dakota"
+  },
+  "states/ohio-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Ohio"
+  },
+  "states/oklahoma-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Oklahoma"
+  },
+  "states/oregon-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Oregon"
+  },
+  "states/pennsylvania-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Pennsylvania"
+  },
+  "states/rhode-island-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Rhode Island"
+  },
+  "states/south-carolina-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "South Carolina"
+  },
+  "states/south-dakota-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "South Dakota"
+  },
+  "states/tennessee-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Tennessee"
+  },
+  "states/texas-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Texas"
+  },
+  "states/utah-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Utah"
+  },
+  "states/vermont-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Vermont"
+  },
+  "states/virginia-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Virginia"
+  },
+  "states/washington-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Washington"
+  },
+  "states/west-virginia-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "West Virginia"
+  },
+  "states/wisconsin-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Wisconsin"
+  },
+  "states/wyoming-lawyer-costs.html": {
+   "offer": "last-will-and-testament",
+   "anchor": "a state-specific will",
+   "before": "A fourth route is to keep routine paperwork off the attorney's clock entirely. Documents like ",
+   "after": ", a power of attorney, or a residential lease are drafted to your state's rules and are often the lowest-cost line in any legal budget. They are not a substitute for advice once a matter is contested, and nothing here applies to litigation.",
+   "tier": "B",
+   "state": "Wyoming"
+  },
+  "index.html": {
+   "tier": "C"
+  },
+  "states/index.html": {
+   "tier": "C"
+  },
+  "about.html": {
+   "tier": "C"
+  },
+  "contact.html": {
+   "tier": "C"
+  },
+  "disclaimer.html": {
+   "tier": "C"
+  },
+  "editorial-policy.html": {
+   "tier": "C"
+  },
+  "how-we-research.html": {
+   "tier": "C"
+  },
+  "privacy-policy.html": {
+   "tier": "C"
+  },
+  "terms.html": {
+   "tier": "C"
+  },
+  "sitemap.html": {
+   "tier": "C"
+  },
+  "404.html": {
+   "tier": "C"
+  },
+  "authors/javi-perez/index.html": {
+   "tier": "C"
+  }
+ }
+}

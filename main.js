@@ -233,3 +233,130 @@
     },500);
   });
 })();
+
+/* ============================================================
+   LawDepot affiliate: runtime kill switch + measurement.
+   Added 2026-08-23.
+
+   AFFILIATE_LINKS_ENABLED is the emergency switch. Set it to false and
+   deploy: every external LawDepot CTA is removed from the page and no
+   affiliate event is emitted. Internal links to /legal-document-tools and
+   the legal pages are untouched.
+
+   For a build-time removal (the CTA never reaches the HTML at all) run:
+       node tools/build-affiliate.mjs --off
+   ============================================================ */
+(function () {
+  var AFFILIATE_LINKS_ENABLED = true;
+
+  var EXTERNAL_SELECTOR = '.affiliate-box, .affiliate-inline, .affiliate-calc-slot';
+
+  function emit(name, params) {
+    try {
+      if (typeof window.gtag === 'function') { window.gtag('event', name, params); return; }
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push(Object.assign({ event: name }, params));
+    } catch (e) { /* measurement must never break the page */ }
+  }
+
+  function paramsFrom(el) {
+    return {
+      affiliate_provider: el.getAttribute('data-affiliate-provider') || 'lawdepot',
+      affiliate_offer: el.getAttribute('data-affiliate-offer') || '',
+      source_page: el.getAttribute('data-source-page') || location.pathname,
+      placement: el.getAttribute('data-placement') || '',
+      page_tier: el.getAttribute('data-page-tier') || '',
+      destination_country: el.getAttribute('data-destination-country') || 'US'
+    };
+  }
+
+  function removeExternal() {
+    var nodes = document.querySelectorAll(EXTERNAL_SELECTOR);
+    for (var i = 0; i < nodes.length; i++) {
+      if (nodes[i].parentNode) { nodes[i].parentNode.removeChild(nodes[i]); }
+    }
+  }
+
+  function wireCalculatorSlots() {
+    var host = document.getElementById('lcg-affiliate-calc-slots');
+    if (!host) { return; }
+    var caseSelect = document.getElementById('lc-case-type');
+    var button = document.querySelector('[data-calc-action="lawyer-cost-calculator"]');
+    if (!caseSelect || !button) { return; }
+    button.addEventListener('click', function () {
+      var value = (caseSelect.value || '').toLowerCase();
+      var slots = host.querySelectorAll('.affiliate-calc-slot');
+      var shown = null;
+      for (var i = 0; i < slots.length; i++) {
+        var keys = (slots[i].getAttribute('data-case-types') || '').split(',');
+        var match = keys.indexOf(value) !== -1;
+        slots[i].hidden = !match;
+        if (match) { shown = slots[i]; }
+      }
+      var fallback = document.getElementById('lcg-affiliate-calc-fallback');
+      if (fallback) { fallback.hidden = !!shown; }
+      if (shown) { observeOne(shown); }
+    });
+  }
+
+  var seen = typeof WeakSet === 'function' ? new WeakSet() : null;
+  var observer = null;
+
+  function markSeen(el) {
+    if (!seen) { return false; }
+    if (seen.has(el)) { return true; }
+    seen.add(el);
+    return false;
+  }
+
+  function observeOne(el) {
+    if (!observer) { return; }
+    observer.observe(el);
+  }
+
+  function start() {
+    if (!AFFILIATE_LINKS_ENABLED) { removeExternal(); return; }
+
+    var isHub = location.pathname.replace(/\/$/, '') === '/legal-document-tools';
+    if (isHub) {
+      emit('affiliate_hub_view', {
+        affiliate_provider: 'lawdepot',
+        affiliate_offer: '',
+        source_page: '/legal-document-tools',
+        placement: 'legal_document_hub',
+        page_tier: 'HUB',
+        destination_country: 'US'
+      });
+    }
+
+    if ('IntersectionObserver' in window) {
+      observer = new IntersectionObserver(function (entries) {
+        for (var i = 0; i < entries.length; i++) {
+          var entry = entries[i];
+          if (entry.intersectionRatio < 0.5) { continue; }
+          if (markSeen(entry.target)) { observer.unobserve(entry.target); continue; }
+          emit('affiliate_cta_view', paramsFrom(entry.target));
+          observer.unobserve(entry.target);
+        }
+      }, { threshold: [0.5] });
+      var blocks = document.querySelectorAll('.affiliate-box, .affiliate-inline, .hub-offer');
+      for (var i = 0; i < blocks.length; i++) { observer.observe(blocks[i]); }
+    }
+
+    document.addEventListener('click', function (ev) {
+      var link = ev.target && ev.target.closest ? ev.target.closest('a.affiliate-cta, a.affiliate-link') : null;
+      if (!link) { return; }
+      var host = link.closest('[data-affiliate-provider]') || link;
+      var params = paramsFrom(host);
+      emit(isHub ? 'affiliate_hub_offer_click' : 'affiliate_cta_click', params);
+    }, true);
+
+    wireCalculatorSlots();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', start);
+  } else {
+    start();
+  }
+})();

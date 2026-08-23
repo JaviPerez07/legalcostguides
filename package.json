@@ -1,0 +1,17 @@
+{
+  "name": "legalcostguides",
+  "version": "1.1.0",
+  "private": true,
+  "description": "LegalCostGuides — static site. Tooling for the LawDepot affiliate layer.",
+  "type": "module",
+  "scripts": {
+    "affiliate:build": "node tools/build-affiliate.mjs",
+    "affiliate:off": "node tools/build-affiliate.mjs --off",
+    "affiliate:strip": "node tools/build-affiliate.mjs --strip",
+    "pages:build": "node tools/build-new-pages.mjs",
+    "validate": "node tools/validate-affiliate.mjs",
+    "lint": "node --check main.js && node --check sw.js && node -e \"['data/affiliate-offers.json','data/affiliate-page-map.json'].forEach(f=>JSON.parse(require('fs').readFileSync(f,'utf8')));console.log('lint ok')\"",
+    "test": "npm run lint && node tools/check-links.mjs && npm run validate",
+    "build": "npm run affiliate:build && npm run pages:build && npm run test"
+  }
+}
