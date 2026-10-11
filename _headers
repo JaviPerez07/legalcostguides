@@ -2,6 +2,12 @@
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
+/access/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: no-store
+  Referrer-Policy: no-referrer
 
 /sw.js
   Cache-Control: no-cache, no-store, must-revalidate
@@ -9,3 +15,9 @@
 
 /assets/*
   Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=604800
+
+/styles.css
+  Cache-Control: public, max-age=31536000, immutable
+/main.js
+  Cache-Control: public, max-age=31536000, immutable

@@ -1,0 +1,42 @@
+{
+ "slug": "personal-injury-settlement-calculator",
+ "navTitle": "Injury Settlement Net Calculator",
+ "title": "Personal Injury Settlement Calculator: What You Actually Keep",
+ "description": "Enter a settlement offer, fee percentage, costs and liens to see what you would keep. No case-value predictions: just transparent math.",
+ "h1": "Personal injury settlement calculator: what you would keep",
+ "lastReviewed": "2026-10-11",
+ "summary": "This calculator shows how much of a settlement offer would reach you after the lawyer's contingency fee, case costs and medical liens. It does not predict what an injury claim is worth: online \"settlement value\" formulas cannot see the evidence, the insurance limits or the law in your state, so we do not publish one.",
+ "tool": "<form class=\"calc\" id=\"calc-net-offer\" novalidate><div class=\"row\"><label for=\"no-offer\">Settlement offer ($)<input id=\"no-offer\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"500\" value=\"40000\"></label><label for=\"no-pct\">Contingency fee (%)<input id=\"no-pct\" type=\"number\" inputmode=\"decimal\" min=\"0\" max=\"100\" step=\"0.5\" value=\"33.3\"><span class=\"hint\">Use 0 if you have no lawyer</span></label><label for=\"no-costs\">Case costs ($)<input id=\"no-costs\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"100\" value=\"1500\"></label><label for=\"no-liens\">Liens / unpaid bills to repay ($)<input id=\"no-liens\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"100\" value=\"6000\"></label><label for=\"no-med\">Your documented medical bills ($)<input id=\"no-med\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"100\" value=\"9000\"></label><label for=\"no-wages\">Your documented lost wages ($)<input id=\"no-wages\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"100\" value=\"4000\"></label></div><button class=\"calc-button\" type=\"submit\">Show what I'd keep</button><div id=\"no-result\" class=\"calc-out\" aria-live=\"polite\" hidden></div></form>",
+ "body": "<section id=\"why-no-value-estimate\"><h2>Why we don't estimate what your claim is worth</h2><p>Many calculators multiply medical bills by a \"pain and suffering multiplier\" and present the result as a likely settlement. That number is not evidence-based: real outcomes depend on proof of fault, the defendant's insurance limits, comparative-fault rules in your state, the strength of medical evidence, and whether the case goes to trial. A figure that looks precise can push people to reject a reasonable offer or accept a low one. Instead, this tool answers a question you can actually decide on: <em>if I accept this amount, what reaches me?</em></p></section><section id=\"reading-the-result\"><h2>How to read the result</h2><p>Compare what you would keep with your documented losses (medical bills plus lost wages). If the net amount does not cover them, ask your lawyer whether liens can be reduced, whether the costs are itemized and correct, and whether further negotiation is realistic. Medicare, Medicaid and many health plans have repayment rights that must be resolved before you are paid<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>.</p><div class=\"example\"><p><strong>Example:</strong> $40,000 offer \u2212 33.3% fee ($13,320) \u2212 $1,500 costs \u2212 $6,000 liens = $19,180 to you.</p></div></section><section id=\"deadlines\"><h2>Deadlines still apply</h2><p>Settlement talks do not pause the statute of limitations. Each state sets its own deadline for filing an injury lawsuit; see your <a href=\"/states/\">state guide</a> and the <a href=\"/pages/personal-injury-lawyer-cost\">personal injury cost guide</a>.</p></section>",
+ "faq": [
+  {
+   "q": "Is there a formula for personal injury settlements?",
+   "a": "No reliable one. Insurers use their own software and adjusters' judgment, and outcomes depend on evidence, insurance limits and state law. Treat any multiplier-based estimate online as a guess."
+  },
+  {
+   "q": "Do I have to repay my health insurer from a settlement?",
+   "a": "Often yes. Medicare, Medicaid and many health plans have a legal right to be reimbursed from injury recoveries, though the amount can sometimes be negotiated down."
+  },
+  {
+   "q": "Does the lawyer's percentage apply before or after medical liens?",
+   "a": "Usually the fee is calculated on the gross recovery and liens are paid from your share, but read your fee agreement; it must explain how fees and expenses are calculated."
+  }
+ ],
+ "sources": [
+  {
+   "label": "42 CFR \u00a7 411.37 \u2013 Amount of Medicare recovery when a primary payment is made as a result of a judgment or settlement",
+   "publisher": "eCFR",
+   "url": "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-B/part-411/subpart-B/section-411.37",
+   "accessed": "2026-10-11",
+   "note": "How Medicare's recovery from a settlement is calculated"
+  }
+ ],
+ "related": [
+  "personal-injury-lawyer-cost",
+  "contingency-fee-calculator",
+  "contingency-fee-explained",
+  "medical-malpractice-lawyer-cost"
+ ],
+ "product": "none",
+ "lawdepot": []
+}

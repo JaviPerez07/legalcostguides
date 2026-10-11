@@ -1,0 +1,3234 @@
+[
+ {
+  "slug": "alabama",
+  "name": "Alabama",
+  "sc": {
+   "court": "District Court (small claims docket)",
+   "limit": 6000,
+   "limitText": "$6,000",
+   "limitNote": "Raised from $3,000 to $6,000 by Act 2015 (HB232), amending Ala. Code §12-12-31(a).",
+   "feeText": "$52 up to $1,500; $126 for $1,500.01–$3,000; $215 for $3,000.01–$6,000; +$50 per additional plaintiff; +$10 per additional defendant; subpoenas $12 each (Elmore County District Court; other counties differ)",
+   "feeVaries": true,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "Elmore County District Court, Small Claims",
+     "url": "https://elmore.alacourt.gov/small-claims/"
+    },
+    {
+     "label": "Alabama Act 2015 (HB232, enrolled)",
+     "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2015RS/PrintFiles/HB232-Enr.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Fees include local add-ons that vary by county.",
+   "source": null
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (Ala. Code §6-2-38(l))",
+   "source": {
+    "label": "Ala. Code §6-2-38 (Justia)",
+    "url": "https://law.justia.com/codes/alabama/title-6/chapter-2/article-2/section-6-2-38/"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "Alabama State Bar Lawyer Referral Service",
+   "note": "initial 30-minute consult max $50",
+   "url": "https://www.alabar.org/programs/lawyer-referral-service/"
+  },
+  "legalAid": {
+   "name": "AlabamaLegalHelp.org (Legal Services Alabama)",
+   "url": "https://www.alabamalegalhelp.org/"
+  },
+  "selfHelp": "https://judicial-alabama.libguides.com/self-representation"
+ },
+ {
+  "slug": "alaska",
+  "name": "Alaska",
+  "sc": {
+   "court": "District Court (small claims)",
+   "limit": 10000,
+   "limitText": "$10,000",
+   "limitNote": "A larger claim can use small claims only by giving up the amount over $10,000; interest and court costs can be recovered above the maximum.",
+   "feeText": "$50 if the claim is $2,500 or less; $100 if more than $2,500 (Admin. Rule 9(c)(2))",
+   "feeVaries": false,
+   "serviceText": "Out-of-state service is allowed only in some small claims cases.",
+   "sources": [
+    {
+     "label": "Alaska Court System, Form SC-95",
+     "url": "https://public.courts.alaska.gov/web/forms/docs/sc-95.pdf"
+    },
+    {
+     "label": "Alaska Administrative Rule 9",
+     "url": "https://courts.alaska.gov/rules/docs/adm.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": "$250 for filing any civil case (Admin. Rule 9(b)(1)); District Court formal civil case $150 (Admin. Rule 9(c)(1))",
+   "source": {
+    "label": "Alaska Administrative Rule 9",
+    "url": "https://courts.alaska.gov/rules/docs/adm.pdf"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "The court fee schedule (Admin. Rule 9) does not list a divorce or dissolution fee by name; the general $250 civil-case fee may apply.",
+   "source": {
+    "label": "Alaska Administrative Rule 9",
+    "url": "https://courts.alaska.gov/rules/docs/adm.pdf"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (AS 09.10.070(a))",
+   "source": {
+    "label": "AS 09.10.070 (FindLaw)",
+    "url": "https://codes.findlaw.com/ak/title-9-code-of-civil-procedure/ak-st-sect-09-10-070/"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "Alaska Bar Association Fee Arbitration (mediation also offered)",
+   "url": "https://alaskabar.org/for-the-public/fee-arbitration/"
+  },
+  "referral": {
+   "name": "Alaska Lawyer Referral Service (Alaska Bar Association)",
+   "note": "first half-hour max $125",
+   "url": "https://alaskabar.org/for-lawyers/lawyer-referral-service/"
+  },
+  "legalAid": {
+   "name": "Alaska Legal Services Corporation",
+   "url": "https://www.alsc-law.org/"
+  },
+  "selfHelp": "https://courts.alaska.gov/shc/index.htm"
+ },
+ {
+  "slug": "arizona",
+  "name": "Arizona",
+  "sc": {
+   "court": "Justice Court – Small Claims Division",
+   "limit": 5000,
+   "limitText": "$5,000 (exclusive of interest and costs)",
+   "limitNote": "A.R.S. §22-503(A), raised from $3,500 by 2025 SB1022; regular justice court civil cases go up to $10,000.",
+   "feeText": "$30 plaintiff filing; $18 defendant answer (statewide schedule effective Dec 28, 2024; courts may add local fees)",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "A.R.S. §22-503",
+     "url": "https://www.azleg.gov/ars/22/00503.htm"
+    },
+    {
+     "label": "Arizona Courts, Justice Court Filing Fees",
+     "url": "https://www.azcourts.gov/courtfilingfees/Justice-Court-Filing-Fees"
+    },
+    {
+     "label": "Arizona Legislature, SB1022 summary (2025)",
+     "url": "https://www.azleg.gov/legtext/57leg/1R/summary/S.1022JUDE_ASPASSEDHOUSE.DOCX.htm"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": "$252 for a complaint ($222 base + $15 Document Storage + $15 Lengthy Trial Fund), effective Dec 28, 2024; local fees may be added",
+   "source": {
+    "label": "Arizona Courts, Superior Court Filing Fees",
+    "url": "https://www.azcourts.gov/courtfilingfees/Superior-Court-Filing-Fees"
+   }
+  },
+  "divorce": {
+   "feeText": "$261 ($176 base + $15 document storage + $5 spousal maintenance enforcement + $65 Conciliation Court Fund); $196 in counties without a conciliation court",
+   "note": "Effective Dec 28, 2024 under AO 2024-210. Local fees may be added.",
+   "source": {
+    "label": "Arizona Courts, Superior Court Filing Fees",
+    "url": "https://www.azcourts.gov/courtfilingfees/Superior-Court-Filing-Fees"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (A.R.S. §12-542(1))",
+   "source": {
+    "label": "A.R.S. §12-542",
+    "url": "https://www.azleg.gov/ars/12/00542.htm"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "State Bar of Arizona Fee Arbitration Program (free, voluntary, disputes of $1,000 or more, binding if both agree)",
+   "url": "https://azbar.org/for-the-public/bar-provided-services-for-consumers/fee-arbitration/"
+  },
+  "referral": null,
+  "legalAid": {
+   "name": "AZLawHelp.org",
+   "url": "https://www.azlawhelp.org/"
+  },
+  "selfHelp": "https://www.azcourts.gov/selfservicecenter"
+ },
+ {
+  "slug": "arkansas",
+  "name": "Arkansas",
+  "sc": {
+   "court": "District Court – Small Claims Division",
+   "limit": 5000,
+   "limitText": "$5,000",
+   "limitNote": "Collection agencies and businesses that lend money with interest cannot file, several case types (divorce, guardianship, name changes, bankruptcy, real estate title) are excluded, and the case moves to the regular civil docket if the defendant hires a lawyer.",
+   "feeText": "$65 for small claims under $5,000 (+$2.50 summons fee) in Little Rock District Court (Pulaski County); other courts may differ",
+   "feeVaries": true,
+   "serviceText": "In Little Rock, certified mail with restricted delivery is paid directly to USPS, or the Pulaski County Sheriff charges $50; private process servers set their own fees. Service must be made within 120 days.",
+   "sources": [
+    {
+     "label": "Arkansas Law Help, Small Claims Court",
+     "url": "https://a.arlawhelp.org/self-representation/small-claims-court"
+    },
+    {
+     "label": "Little Rock District Court, Small Claims Filing Instructions",
+     "url": "https://www.littlerock.gov/media/23270/civil-small-claims-filing-instructions.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "$150 base uniform fee for initiating a cause of action (Ark. Code §21-6-403(b)(1)); statutory add-ons may make the total higher",
+   "source": {
+    "label": "Ark. Code §21-6-403 (Justia)",
+    "url": "https://law.justia.com/codes/arkansas/title-21/chapter-6/subchapter-4/section-21-6-403/"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Divorce is filed in circuit court, where the $150 base fee under Ark. Code §21-6-403(b)(1) likely applies; the statute does not name divorce, and add-ons may apply.",
+   "source": {
+    "label": "Ark. Code §21-6-403 (Justia)",
+    "url": "https://law.justia.com/codes/arkansas/title-21/chapter-6/subchapter-4/section-21-6-403/"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (Ark. Code §16-56-105(3), the provision applied to negligence and personal injury claims)",
+   "source": {
+    "label": "Ark. Code §16-56-105 (Justia)",
+    "url": "https://law.justia.com/codes/arkansas/title-16/subtitle-5/chapter-56/subchapter-1/section-16-56-105/"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: fees are 25% of indemnity benefits, with an extra $500 cap for appeals to the full commission and $1,000 for appeals to the Court of Appeals or Supreme Court (Ark. Code §11-9-715).",
+   "source": {
+    "label": "Ark. Code §11-9-715 (Justia)",
+    "url": "https://law.justia.com/codes/arkansas/title-11/chapter-9/subchapter-7/section-11-9-715/"
+   }
+  },
+  "feeDispute": null,
+  "referral": null,
+  "legalAid": {
+   "name": "Arkansas Law Help",
+   "url": "https://www.arlawhelp.org/"
+  },
+  "selfHelp": "https://arcourts.gov/public"
+ },
+ {
+  "slug": "california",
+  "name": "California",
+  "sc": {
+   "court": "Superior Court – Small Claims Division",
+   "limit": 12500,
+   "limitText": "$12,500 for individuals; $6,250 for businesses and other entities",
+   "limitNote": null,
+   "feeText": "$30 up to $1,500; $50 for $1,500.01–$5,000; $75 for $5,000.01–$12,500 (natural persons only); $100 if more than 12 small claims were filed in the past 12 months",
+   "feeVaries": false,
+   "serviceText": "Clerk mailing service under CCP §116.340 costs $15 per defendant.",
+   "sources": [
+    {
+     "label": "California Courts Self-Help Guide, Small Claims",
+     "url": "https://selfhelp.courts.ca.gov/small-claims-california"
+    },
+    {
+     "label": "California Courts Self-Help Guide, Plaintiff's Claim",
+     "url": "https://selfhelp.courts.ca.gov/file-form-start-your-small-claims-case-plaintiffs-claim"
+    },
+    {
+     "label": "Judicial Council, Statewide Civil Fee Schedule (eff. 1/1/2026)",
+     "url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": "$435 unlimited civil (over $35,000); $370 limited civil ($10,000–$35,000); $225 limited civil (up to $10,000). Fees vary in Riverside, San Bernardino and San Francisco because of a courthouse construction surcharge.",
+   "source": {
+    "label": "Judicial Council, Statewide Civil Fee Schedule (eff. 1/1/2026)",
+    "url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
+   }
+  },
+  "divorce": {
+   "feeText": "$435 (petition for dissolution, legal separation or nullity)",
+   "note": "Statewide schedule effective 1/1/2026. Higher in Riverside, San Bernardino and San Francisco because of a local surcharge.",
+   "source": {
+    "label": "Judicial Council, Statewide Civil Fee Schedule (eff. 1/1/2026)",
+    "url": "https://courts.ca.gov/system/files/file/statewide-civil-fee-schedule-eff-01012026.pdf"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (Cal. Code Civ. Proc. §335.1)",
+   "source": {
+    "label": "Cal. Code Civ. Proc. §335.1 (Justia)",
+    "url": "https://law.justia.com/codes/california/code-ccp/part-2/title-2/chapter-3/section-335-1/"
+   }
+  },
+  "caps": {
+   "text": "Medical malpractice (MICRA), Bus. & Prof. Code §6146: 25% if settled before a complaint or arbitration demand is filed; 33% after. The attorney may move for a higher fee if the case is tried or arbitrated (amended by AB 35, eff. 1/1/2023).",
+   "source": {
+    "label": "Cal. Bus. & Prof. Code §6146 (FindLaw)",
+    "url": "https://codes.findlaw.com/ca/business-and-professions-code/bpc-sect-6146/"
+   }
+  },
+  "feeDispute": {
+   "name": "State Bar of California Mandatory Fee Arbitration Program",
+   "url": "https://www.calbar.ca.gov/public/concerns-about-attorney/resolving-fee-disputes-your-attorney/frequently-asked-questions-fee-disputes"
+  },
+  "referral": {
+   "name": "State Bar-certified Lawyer Referral Services",
+   "note": "the State Bar certifies independent referral services and links to a directory",
+   "url": "https://www.calbar.ca.gov/public/find-legal-professionals/find-lawyer-referral-service/how-certified-lawyer-referral-service-works"
+  },
+  "legalAid": {
+   "name": "LawHelpCA (Legal Aid Association of California)",
+   "url": "https://www.lawhelpca.org/"
+  },
+  "selfHelp": "https://selfhelp.courts.ca.gov/"
+ },
+ {
+  "slug": "colorado",
+  "name": "Colorado",
+  "sc": {
+   "court": "County Court – Small Claims",
+   "limit": 7500,
+   "limitText": "$7,500 (not including interest or costs)",
+   "limitNote": "You may file for more but can collect only $7,500, and a claim cannot be split.",
+   "feeText": "$31 for claims of $1–$500; $55 for claims of $501–$7,500",
+   "feeVaries": false,
+   "serviceText": "Service must be completed at least 15 days before trial (JDF 250 for each defendant). A fee waiver is available via JDF 205/206.",
+   "sources": [
+    {
+     "label": "Colorado Judicial Branch, Opening a Case",
+     "url": "https://www.coloradojudicial.gov/self-help/opening-case"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "$235 per plaintiff (C.R.S. §13-32-101(1)(d)), plus a $30 equal justice fee on district court civil actions from Jan 1, 2025 (§13-32-101(9))",
+   "source": {
+    "label": "C.R.S. §13-32-101 (FindLaw)",
+    "url": "https://codes.findlaw.com/co/title-13-courts-and-court-procedure/co-rev-st-sect-13-32-101/"
+   }
+  },
+  "divorce": {
+   "feeText": "$230 (petitioner, dissolution/legal separation/invalidity, C.R.S. §13-32-101(1)(a))",
+   "note": "It is unclear whether the $30 equal justice fee also applies to dissolution.",
+   "source": {
+    "label": "C.R.S. §13-32-101 (FindLaw)",
+    "url": "https://codes.findlaw.com/co/title-13-courts-and-court-procedure/co-rev-st-sect-13-32-101/"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (C.R.S. §13-80-102(1)(a)); motor-vehicle torts are excepted and governed by §13-80-101(1)(n)",
+   "source": {
+    "label": "C.R.S. §13-80-102 (FindLaw)",
+    "url": "https://codes.findlaw.com/co/title-13-courts-and-court-procedure/co-rev-st-sect-13-80-102/"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: a contingent fee over 25% of contested benefits is presumed unreasonable (C.R.S. §8-43-403).",
+   "source": {
+    "label": "C.R.S. §8-43-403 (FindLaw)",
+    "url": "https://codes.findlaw.com/co/title-8-labor-and-industry/co-rev-st-sect-8-43-403/"
+   }
+  },
+  "feeDispute": null,
+  "referral": null,
+  "legalAid": {
+   "name": "Colorado Legal Services",
+   "url": "https://www.coloradolegalservices.org/"
+  },
+  "selfHelp": "https://www.coloradojudicial.gov/self-help-resources"
+ },
+ {
+  "slug": "connecticut",
+  "name": "Connecticut",
+  "sc": {
+   "court": "Superior Court – Small Claims",
+   "limit": 5000,
+   "limitText": "$5,000",
+   "limitNote": "Libel and slander are excluded (C.G.S. §51-15(d)); a tenant's security-deposit claim under §47a-21 may be awarded above $5,000.",
+   "feeText": "$95 (counterclaim also $95; motion to transfer to the regular docket $125)",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "C.G.S. §51-15 (FindLaw)",
+     "url": "https://codes.findlaw.com/ct/title-51-courts/ct-gen-st-sect-51-15/"
+    },
+    {
+     "label": "C.G.S. §52-259 (FindLaw)",
+     "url": "https://codes.findlaw.com/ct/title-52-civil-actions/ct-gen-st-sect-52-259/"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": "$360 entry fee; $230 if the sole claim is damages under $2,500; $175 for summary process/landlord-tenant (C.G.S. §52-259(a))",
+   "source": {
+    "label": "C.G.S. §52-259 (FindLaw)",
+    "url": "https://codes.findlaw.com/ct/title-52-civil-actions/ct-gen-st-sect-52-259/"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": null,
+   "source": null
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years from the injury or its discovery, with a 3-year repose from the act or omission (C.G.S. §52-584)",
+   "source": {
+    "label": "C.G.S. §52-584 (FindLaw)",
+    "url": "https://codes.findlaw.com/ct/title-52-civil-actions/ct-gen-st-sect-52-584/"
+   }
+  },
+  "caps": {
+   "text": "C.G.S. §52-251c, for personal injury, wrongful death or property damage claims: 33⅓% of the first $300k, 25% of the next $300k, 20% of the next $300k, 15% of the next $300k, 10% above $1.2M. A written, notarized waiver is allowed for complex cases, but the fee may never exceed 33⅓%.",
+   "source": {
+    "label": "C.G.S. §52-251c (FindLaw)",
+    "url": "https://codes.findlaw.com/ct/title-52-civil-actions/ct-gen-st-sect-52-251c/"
+   }
+  },
+  "feeDispute": {
+   "name": "Connecticut Bar Association Lawyer-Client Fee Dispute Resolution Program (free mediation/arbitration)",
+   "url": "https://www.ctbar.org/public/lawyer-client-fee-dispute-resolution-program"
+  },
+  "referral": {
+   "name": "Find a Lawyer CT (Connecticut Bar Association)",
+   "note": null,
+   "url": "https://www.ctbar.org/public/find-a-lawyer-ct"
+  },
+  "legalAid": {
+   "name": "CTLawHelp.org",
+   "url": "https://ctlawhelp.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "delaware",
+  "name": "Delaware",
+  "sc": {
+   "court": "Justice of the Peace Court (civil)",
+   "limit": 25000,
+   "limitText": "$25,000",
+   "limitNote": "Delaware has no court called 'small claims court'; the Justice of the Peace Court hears debt, trespass, replevin, contract and certain negligence cases of $25,000 or less.",
+   "feeText": "Debt or trespass complaint: $35 under $1,000; $40 for $1,000–$5,000; $45 over $5,000. Landlord/tenant $45; replevin $55; distress for rent $60 (10 Del. C. §9801).",
+   "feeVaries": false,
+   "serviceText": "Alias (second service attempt) $20. The JP Court does not serve out-of-state defendants.",
+   "sources": [
+    {
+     "label": "Delaware JP Court, Jurisdiction",
+     "url": "https://courts.delaware.gov/jpcourt/jurisdiction.aspx"
+    },
+    {
+     "label": "Delaware Courts, JP Court Fees",
+     "url": "https://courts.delaware.gov/help/fees/jpfees.aspx"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": "$200 civil complaint + $10 Court Security Assessment",
+   "source": {
+    "label": "Delaware Superior Court, Fees",
+    "url": "https://courts.delaware.gov/superior/fees.aspx"
+   }
+  },
+  "divorce": {
+   "feeText": "$165 (Family Court civil filing – divorce, subject to $10 Court Security Fee)",
+   "note": "Family Court Schedule of Assessed Costs, effective 7/20/26.",
+   "source": {
+    "label": "Delaware Family Court, Schedule of Assessed Costs",
+    "url": "https://courts.delaware.gov/forms/download.aspx?id=116568"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (10 Del. C. §8119)",
+   "source": {
+    "label": "Delaware Code, Title 10, Chapter 81",
+    "url": "https://delcode.delaware.gov/title10/c081/index.html"
+   }
+  },
+  "caps": {
+   "text": "Medical negligence, 18 Del. C. §6865: 35% of the first $100,000, 25% of the next $100,000, 10% of the remainder. A per diem fee may be elected in writing instead.",
+   "source": {
+    "label": "Delaware Code, 18 Del. C. §6865",
+    "url": "https://delcode.delaware.gov/title18/c068/sc07/index.html"
+   }
+  },
+  "feeDispute": {
+   "name": "Delaware State Bar Association Fee Dispute Committee",
+   "url": "https://www.dsba.org/sections-committees/standing-committees/fee-dispute/"
+  },
+  "referral": {
+   "name": "DSBA Online Lawyer Referral Service",
+   "note": "$35 for initial 30-minute interview",
+   "url": "https://www.dsba.org/online-lawyer-referral-service/"
+  },
+  "legalAid": {
+   "name": "Delaware Legal Help Link",
+   "url": "https://delegalhelplink.org"
+  },
+  "selfHelp": "https://courts.delaware.gov/help/"
+ },
+ {
+  "slug": "florida",
+  "name": "Florida",
+  "sc": {
+   "court": "County Court (Small Claims)",
+   "limit": 8000,
+   "limitText": "$8,000 (exclusive of costs, interest and attorney fees)",
+   "limitNote": "Fla. Sm. Cl. R. 7.010(b).",
+   "feeText": "$50 for claims under $100; $75 for $100–$500; $170 for $500.01–$2,500; $295 for $2,500.01–$15,000 (Fla. Stat. §34.041(1)(a), 2026)",
+   "feeVaries": false,
+   "serviceText": "A sheriff service fee applies separately.",
+   "sources": [
+    {
+     "label": "Florida Small Claims Rules (July 1, 2026)",
+     "url": "https://www-media.floridabar.org/uploads/2026/08/2026_01-JUL-Small-Claims-Rules-7-1-2026-1.pdf"
+    },
+    {
+     "label": "Fla. Stat. §34.041",
+     "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0034/Sections/0034.041.html"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "Up to $395 for up to 5 defendants, +$2.50 per additional defendant (Fla. Stat. §28.241(1)(a)1.a, 2026)",
+   "source": {
+    "label": "Fla. Stat. §28.241",
+    "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.241.html"
+   }
+  },
+  "divorce": {
+   "feeText": "Up to $295 base for chapter 61 cases (Fla. Stat. §28.241(1)(a)1.b)",
+   "note": "This is the statutory base; clerks' actual totals may be higher because of other statutory charges.",
+   "source": {
+    "label": "Fla. Stat. §28.241",
+    "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0028/Sections/0028.241.html"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years for negligence (Fla. Stat. §95.11(5)(a)); medical malpractice is 2 years with a 4-year repose (§95.11(5)(c))",
+   "source": {
+    "label": "Fla. Stat. §95.11",
+    "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/Sections/0095.11.html"
+   }
+  },
+  "caps": {
+   "text": "R. Regulating Fla. Bar 4-1.5(f)(4)(B)(i): fees above these levels are presumed excessive. Before answer: 33⅓% up to $1M, 30% for $1–2M, 20% above $2M. After answer: 40%, 30%, 20%. Liability admitted: 33⅓%, 20%, 15%. Plus 5% if an appeal or postjudgment relief is needed.",
+   "source": {
+    "label": "Rules Regulating The Florida Bar, Chapter 4",
+    "url": "https://www-media.floridabar.org/uploads/2026/10/2027_04-OCT-Chapter-4-RRTFB.pdf"
+   }
+  },
+  "feeDispute": {
+   "name": "The Florida Bar Grievance Mediation and Fee Arbitration Program",
+   "url": "https://www.floridabar.org/public/consumer/pamphlet009/"
+  },
+  "referral": {
+   "name": "The Florida Bar Lawyer Referral Service",
+   "note": "30-minute consult max $25",
+   "url": "https://www.floridabar.org/public/lrs/"
+  },
+  "legalAid": {
+   "name": "FloridaLawHelp.org",
+   "url": "https://www.floridalawhelp.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "georgia",
+  "name": "Georgia",
+  "sc": {
+   "court": "Magistrate Court",
+   "limit": 15000,
+   "limitText": "$15,000",
+   "limitNote": "O.C.G.A. §15-10-2(a)(5): civil claims up to $15,000 where exclusive jurisdiction is not vested in superior court.",
+   "feeText": "Varies by county. O.C.G.A. §15-10-80(a) sets the filing deposit by local court rule, up to $22, covering all costs except service; local add-ons make actual county charges higher.",
+   "feeVaries": true,
+   "serviceText": "The plaintiff pays the actual cost of service per party, capped at the sheriff's service fee (O.C.G.A. §15-10-80(b)).",
+   "sources": [
+    {
+     "label": "O.C.G.A. §15-10-2 (Justia)",
+     "url": "https://law.justia.com/codes/georgia/title-15/chapter-10/article-1/section-15-10-2/"
+    },
+    {
+     "label": "O.C.G.A. §15-10-80 (Justia)",
+     "url": "https://law.justia.com/codes/georgia/title-15/chapter-10/article-5/section-15-10-80/"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county.",
+   "source": null
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (O.C.G.A. §9-3-33); loss of consortium 4 years; injury to reputation 1 year",
+   "source": {
+    "label": "O.C.G.A. §9-3-33 (Justia)",
+    "url": "https://law.justia.com/codes/georgia/title-9/chapter-3/article-2/section-9-3-33/"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: the State Board of Workers' Compensation fee approval form WC-108a (rev. 12/2018) limits percentage fees to 'not to exceed 25%' under O.C.G.A. §34-9-108 and Board Rule 108.",
+   "source": {
+    "label": "State Board of Workers' Compensation, Form WC-108a",
+    "url": "https://sbwc.georgia.gov/media/6776/download"
+   }
+  },
+  "feeDispute": {
+   "name": "State Bar of Georgia Fee Arbitration Program",
+   "url": "https://gabar.org/programs/fee-arbitration"
+  },
+  "referral": null,
+  "legalAid": {
+   "name": "GeorgiaLegalAid.org (Atlanta Legal Aid Society and Georgia Legal Services Program)",
+   "url": "https://www.georgialegalaid.org/"
+  },
+  "selfHelp": "https://georgiacourts.gov/a2j/self-help-resources/"
+ },
+ {
+  "slug": "hawaii",
+  "name": "Hawaii",
+  "sc": {
+   "court": "District Court, Small Claims Division",
+   "limit": 5000,
+   "limitText": "$5,000 (exclusive of interest and costs)",
+   "limitNote": "Residential security-deposit disputes are not tied to the $5,000 cap, a defendant's counterclaim may go up to $40,000, and punitive damages are not available (HRS 633-27).",
+   "feeText": "$35.00 statement of claim (HRS 633-29). Counterclaim/cross-claim/third-party: $10.00. Jury demand deposit: $200. A judge may waive fees for inability to pay.",
+   "feeVaries": false,
+   "serviceText": "Certified/registered mail: plaintiff pays post office fees. Civil process server: service fee plus mileage. Personal service by plaintiff: no cost. Service costs can be added to the judgment.",
+   "sources": [
+    {
+     "label": "Hawaii State Judiciary, Small Claims",
+     "url": "https://www.courts.state.hi.us/self-help/small_claims/small_claims"
+    },
+    {
+     "label": "Hawaii District Court Fee Schedule",
+     "url": "https://www.courts.state.hi.us/docs/docs6/DC_Fees_Final.pdf"
+    },
+    {
+     "label": "Hawaii State Judiciary, Small Claims Brochure",
+     "url": "https://Www.Courts.State.Hi.Us/docs/self_help_docs/small_claims_brochure.pdf"
+    },
+    {
+     "label": "HRS §633-27",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol13_Ch0601-0676/HRS0633/HRS_0633-0027.htm"
+    },
+    {
+     "label": "HRS §633-29",
+     "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol13_Ch0601-0676/HRS0633/HRS_0633-0029.htm"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "$315.00 (Civil Actions/Complaints)",
+   "source": {
+    "label": "Hawaii State Judiciary, Civil Filing Fees",
+    "url": "https://www.courts.state.hi.us/wp-content/uploads/2019/09/Civil-Filing-Fees.pdf"
+   }
+  },
+  "divorce": {
+   "feeText": "$215.00 without minor children; $265.00 with minor children",
+   "note": "Family Court. $215 = $100 filing fee + $65 surcharge + $50 computer system surcharge; with children add a $50 parent education surcharge. Effective 6/17/2022 (Act 91 of 2022). No fee for motions in divorce cases.",
+   "source": {
+    "label": "Hawaii Family Court Fees",
+    "url": "https://Www.Courts.State.Hi.Us/docs/courts_docs/Family_Court_Fees.pdf"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (HRS § 657-7)",
+   "source": {
+    "label": "HRS §657-7",
+    "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol13_Ch0601-0676/HRS0657/HRS_0657-0007.htm"
+   }
+  },
+  "caps": {
+   "text": "No fixed percentage cap. HRS § 607-15.5: in tort actions that reach judgment, plaintiff and defendant attorneys' fees are limited to a reasonable amount approved by the court; in settled tort cases either party may ask the court to review its fees.",
+   "source": {
+    "label": "HRS §607-15.5",
+    "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol13_Ch0601-0676/HRS0607/HRS_0607-0015_0005.htm"
+   }
+  },
+  "feeDispute": {
+   "name": "Hawaii State Bar Association Fee Dispute Program (voluntary, limited scope)",
+   "url": "https://hsba.org/find-a-lawyer/attorney-client-relations"
+  },
+  "referral": {
+   "name": "HSBA Lawyer Referral & Information Service (LRIS)",
+   "note": null,
+   "url": "https://hsba.org/find-a-lawyer"
+  },
+  "legalAid": {
+   "name": "Legal Aid Society of Hawaiʻi",
+   "url": "https://www.legalaidhawaii.org/"
+  },
+  "selfHelp": "https://www.courts.state.hi.us/self-help-resources"
+ },
+ {
+  "slug": "idaho",
+  "name": "Idaho",
+  "sc": {
+   "court": "Magistrate Division of the District Court, Small Claims Department",
+   "limit": 15000,
+   "limitText": "$15,000",
+   "limitNote": "Raised from $5,000 to $15,000 effective 7/1/2026 (Idaho Code § 1-2301, as amended by S1330); punitive and pain-and-suffering damages are not available.",
+   "feeText": "$69 total (single fee, no tiers), per the IRCP Appendix A civil filing fee schedule eff. 7/12/2024 ($33 statutory base under Idaho Code § 1-2303 plus statutory add-ons). Small claims appeal: $81. The schedule predates the 7/1/2026 limit increase; check with the clerk for any newer schedule.",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "Idaho Code § 1-2301",
+     "url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH23/SECT1-2301/"
+    },
+    {
+     "label": "Idaho Legislature, S1330 (2026)",
+     "url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1330/"
+    },
+    {
+     "label": "Idaho Code § 1-2303",
+     "url": "https://legislature.idaho.gov/statutesrules/idstat/Title1/T1CH23/SECT1-2303/"
+    },
+    {
+     "label": "Idaho Supreme Court, IRCP Appendix A Civil Filing Fees",
+     "url": "https://isc.idaho.gov/rules/Appendix-A-Civil-Case-Filing-Fees-071224.pdf"
+    },
+    {
+     "label": "Idaho Court Assistance Office, Small Claims",
+     "url": "https://courtselfhelp.idaho.gov/Forms/claims"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "$221.00 (civil complaint over $10,000 / general civil, fee code AA)",
+   "source": {
+    "label": "Idaho Supreme Court, IRCP Appendix A Civil Filing Fees",
+    "url": "https://isc.idaho.gov/rules/Appendix-A-Civil-Case-Filing-Fees-071224.pdf"
+   }
+  },
+  "divorce": {
+   "feeText": "$207.00",
+   "note": "Same fee with or without minor children (IRCP Appendix A eff. 7/12/2024).",
+   "source": {
+    "label": "Idaho Supreme Court, IRCP Appendix A Civil Filing Fees",
+    "url": "https://isc.idaho.gov/rules/Appendix-A-Civil-Case-Filing-Fees-071224.pdf"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (Idaho Code § 5-219(4))",
+   "source": {
+    "label": "Idaho Code § 5-219",
+    "url": "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH2/SECT5-219/"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: IDAPA 17.01.01.802 presumes reasonable 25% of Available Funds when no hearing on the merits was held; 30% when a hearing was held and briefs were submitted or waived; 15% of total permanent disability payments after 10 years. A higher fee needs clear and convincing proof, and the claimant must sign a disclosure statement.",
+   "source": {
+    "label": "IDAPA 17.01.01 (Idaho Industrial Commission rules)",
+    "url": "https://files.dfm.idaho.gov/dfm-admin-website/rules/current/17/170101.pdf"
+   }
+  },
+  "feeDispute": {
+   "name": "Idaho State Bar Fee Arbitration Program (free to attorney and client)",
+   "url": "https://isb.idaho.gov/bar-counsel/fee-arbitration/"
+  },
+  "referral": {
+   "name": "Idaho State Bar Lawyer Referral Service",
+   "note": null,
+   "url": "https://isb.idaho.gov/lawyer-referral-service/"
+  },
+  "legalAid": {
+   "name": "Idaho Legal Aid Services",
+   "url": "https://www.idaholegalaid.org/"
+  },
+  "selfHelp": "https://courtselfhelp.idaho.gov/"
+ },
+ {
+  "slug": "illinois",
+  "name": "Illinois",
+  "sc": {
+   "court": "Circuit Court (small claims)",
+   "limit": 10000,
+   "limitText": "$10,000 (exclusive of interest and costs)",
+   "limitNote": "Ill. S. Ct. Rule 281.",
+   "feeText": null,
+   "feeVaries": true,
+   "serviceText": "Service by certified mail through the Circuit Clerk (cheaper; clerk fees per party), by sheriff (more expensive; sheriff fees per party), or by special process server with a motion. A fee waiver is available via an Application for Waiver of Court Fees.",
+   "sources": [
+    {
+     "label": "Illinois Supreme Court Rule 281",
+     "url": "https://ilcourtsaudio.blob.core.windows.net/antilles-resources/resources/7e33f8da-3efb-48b2-8c20-1257037e97ec/Rule%20281.pdf"
+    },
+    {
+     "label": "Illinois Courts, How to File and Serve a Small Claims Complaint",
+     "url": "https://www.illinoiscourts.gov/Resources/fc725e38-19e3-4eaf-b7ae-2292402109d0/SMC_HowtoFileandServeaSmallClaimsComplaintandSummons.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "Varies by county, within statutory maximums in 705 ILCS 105/27.1b: Schedule 1 up to $366 (counties of 3,000,000+, i.e., Cook) / $316 (other counties); Schedule 2 up to $357 / $266; Schedule 3 up to $265 / $89; Schedule 4 $0. The Supreme Court assigns case types to schedules.",
+   "source": {
+    "label": "705 ILCS 105/27.1b",
+    "url": "https://ilga.gov/legislation/ilcs/documents/070501050K27.1b.htm"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county under the Clerks of Courts Act fee schedules (705 ILCS 105/27.1b).",
+   "source": {
+    "label": "705 ILCS 105/27.1b",
+    "url": "https://ilga.gov/legislation/ilcs/documents/070501050K27.1b.htm"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (735 ILCS 5/13-202)",
+   "source": {
+    "label": "735 ILCS 5/13-202",
+    "url": "https://www.ilga.gov/legislation/ilcs/fulltext.asp?DocName=073500050K13-202"
+   }
+  },
+  "caps": {
+   "text": "Medical malpractice: total plaintiff contingent fee may not exceed 33 1/3% of all sums recovered (735 ILCS 5/2-1114(a), as amended by P.A. 97-1145). Workers' compensation: fees may not exceed 20% of compensation recovered, with a 364-week PTD basis for death/total/partial disability; the Commission may allow more after a hearing; written contract on Commission forms; no fee on undisputed medical expenses (820 ILCS 305/16a).",
+   "source": {
+    "label": "735 ILCS 5/2-1114",
+    "url": "https://www.ilga.gov/documents/legislation/ilcs/documents/073500050K2-1114.htm"
+   }
+  },
+  "feeDispute": {
+   "name": "Chicago Bar Association Attorney Fee Dispute Assistance (free; covers attorneys practicing in Illinois; hearings in Chicago)",
+   "url": "https://lrs.chicagobar.org/pages/fee-dispute"
+  },
+  "referral": {
+   "name": "ISBA Illinois Lawyer Finder",
+   "note": "phone referral: 30-minute consultation for $25 or less",
+   "url": "https://www.isba.org/public/illinoislawyerfinder"
+  },
+  "legalAid": {
+   "name": "Illinois Legal Aid Online",
+   "url": "https://www.illinoislegalaid.org/get-legal-help"
+  },
+  "selfHelp": "https://www.illinoiscourts.gov/self-help"
+ },
+ {
+  "slug": "indiana",
+  "name": "Indiana",
+  "sc": {
+   "court": "Small claims docket of Circuit/Superior Court (Marion County: Marion County Small Claims Courts)",
+   "limit": 10000,
+   "limitText": "$10,000",
+   "limitNote": "Spencer County lists a $1,500 limit for corporations, which is not confirmed in statute; entities may appear through an owner or employee but waive any claim above the limit (Small Claims Rule 8(C)).",
+   "feeText": "Varies by county. Examples: Shelby County $97 (certified mail) or $125 (with sheriff service); Spencer County $97 for the first defendant plus $10 for each additional defendant.",
+   "feeVaries": true,
+   "serviceText": "Sheriff service is $28 per Indiana serve in Shelby and Spencer Counties, and $28 again for post-judgment service. Certified mail is at the USPS rate. Out-of-state sheriff fees are set by that county.",
+   "sources": [
+    {
+     "label": "Shelby County Small Claims Filing Packet",
+     "url": "https://www.in.gov/counties/shelby/files/superior-court-2/small-claims/Small-Claim-Filing-packet.pdf"
+    },
+    {
+     "label": "Spencer County Clerk, Small Claims",
+     "url": "https://secure.in.gov/counties/spencer/departments/clerks-office/small-claims"
+    },
+    {
+     "label": "Shelby County Clerk, Filing Fee Schedule",
+     "url": "https://www.in.gov/counties/shelby/clerk/filing-fee-schedule"
+    },
+    {
+     "label": "Indiana Small Claims Rule 8",
+     "url": "https://rules.incourts.gov/Content/small-claims/rule8/current.htm"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit/Superior Court",
+   "feeText": "$157.00 for civil plenary/collection/tort in Shelby County (county totals vary slightly) plus $28 sheriff service",
+   "source": {
+    "label": "Shelby County Clerk, Filing Fee Schedule",
+    "url": "https://www.in.gov/counties/shelby/clerk/filing-fee-schedule"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county. For example, Shelby County lists divorce at $177.00 plus $28 sheriff service.",
+   "source": {
+    "label": "Shelby County Clerk, Filing Fee Schedule",
+    "url": "https://www.in.gov/counties/shelby/clerk/filing-fee-schedule"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (IC 34-11-2-4)",
+   "source": {
+    "label": "IC 34-11-2-4 (Justia, 2023 Indiana Code)",
+    "url": "https://law.justia.com/codes/indiana/2023/title-34/article-11/chapter-2/section-34-11-2-4"
+   }
+  },
+  "caps": {
+   "text": "Medical malpractice (IC 34-18-18-1): plaintiff attorney fees are limited to 15% of any recovery from the Patient's Compensation Fund for malpractice before 7/1/2017, and 32% of any recovery under IC 34-18-14-3 for malpractice after 6/30/2017.",
+   "source": {
+    "label": "IC 34-18-18-1 (Justia, 2023 Indiana Code)",
+    "url": "https://law.justia.com/codes/indiana/2023/title-34/article-18/chapter-18/section-34-18-18-1/"
+   }
+  },
+  "feeDispute": {
+   "name": "Indiana State Bar Association Attorney Fee Dispute Resolution (binding arbitration, limited to ISBA members with Indiana offices and their clients)",
+   "url": "https://www.inbar.org/news/300663/New-Attorney-Fee-Dispute-Resolution-Rules-approved.htm"
+  },
+  "referral": {
+   "name": "Local bar association referral services",
+   "note": "The Indiana State Bar runs no direct referral service; local bars such as the Indianapolis Bar Association run their own.",
+   "url": "https://www.in.gov/idoi/medical-malpractice/find-an-attorney"
+  },
+  "legalAid": {
+   "name": "Indiana Legal Help",
+   "url": "https://indianalegalhelp.org/"
+  },
+  "selfHelp": "https://www.in.gov/courts/selfservice/"
+ },
+ {
+  "slug": "iowa",
+  "name": "Iowa",
+  "sc": {
+   "court": "Iowa District Court, small claims",
+   "limit": 6500,
+   "limitText": "$6,500",
+   "limitNote": "Applies to cases filed on or after 7/1/2018 ($5,000 before); eviction (forcible entry and detainer) and mechanic's lien challenges have no dollar cap (Iowa Code § 631.1).",
+   "feeText": "$115 (Iowa Code § 631.6). Small claims appeal: $215.",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "Iowa Code § 631.1",
+     "url": "https://www.legis.iowa.gov/docs/code/631.1.pdf"
+    },
+    {
+     "label": "Iowa Judicial Branch, Civil Court Fees",
+     "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/civil-court-fees/"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Iowa District Court",
+   "feeText": "$215 civil petition, Iowa Code § 602.8105(1)(a); a $5 publication fee may apply in counties over 98,000",
+   "source": {
+    "label": "Iowa Judicial Branch, Civil Court Fees",
+    "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/civil-court-fees/"
+   }
+  },
+  "divorce": {
+   "feeText": "$285",
+   "note": "Iowa Code § 602.8105(1)(b); covers filing and docketing of the decree. Fees were updated for 2026 legislative changes.",
+   "source": {
+    "label": "Iowa Judicial Branch, Civil Court Fees",
+    "url": "https://www.iowacourts.gov/for-the-public/representing-yourself/civil-court-fees/"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (Iowa Code § 614.1(2)); medical malpractice: 2 years from discovery with a 6-year repose (§ 614.1(9))",
+   "source": {
+    "label": "Iowa Code § 614.1",
+    "url": "https://www.legis.iowa.gov/docs/code/614.1.pdf"
+   }
+  },
+  "caps": {
+   "text": "No percentage cap. Iowa Code § 147.138: in personal injury or wrongful death actions against licensed health professionals or hospitals, the court shall determine the reasonableness of any contingent fee arrangement.",
+   "source": {
+    "label": "Iowa Code § 147.138",
+    "url": "https://www.legis.iowa.gov/docs/code/147.138.pdf"
+   }
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "Iowa State Bar Association Find-A-Lawyer",
+   "note": null,
+   "url": "https://www.iowabar.org/?pg=Find-A-LawyerHP"
+  },
+  "legalAid": {
+   "name": "Iowa Legal Aid",
+   "url": "https://www.iowalegalaid.org/"
+  },
+  "selfHelp": "https://www.iowacourts.gov/for-the-public/representing-yourself/"
+ },
+ {
+  "slug": "kansas",
+  "name": "Kansas",
+  "sc": {
+   "court": "District Court (Small Claims Procedure Act, K.S.A. 61-2701 et seq.)",
+   "limit": 10000,
+   "limitText": "$10,000 (exclusive of interest, costs and K.S.A. 60-2610 damages)",
+   "limitNote": "No person may file more than 20 small claims in the same court per calendar year (K.S.A. 61-2704).",
+   "feeText": "Statutory docket fee: $35 if the claim is $500 or less; $55 if over $500 (K.S.A. 61-2704). The judge may waive it for good cause; a surcharge may be added.",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "K.S.A. 61-2703",
+     "url": "https://www.ksrevisor.gov/statutes/chapters/ch61/061_027_0003.html"
+    },
+    {
+     "label": "K.S.A. 61-2704",
+     "url": "https://www.ksrevisor.gov/statutes/chapters/ch61/061_027_0004.html"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "$173 statutory docket fee (K.S.A. 60-2001(a)); a court surcharge may also apply",
+   "source": {
+    "label": "K.S.A. 60-2001",
+    "url": "https://www.ksrevisor.gov/statutes/chapters/ch60/060_020_0001.html"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "K.S.A. 60-2001 sets the general $173 docket fee for district court cases 'except as otherwise provided by law'.",
+   "source": {
+    "label": "K.S.A. 60-2001",
+    "url": "https://www.ksrevisor.gov/statutes/chapters/ch60/060_020_0001.html"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (K.S.A. 60-513(a)(4))",
+   "source": {
+    "label": "K.S.A. 60-513",
+    "url": "https://www.ksrevisor.gov/statutes/chapters/ch60/060_005_0013.html"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: fees capped at 25% of compensation recovered and paid; in death, total and partial disability cases, 25% of the sum due for 415 weeks of permanent total disability (K.S.A. 44-536(a)). Medical malpractice: no percentage cap, but each litigant's attorney fees must be approved by the judge after an evidentiary hearing (K.S.A. 7-121b).",
+   "source": {
+    "label": "K.S.A. 44-536",
+    "url": "https://ksrevisor.gov/statutes/chapters/ch44/044_005_0036.html"
+   }
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "Kansas Bar Association Lawyer Referral Service",
+   "note": "the referral itself is free",
+   "url": "https://ksbar.org/?pg=lrs_public"
+  },
+  "legalAid": {
+   "name": "Kansas Legal Services",
+   "url": "https://www.kansaslegalservices.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "kentucky",
+  "name": "Kentucky",
+  "sc": {
+   "court": "District Court, Small Claims Division",
+   "limit": 2500,
+   "limitText": "$2,500 (exclusive of interest and costs)",
+   "limitNote": "Libel, slander and certain other claims are excluded; filers are limited to 25 claims per calendar year, money lenders, collection agencies and assignees cannot file, and counterclaims over $2,500 transfer to the civil division (KRS 24A.230; Small Claims Handbook, rev. Jan 2025).",
+   "feeText": null,
+   "feeVaries": false,
+   "serviceText": "Under KRS 24A.270, the small claims fee equals the District Court fee for claims of $500 or less, with no sheriff fee or mileage where personal service isn't required. KRS 23A.200(2) lists a $20.00 per-process service fee. Certified mail is prepaid to the Circuit Court Clerk; sheriff fees are paid directly to the Sheriff.",
+   "sources": [
+    {
+     "label": "KRS 24A.230",
+     "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39856"
+    },
+    {
+     "label": "KRS 23A.200",
+     "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=20715"
+    },
+    {
+     "label": "Kentucky Court of Justice, Small Claims Handbook",
+     "url": "https://www.kycourts.gov/Legal-Help/Documents/P-6_Small_Claims_Handbook.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Set by Kentucky Supreme Court rule; ask the circuit court clerk.",
+   "source": null
+  },
+  "sol": {
+   "years": 1,
+   "text": "1 year (KRS 413.140(1)(a)). Medical malpractice: 1 year from discovery, 5-year outside limit (KRS 413.140(1)(e) and (2)). Motor vehicle torts: 2 years after the injury, death or last reparation payment, whichever is later (KRS 304.39-230(6)).",
+   "source": {
+    "label": "KRS 413.140",
+    "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=58050"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation (KRS 342.320(2)(b), contracts on or after 7/14/2018): 20% of the first $25,000, 15% of the next $25,000, 10% of the remainder, max $18,000. Contracts 7/14/2000–7/13/2018: 20%/15%/5%, max $12,000. Employer attorney fees max $18,000.",
+   "source": {
+    "label": "KRS 342.320",
+    "url": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=47622"
+   }
+  },
+  "feeDispute": {
+   "name": "Kentucky Bar Association Legal Fee Arbitration (SCR 3.810; voluntary, binding, free)",
+   "url": "https://kybar.org/For-Public/Dispute-Resolution"
+  },
+  "referral": {
+   "name": "Local lawyer referral services listed by the Kentucky Bar Association",
+   "note": "No statewide service; local options are Central KY LRS, Kentucky LRS (Louisville) and Northern KY Bar.",
+   "url": "https://kybar.org/For-Public/Lawyer-Referral-Services"
+  },
+  "legalAid": {
+   "name": "KY Justice (kyjustice.org)",
+   "url": "https://www.kyjustice.org/"
+  },
+  "selfHelp": "https://www.kycourts.gov/Legal-Help/Pages/default.aspx"
+ },
+ {
+  "slug": "louisiana",
+  "name": "Louisiana",
+  "sc": {
+   "court": "City Court small claims division (and Justice of the Peace courts)",
+   "limit": 5000,
+   "limitText": "$5,000",
+   "limitNote": "Per the Louisiana State Bar Association; confirm the limit with the court.",
+   "feeText": null,
+   "feeVaries": true,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "Louisiana State Bar Association, Court Structure",
+     "url": "https://www.lsba.org/Public/CourtStructure.aspx"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court (parish)",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by parish clerk of court.",
+   "source": null
+  },
+  "sol": {
+   "years": null,
+   "text": null,
+   "source": null
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "LSBA Fee Dispute Arbitration Program (Lawyer Dispute Resolution Program)",
+   "url": "https://www.lsba.org/PracticeManagement/FeeDisputeResolution.aspx"
+  },
+  "referral": {
+   "name": "Local bar referral services listed by the Louisiana State Bar Association",
+   "note": "No statewide service; the LSBA lists the Lafayette Bar.",
+   "url": "https://www.lsba.org/Public/LawyerReferral.aspx"
+  },
+  "legalAid": {
+   "name": "LouisianaLawHelp.org",
+   "url": "https://www.lsba.org/Public/FindLegalHelp/LegalInformation.aspx"
+  },
+  "selfHelp": "https://www.lsba.org/Public/FindLegalHelp/SelfRepresentation.aspx"
+ },
+ {
+  "slug": "maine",
+  "name": "Maine",
+  "sc": {
+   "court": "District Court (small claims)",
+   "limit": 10000,
+   "limitText": "$10,000 (exclusive of interest and costs)",
+   "limitNote": "Raised from $6,000 effective January 1, 2026; not available for real estate title, personal injury claims against a city or town, or consumer debt collection under Title 32 ch. 109-A (14 M.R.S. § 7482).",
+   "feeText": "$70.00 entry of a small claims action (includes $15 Court Management System increase). A.O. JB-05-26, eff. March 9, 2026.",
+   "feeVaries": false,
+   "serviceText": "Optional service of a small claims action: $15.00 per party. Service of a small claims disclosure: $20.00 per party. Sheriff offices set their own fees. Certified mail is paid at the post office.",
+   "sources": [
+    {
+     "label": "14 M.R.S. § 7482",
+     "url": "https://legislature.maine.gov/statutes/14/title14sec7482.html"
+    },
+    {
+     "label": "Maine Judicial Branch, Small Claims",
+     "url": "https://www.courts.maine.gov/help/small-claims/index.html"
+    },
+    {
+     "label": "Maine Judicial Branch, A.O. JB-05-26",
+     "url": "https://www.courts.maine.gov/adminorders/jb-05-26.pdf"
+    },
+    {
+     "label": "Maine Judicial Branch, Small Claims Guide (2026)",
+     "url": "https://www.courts.maine.gov/help/guides/sc-guide-2026.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court (same fee in District Court)",
+   "feeText": "$175.00 general civil or real estate action",
+   "source": {
+    "label": "Maine Judicial Branch, A.O. JB-05-26",
+    "url": "https://www.courts.maine.gov/adminorders/jb-05-26.pdf"
+   }
+  },
+  "divorce": {
+   "feeText": "$120.00",
+   "note": "Listed as 'Entry of a Family Matter Action' in District Court; no separate divorce line and no distinction for children.",
+   "source": {
+    "label": "Maine Judicial Branch, A.O. JB-05-26",
+    "url": "https://www.courts.maine.gov/adminorders/jb-05-26.pdf"
+   }
+  },
+  "sol": {
+   "years": 6,
+   "text": "6 years (14 M.R.S. § 752, general civil limitation; exceptions apply elsewhere, e.g., professional negligence)",
+   "source": {
+    "label": "14 M.R.S. § 752",
+    "url": "https://legislature.maine.gov/statutes/14/title14sec752.html"
+   }
+  },
+  "caps": {
+   "text": "Professional (health care) negligence, 24 M.R.S. § 2961: 33 1/3% of the first $100,000, 25% of the next $100,000, 20% of any amount over $200,000 (costs excluded).",
+   "source": {
+    "label": "24 M.R.S. § 2961",
+    "url": "https://legislature.maine.gov/statutes/24/title24sec2961.html"
+   }
+  },
+  "feeDispute": {
+   "name": "Fee Arbitration Commission, Board of Overseers of the Bar",
+   "url": "https://www.mebaroverseers.org/complaint/fee_disputes.html"
+  },
+  "referral": {
+   "name": "Maine State Bar Association Lawyer Referral Service",
+   "note": "$35 admin fee; first half-hour consultation free",
+   "url": "https://www.mainebar.org/page/LawyerReferralService"
+  },
+  "legalAid": {
+   "name": "Pine Tree Legal Assistance and other Maine legal aid providers",
+   "url": "https://www.courts.maine.gov/help/legal/legal-aid.html"
+  },
+  "selfHelp": "https://www.courts.maine.gov/help/index.html"
+ },
+ {
+  "slug": "maryland",
+  "name": "Maryland",
+  "sc": {
+   "court": "District Court of Maryland (small claims)",
+   "limit": 5000,
+   "limitText": "$5,000 (exclusive of interest, costs and attorney's fees)",
+   "limitNote": "Cts. & Jud. Proc. § 4-405.",
+   "feeText": null,
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "Md. Code, Cts. & Jud. Proc. § 4-405",
+     "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcj&section=4-405&enactments=false"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Set by the State Court Administrator.",
+   "source": null
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (Md. Code, Cts. & Jud. Proc. § 5-101)",
+   "source": {
+    "label": "Md. Code, Cts. & Jud. Proc. § 5-101",
+    "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcj&section=5-101&enactments=false"
+   }
+  },
+  "caps": {
+   "text": "No percentage cap. Medical malpractice (CJP § 3-2A-07(b)): fees may be charged only if approved by the arbitration panel or, once an action is filed, by the court. Workers' compensation (Lab. & Empl. § 9-731): no fee without Commission approval; the Commission may order refunds of excessive fees.",
+   "source": {
+    "label": "Md. Code, Cts. & Jud. Proc. § 3-2A-07",
+    "url": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcj&section=3-2A-07&enactments=false"
+   }
+  },
+  "feeDispute": null,
+  "referral": null,
+  "legalAid": {
+   "name": "Maryland People's Law Library, Legal Services Directory",
+   "url": "https://www.peoples-law.org/"
+  },
+  "selfHelp": "https://mdcourts.gov/html/selfhelpcenters/map.html"
+ },
+ {
+  "slug": "massachusetts",
+  "name": "Massachusetts",
+  "sc": {
+   "court": "Small Claims Session of the District Court, Boston Municipal Court, or Housing Court",
+   "limit": 7000,
+   "limitText": "$7,000",
+   "limitNote": "The $7,000 cap does not apply to motor-vehicle accident property-damage claims, and statutory damages (e.g., consumer protection or some landlord/tenant cases) may exceed it.",
+   "feeText": "$40 (claims of $500 or less); $50 ($501-$2,000); $100 ($2,001-$5,000); $150 ($5,001-$7,000); $150 (motor-vehicle claims above $7,000)",
+   "feeVaries": false,
+   "serviceText": "Service is by court mail. A $7 eFiling service fee applies if filed electronically.",
+   "sources": [
+    {
+     "label": "Mass.gov, File a Small Claim",
+     "url": "https://www.mass.gov/how-to/file-a-small-claim-in-the-boston-municipal-court-district-court-or-housing-court"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": "$240 per plaintiff, plus a $20 security fee (G.L. c.262 §4A) and a $15 surcharge (G.L. c.262 §4C)",
+   "source": {
+    "label": "Mass.gov, Superior Court Filing Fees",
+    "url": "https://mass.gov/info-details/superior-court-filing-fees"
+   }
+  },
+  "divorce": {
+   "feeText": "$200 + $15 surcharge",
+   "note": "Probate and Family Court 'Divorce, Complaint' line; joint petitions (1A) are not listed separately.",
+   "source": {
+    "label": "Mass.gov, Probate and Family Court Filing Fees",
+    "url": "https://www.mass.gov/info-details/probate-and-family-court-filing-fees"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (M.G.L. c.260 §2A)",
+   "source": {
+    "label": "M.G.L. c.260 §2A",
+    "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleV/Chapter260/Section2A"
+   }
+  },
+  "caps": {
+   "text": "Medical malpractice, M.G.L. c.231 §60I: 40% of the first $150,000; 33 1/3% of the next $150,000; 30% of the next $200,000; 25% of any amount over $500,000.",
+   "source": {
+    "label": "M.G.L. c.231 §60I",
+    "url": "https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleII/Chapter231/Section60I"
+   }
+  },
+  "feeDispute": {
+   "name": "Massachusetts Bar Association Fee Arbitration Board",
+   "url": "https://www.massbar.org/public/fee-arbitration-board"
+  },
+  "referral": {
+   "name": "Massachusetts Bar Association Lawyer Referral Service",
+   "note": null,
+   "url": "https://www.massbar.org/public/lawyer-referral-service"
+  },
+  "legalAid": {
+   "name": "MassLegalHelp",
+   "url": "https://www.masslegalhelp.org/"
+  },
+  "selfHelp": "https://www.mass.gov/court-service-centers"
+ },
+ {
+  "slug": "michigan",
+  "name": "Michigan",
+  "sc": {
+   "court": "Small Claims Division of the District Court",
+   "limit": 7000,
+   "limitText": "$7,000",
+   "limitNote": "MCL 600.8401 sets $7,000 from Jan 1, 2024; the limit is scheduled to rise every 3 years.",
+   "feeText": "$30 (claims up to $600); $50 ($600-$1,750); $70 (over $1,750). This is the MCL 600.8420 base of $25/$45/$65 plus the $5 small-claims e-filing system fee under MCL 600.1986(1)(d).",
+   "feeVaries": false,
+   "serviceText": "The plaintiff also pays the cost of serving the documents; no statewide amount is set.",
+   "sources": [
+    {
+     "label": "Michigan Legislature, MCL 600.8401",
+     "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-8401"
+    },
+    {
+     "label": "Michigan Legislature, MCL 600.8420",
+     "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-8420"
+    },
+    {
+     "label": "Michigan Courts, SCAO Form DC 84 Information",
+     "url": "https://www.courts.michigan.gov/49f3ce/siteassets/forms/scao-approved/dc84info.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "$175 total: $150 under MCL 600.2529(1)(a) plus the $25 electronic filing system fee under MCL 600.1986(1)(a)",
+   "source": {
+    "label": "Michigan Legislature, MCL 600.2529",
+    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2529"
+   }
+  },
+  "divorce": {
+   "feeText": "$175 base (no minor children)",
+   "note": "The $150 civil fee plus the $25 e-filing fee. Add $80 where custody or parenting time is decided (MCL 600.2529(1)(d)(i)), or $40 for support only.",
+   "source": {
+    "label": "Michigan Legislature, MCL 600.2529",
+    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-2529"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (MCL 600.5805(2))",
+   "source": {
+    "label": "Michigan Legislature, MCL 600.5805",
+    "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-600-5805"
+   }
+  },
+  "caps": {
+   "text": "MCR 8.121: in personal injury and wrongful death claims, the maximum contingent fee is one-third of the amount recovered (combined for all attorneys).",
+   "source": {
+    "label": "State Bar of Michigan, Ethics Opinion RI-122",
+    "url": "https://www.michbar.org/opinions/ethics/ri-122"
+   }
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "State Bar of Michigan Lawyer Referral Service",
+   "note": null,
+   "url": "https://lrs.michbar.org/"
+  },
+  "legalAid": {
+   "name": "Michigan Legal Help",
+   "url": "https://michiganlegalhelp.org/"
+  },
+  "selfHelp": "https://michiganlegalhelp.org/"
+ },
+ {
+  "slug": "minnesota",
+  "name": "Minnesota",
+  "sc": {
+   "court": "Conciliation Court (District Court)",
+   "limit": 20000,
+   "limitText": "$20,000",
+   "limitNote": "The limit is $4,000 for claims involving a consumer credit transaction, and other exceptions apply (Minn. Stat. 491A.01).",
+   "feeText": "Base fee $65 plus a county law library fee. Examples: Marshall County $75 ($65 + $10); Hennepin County $70.",
+   "feeVaries": true,
+   "serviceText": "The court administrator mails the summons. Certified mail is required for claims over $2,500 (491A.01 subd.3a). In Hennepin County, eFile & eServe adds a $5 processing fee.",
+   "sources": [
+    {
+     "label": "Minn. Stat. 491A.01",
+     "url": "https://www.revisor.mn.gov/statutes/cite/491A.01"
+    },
+    {
+     "label": "Minnesota Judicial Branch, Marshall County Fees",
+     "url": "https://mncourts.gov/_/court-fees/county/Marshall"
+    },
+    {
+     "label": "Minnesota Judicial Branch, Hennepin County Fees",
+     "url": "https://mncourts.gov/find-courts/hennepin/fees"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "Base $310 plus county law library fee (Marshall County $320; Hennepin County $322) for the first paper filed",
+   "source": {
+    "label": "Minnesota Judicial Branch, Marshall County Fees",
+    "url": "https://mncourts.gov/_/court-fees/county/Marshall"
+   }
+  },
+  "divorce": {
+   "feeText": "Varies by county: base $340 + $50 other fee + law library fee (Marshall County $400; Hennepin County $402)",
+   "note": "Same fee with or without children; summary dissolution is the same in Hennepin County.",
+   "source": {
+    "label": "Minnesota Judicial Branch, Marshall County Fees",
+    "url": "https://mncourts.gov/_/court-fees/county/Marshall"
+   }
+  },
+  "sol": {
+   "years": 6,
+   "text": "6 years for general negligence (Minn. Stat. 541.05 subd.1(5)); intentional torts such as battery have shorter periods under 541.07",
+   "source": {
+    "label": "Minn. Stat. 541.05",
+    "url": "https://www.revisor.mn.gov/statutes/cite/541.05"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation, Minn. Stat. 176.081 subd.1: 20% of the first $275,000 of compensation awarded; total fees for the same injury may not exceed $55,000.",
+   "source": {
+    "label": "Minn. Stat. 176.081",
+    "url": "https://www.revisor.mn.gov/statutes/cite/176.081"
+   }
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "MN Find a Lawyer (MSBA directory) and Minnesota Lawyer Referral and Information Service",
+   "note": "The referral service is run by the Hennepin and Ramsey County Bars.",
+   "url": "https://mncourts.gov/help-topics/find-a-lawyer/other-lawyer-referral-resources"
+  },
+  "legalAid": {
+   "name": "LawHelpMN (Minnesota Legal Services Coalition)",
+   "url": "https://www.lawhelpmn.org/"
+  },
+  "selfHelp": "https://mncourts.gov/help-topics/self-help-centers"
+ },
+ {
+  "slug": "mississippi",
+  "name": "Mississippi",
+  "sc": {
+   "court": "Justice Court",
+   "limit": 3500,
+   "limitText": "$3,500",
+   "limitNote": "Miss. Code 9-11-9; 2026 bills to raise the limit to $5,000 (SB 2696, HB 876) did not become law as of the latest check.",
+   "feeText": null,
+   "feeVaries": true,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "Mississippi Judiciary, Justice Court",
+     "url": "https://courts.ms.gov/trialcourts/justicecourt/justicecourt.php"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Filed in Chancery Court. Fees are set by statute plus county assessments.",
+   "source": null
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (Miss. Code Ann. 15-1-49(1))",
+   "source": {
+    "label": "Mississippi Court of Appeals, Clearman v. Pipestone (2023)",
+    "url": "https://courts.ms.gov/appellatecourts/Opinions/CO172611.pdf"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "Fee Dispute Resolution Committee of The Mississippi Bar",
+   "url": "https://www.msbar.org/ethics-discipline/fee-disputes/"
+  },
+  "referral": null,
+  "legalAid": {
+   "name": "MSLegalServices.org (Mississippi Center for Legal Services and North Mississippi Rural Legal Services)",
+   "url": "https://www.mslegalservices.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "missouri",
+  "name": "Missouri",
+  "sc": {
+   "court": "Small Claims Court (Associate Circuit Division of the Circuit Court)",
+   "limit": 5000,
+   "limitText": "$5,000 (exclusive of interest and costs)",
+   "limitNote": "RSMo 482.305.",
+   "feeText": "Statutory base cost under RSMo 488.012.3(7): $5 if under $100 in dispute, $10 otherwise, plus multiple statutory and local surcharges. Contact the county clerk for the total.",
+   "feeVaries": true,
+   "serviceText": "The plaintiff pays the cost of service in advance (RSMo 482.345.2).",
+   "sources": [
+    {
+     "label": "RSMo 482.305",
+     "url": "https://revisor.mo.gov/main/OneSection.aspx?section=482.305"
+    },
+    {
+     "label": "RSMo 482.345",
+     "url": "https://revisor.mo.gov/main/OneSection.aspx?section=482.345"
+    },
+    {
+     "label": "RSMo 488.012",
+     "url": "https://revisor.mo.gov/main/OneSection.aspx?section=488.012"
+    },
+    {
+     "label": "Missouri 13th Circuit, Small Claims Court Handbook",
+     "url": "https://www.courts.mo.gov/hosted/circuit13/forms/Civil/CIVIL_SmallClaimsCourtHandbook.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Base costs plus surcharges vary by circuit/county.",
+   "source": null
+  },
+  "sol": {
+   "years": 5,
+   "text": "5 years (RSMo 516.120(4))",
+   "source": {
+    "label": "RSMo 516.120",
+    "url": "https://revisor.mo.gov/main/OneSection.aspx?section=516.120"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "The Missouri Bar Fee Dispute Resolution Program",
+   "url": "https://mobar.org/dispute_resolution"
+  },
+  "referral": {
+   "name": "The Missouri Bar LawyerSearch",
+   "note": null,
+   "url": "https://mobar.org/public/LawyerSearch.aspx"
+  },
+  "legalAid": {
+   "name": "Legal Services of Missouri (LSMO)",
+   "url": "https://www.lsmo.org/"
+  },
+  "selfHelp": "https://www.courts.mo.gov/page.jsp?id=4092"
+ },
+ {
+  "slug": "montana",
+  "name": "Montana",
+  "sc": {
+   "court": "Small Claims Court (Justice Court)",
+   "limit": 7000,
+   "limitText": "$7,000",
+   "limitNote": "Counterclaims are capped at $6,500, and a party may file no more than 10 claims per calendar year except shoplifting claims (MCA 25-35-502(1); MT DOJ brochure).",
+   "feeText": "$20 plaintiff on filing; $10 defendant on appearing/contesting or counterclaiming (MCA 25-35-608(1))",
+   "feeVaries": false,
+   "serviceText": "A separate fee applies for service of the order.",
+   "sources": [
+    {
+     "label": "MCA 25-35-502",
+     "url": "https://mca.legmt.gov/bills/mca/title_0250/chapter_0350/part_0050/section_0020/0250-0350-0050-0020.html"
+    },
+    {
+     "label": "MCA 25-35-608",
+     "url": "https://mca.legmt.gov/bills/mca/title_0250/chapter_0350/part_0060/section_0080/0250-0350-0060-0080.html"
+    },
+    {
+     "label": "Montana DOJ, Small Claims Court Brochure",
+     "url": "https://dojmt.gov/wp-content/uploads/2025/02/Small-Claims-Court-Brochure_OCP-2.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "$90 base clerk fee from the plaintiff (MCA 25-1-201); other statutory surcharges may apply",
+   "source": {
+    "label": "MCA 25-1-201",
+    "url": "https://mca.legmt.gov/bills/mca/title_0250/chapter_0010/part_0020/section_0010/0250-0010-0020-0010.html"
+   }
+  },
+  "divorce": {
+   "feeText": "$170 base (petition for dissolution, MCA 25-1-201)",
+   "note": "Statutory base clerk fee; other surcharges may apply.",
+   "source": {
+    "label": "MCA 25-1-201",
+    "url": "https://mca.legmt.gov/bills/mca/title_0250/chapter_0010/part_0020/section_0010/0250-0010-0020-0010.html"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (MCA 27-2-204(1)); libel, slander, assault, battery and false imprisonment have a 2-year period (27-2-204(3))",
+   "source": {
+    "label": "MCA 27-2-204",
+    "url": "https://mca.legmt.gov/bills/mca/title_0270/chapter_0020/part_0020/section_0040/0270-0020-0020-0040.html"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation (MCA 39-71-613; ARM 24.29.3802): max 20% of additional compensation if settled without a WC judge or Supreme Court order; 25% if the case goes to hearing before the WC judge or Supreme Court.",
+   "source": {
+    "label": "Montana DLI, Attorney Retainer Agreement form",
+    "url": "https://erd.dli.mt.gov/_docs/work-comp-claims/Attorney-Retainer-Agree.pdf"
+   }
+  },
+  "feeDispute": {
+   "name": "State Bar of Montana Fee Arbitration Program",
+   "url": "https://www.montanabar.org/For-the-Public/Disputing-Attorney-Fees"
+  },
+  "referral": {
+   "name": "Licensed Lawyer Montana (State Bar of Montana)",
+   "note": null,
+   "url": "https://www.licensedlawyer.org/mt"
+  },
+  "legalAid": {
+   "name": "MontanaLawHelp.org (Montana Legal Services Association)",
+   "url": "https://www.montanalawhelp.org/"
+  },
+  "selfHelp": "https://courts.mt.gov/selfhelp/AbouttheProgram/"
+ },
+ {
+  "slug": "nebraska",
+  "name": "Nebraska",
+  "sc": {
+   "court": "Small Claims Court (County Court)",
+   "limit": 7500,
+   "limitText": "$7,500",
+   "limitNote": "Raised from $6,000 on July 1, 2025; a party may file no more than 2 small claims per calendar week and 10 per calendar year (Neb. Rev. Stat. 25-2802(4)).",
+   "feeText": "$6.25 statutory filing fee (Neb. Rev. Stat. 25-2804(2)) plus other statutory fees",
+   "feeVaries": false,
+   "serviceText": "The plaintiff pays the cost of service by certified mail, sheriff or process server; it is added to the judgment (25-2804(3)).",
+   "sources": [
+    {
+     "label": "Neb. Rev. Stat. 25-2802",
+     "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=25-2802"
+    },
+    {
+     "label": "Neb. Rev. Stat. 25-2804",
+     "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=25-2804"
+    },
+    {
+     "label": "Nebraska Judicial Branch, Filing a Small Claims Case",
+     "url": "https://nebraskajudicial.gov/self-help/small-claims/filing-small-claims-case-nebraska"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "$42 docket fee (Neb. Rev. Stat. 33-106(1)) plus multiple statutory add-on fees",
+   "source": {
+    "label": "Neb. Rev. Stat. 33-106",
+    "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=33-106"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": null,
+   "source": null
+  },
+  "sol": {
+   "years": 4,
+   "text": "4 years (Neb. Rev. Stat. 25-207(3)); professional negligence has its own shorter periods",
+   "source": {
+    "label": "Neb. Rev. Stat. 25-207",
+    "url": "https://nebraskalegislature.gov/laws/statutes.php?statute=25-207"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "Nebraska Legal Fee Arbitration Program (Nebraska State Bar Association)",
+   "url": "https://www.nebar.com/?pg=FeeArbitration"
+  },
+  "referral": {
+   "name": "Nebraska Find-A-Lawyer (Nebraska State Bar Association)",
+   "note": null,
+   "url": "https://www.nefindalawyer.com/"
+  },
+  "legalAid": {
+   "name": "Legal Aid of Nebraska",
+   "url": "https://www.legalaidofnebraska.org/"
+  },
+  "selfHelp": "https://nebraskajudicial.gov/self-help"
+ },
+ {
+  "slug": "nevada",
+  "name": "Nevada",
+  "sc": {
+   "court": "Justice Court (Small Claims)",
+   "limit": 10000,
+   "limitText": "$10,000",
+   "limitNote": "NRS 73.010(1).",
+   "feeText": "$45 (claims up to $1,000); $65 ($1,000-$2,500); $85 ($2,500-$5,000); $125 ($5,000-$7,500); $175 ($7,500-$10,000) (NRS 4.060(1)(b))",
+   "feeVaries": false,
+   "serviceText": "Service costs are additional.",
+   "sources": [
+    {
+     "label": "NRS Chapter 73",
+     "url": "https://www.leg.state.nv.us/NRS/NRS-073.html"
+    },
+    {
+     "label": "NRS Chapter 4",
+     "url": "https://www.leg.state.nv.us/NRS/NRS-004.html"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "Varies by county. Mandatory statutory components on commencement: $56 (NRS 19.013) + $99 (NRS 19.0302) + $25 (NRS 19.031, where legal aid is provided). Counties may add optional fees (NRS 19.0303, 19.0312, 19.0313, 19.03135, 19.0315).",
+   "source": {
+    "label": "NRS Chapter 19",
+    "url": "https://www.leg.state.nv.us/NRS/NRS-019.html"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county. Divorce adds $30 (NRS 19.033) and certain ch.125 actions add $14 (NRS 19.031) on top of the district court commencement fees; counties may add up to $6 for the defendant.",
+   "source": {
+    "label": "NRS Chapter 19",
+    "url": "https://www.leg.state.nv.us/NRS/NRS-019.html"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (NRS 11.190(4)(e))",
+   "source": {
+    "label": "NRS Chapter 11",
+    "url": "https://www.leg.state.nv.us/NRS/NRS-011.html"
+   }
+  },
+  "caps": {
+   "text": "NRS 7.095: in professional negligence actions against a provider of health care, the contingent fee may not exceed 35% of the amount recovered, for all forms of recovery (amended 2023 and 2025).",
+   "source": {
+    "label": "NRS Chapter 7",
+    "url": "https://www.leg.state.nv.us/NRS/NRS-007.html"
+   }
+  },
+  "feeDispute": {
+   "name": "State Bar of Nevada Fee Dispute Arbitration Program (disputes of $250 or more)",
+   "url": "https://nvbar.org/disputing-a-lawyers-fee/"
+  },
+  "referral": {
+   "name": "State Bar of Nevada Lawyer Referral Service",
+   "note": null,
+   "url": "https://nvbar.org/for-the-public/find-a-lawyer/lrs/"
+  },
+  "legalAid": {
+   "name": "Nevada Law Help",
+   "url": "https://nevadalawhelp.org/"
+  },
+  "selfHelp": "http://selfhelp.nvcourts.gov/"
+ },
+ {
+  "slug": "new-hampshire",
+  "name": "New Hampshire",
+  "sc": {
+   "court": "Circuit Court - District Division (Small Claims)",
+   "limit": 10000,
+   "limitText": "$10,000 or less",
+   "limitNote": "Effective July 1, 2015 (RSA 503:1).",
+   "feeText": null,
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "New Hampshire Judicial Branch, Small Claims",
+     "url": "https://www.courts.nh.gov/our-courts/circuit-court/district-division/small-claims"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Filed in Circuit Court - Family Division.",
+   "source": null
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (RSA 508:4, I)",
+   "source": {
+    "label": "RSA 508:4",
+    "url": "https://gc.nh.gov/rsa/html/LII/508/508-4.htm"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "New Hampshire Bar Association Dispute Resolution Committee (voluntary)",
+   "url": "https://www.nhbar.org/dispute-with-an-attorney/"
+  },
+  "referral": {
+   "name": "New Hampshire Bar Association Lawyer Referral Service",
+   "note": "full-fee and Modest Means programs",
+   "url": "https://www.nhbar.org/lawyer-referral-service"
+  },
+  "legalAid": null,
+  "selfHelp": null
+ },
+ {
+  "slug": "new-jersey",
+  "name": "New Jersey",
+  "sc": {
+   "court": "Superior Court, Law Division, Special Civil Part - Small Claims Section",
+   "limit": null,
+   "limitText": null,
+   "limitNote": null,
+   "feeText": null,
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": []
+  },
+  "civil": {
+   "court": "Superior Court, Law Division",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Filed in Superior Court, Chancery Division, Family Part.",
+   "source": null
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (N.J.S.A. 2A:14-2(a))",
+   "source": {
+    "label": "New Jersey Legislature, P.L.2019, c.120",
+    "url": "https://pub.njleg.gov/bills/2018/PL19/120_.HTM"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "County bar association lawyer referral services",
+   "note": "No single statewide service; NJSBA directs the public to the county bar.",
+   "url": "https://njsba.com/county-bar-associations-for-the-public/"
+  },
+  "legalAid": {
+   "name": "Legal Services of New Jersey (Statewide Legal Assistance Hotline 1-888-576-5529)",
+   "url": "https://www.lsnjlaw.org/"
+  },
+  "selfHelp": "https://www.njcourts.gov/self-help"
+ },
+ {
+  "slug": "new-mexico",
+  "name": "New Mexico",
+  "sc": {
+   "court": "Magistrate Court (Bernalillo County: Metropolitan Court); no separate small claims court",
+   "limit": 10000,
+   "limitText": "$10,000",
+   "limitNote": "Magistrate and Metropolitan Courts hear tort, contract and landlord/tenant cases up to $10,000.",
+   "feeText": "$77 civil complaint (Bernalillo County Metropolitan Court and Dona Ana County Magistrate Court)",
+   "feeVaries": false,
+   "serviceText": "Service by sheriff, private process server or adult non-party at the plaintiff's expense.",
+   "sources": [
+    {
+     "label": "Bernalillo County Metropolitan Court, Fees",
+     "url": "https://metro.nmcourts.gov/about-this-court/fees-costs-filing/"
+    },
+    {
+     "label": "NM Courts, How to File a Civil Lawsuit",
+     "url": "https://nmcourts.gov/wp-content/uploads/sites/22/2023/11/How-to-File-a-Civil-Lawsuit-7_10_2023.pdf"
+    },
+    {
+     "label": "New Mexico Courts",
+     "url": "https://www.nmcourts.gov/"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "$132.00 (civil and probate cases)",
+   "source": {
+    "label": "NM 13th Judicial District Court, Fees",
+    "url": "https://thirteenthdistrict.nmcourts.gov/fees-costs-filing/?lang=en"
+   }
+  },
+  "divorce": {
+   "feeText": "$137.00",
+   "note": "Fee for new/reopened domestic relations cases at the 4th and 13th Judicial District Courts; check with your local district court.",
+   "source": {
+    "label": "NM 4th Judicial District Court, Fees",
+    "url": "https://fourthdistrict.nmcourts.gov/about-this-district/fees-costs-filing"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years for injury to the person or reputation (NMSA 1978, § 37-1-8)",
+   "source": {
+    "label": "New Mexico Legislature, 2012 SB 324 (quoting NMSA § 37-1-8)",
+    "url": "https://www.nmlegis.gov/sessions/12%20Regular/bills/senate/SB0324JUS.HTML"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: attorney fee cap $22,500 per claim (NMSA 1978, § 52-1-54).",
+   "source": {
+    "label": "New Mexico Workers' Compensation Administration",
+    "url": "https://workerscomp.nm.gov/node/93"
+   }
+  },
+  "feeDispute": {
+   "name": "State Bar of New Mexico Fee Arbitration Program",
+   "url": "https://www.sbnm.org/FeeArbitration"
+  },
+  "referral": {
+   "name": "State Bar of New Mexico Modest Means Helpline",
+   "note": "pro bono referral",
+   "url": "https://www.sbnm.org/For-Public/Modest-Means-Helpline"
+  },
+  "legalAid": {
+   "name": "LawHelp NM (New Mexico Legal Aid)",
+   "url": "https://www.lawhelpnewmexico.org/"
+  },
+  "selfHelp": "https://selfrepresentation.nmcourts.gov/"
+ },
+ {
+  "slug": "new-york",
+  "name": "New York",
+  "sc": {
+   "court": "Small Claims Part of NYC Civil Court; City Courts outside NYC; Town and Village Justice Courts",
+   "limit": 10000,
+   "limitText": "$10,000 in NYC Civil Court; $5,000 in City Courts outside NYC; $3,000 in Town and Village Justice Courts (excluding interest and costs)",
+   "limitNote": "Corporations, partnerships and associations cannot use small claims and must use Commercial Claims, which has the same dollar maximum (CCA §1801-A).",
+   "feeText": "NYC Civil Court and City Courts: $15 for claims of $1,000 or less, $20 for claims over $1,000. Town/Village Courts: $10 for claims of $1,000 or less, $15 for claims over $1,000. Counterclaim: $5 (NYC).",
+   "feeVaries": false,
+   "serviceText": "The clerk sends notice by first-class and certified mail; mailing costs are included in or added to the filing fee by statute.",
+   "sources": [
+    {
+     "label": "NY CCA §1801",
+     "url": "https://www.nysenate.gov/legislation/laws/CCA/1801"
+    },
+    {
+     "label": "NY CCA §1803",
+     "url": "https://www.nysenate.gov/legislation/laws/CCA/1803"
+    },
+    {
+     "label": "NY UCCA §1801",
+     "url": "https://www.nysenate.gov/legislation/laws/UCT/1801"
+    },
+    {
+     "label": "NY UCCA §1803",
+     "url": "https://www.nysenate.gov/legislation/laws/UCT/1803"
+    },
+    {
+     "label": "NY UJCA §1801",
+     "url": "https://www.nysenate.gov/legislation/laws/UJC/1801"
+    },
+    {
+     "label": "NY UJCA §1803",
+     "url": "https://www.nysenate.gov/legislation/laws/UJC/1803"
+    },
+    {
+     "label": "NY CCA §1801-A",
+     "url": "https://www.nysenate.gov/legislation/laws/CCA/1801-A"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Supreme Court (county clerk)",
+   "feeText": "$210 index number fee ($190 under CPLR 8018(a)(1) plus $5 and $15 under 8018(a)(3)). RJI ($95) and note of issue fees under CPLR 8020 are extra.",
+   "source": {
+    "label": "NY CPLR 8018",
+    "url": "https://www.nysenate.gov/legislation/laws/CVP/8018"
+   }
+  },
+  "divorce": {
+   "feeText": "$210 index number fee plus $95 RJI (CPLR 8020) plus note-of-issue/calendar fee",
+   "note": "Divorce is filed in Supreme Court. CPLR 8020 lists $125 for a note of issue, or $30 for calendaring where RJI rules apply.",
+   "source": {
+    "label": "NY CPLR 8020",
+    "url": "https://www.nysenate.gov/legislation/laws/CVP/8020"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (CPLR 214(5))",
+   "source": {
+    "label": "NY CPLR 214",
+    "url": "https://www.nysenate.gov/legislation/laws/CVP/214"
+   }
+  },
+  "caps": {
+   "text": "Medical, dental and podiatric malpractice (Judiciary Law §474-a): 30% of the first $250k, 25% of the next $250k, 20% of the next $500k, 15% of the next $250k, 10% over $1.25M.",
+   "source": {
+    "label": "NY Judiciary Law §474-a",
+    "url": "https://www.nysenate.gov/legislation/laws/JUD/474-A"
+   }
+  },
+  "feeDispute": {
+   "name": "Attorney-Client Fee Dispute Resolution Program (22 NYCRR Part 137)",
+   "url": null
+  },
+  "referral": {
+   "name": "New York State Bar Association Lawyer Referral and Information Service",
+   "note": "Does not cover NYC counties and several others, e.g. Nassau, Suffolk, Westchester, Erie, Monroe.",
+   "url": "https://nysba.org/lawyer-referral/"
+  },
+  "legalAid": {
+   "name": "LawHelpNY",
+   "url": "https://www.lawhelpny.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "north-carolina",
+  "name": "North Carolina",
+  "sc": {
+   "court": "Small Claims Court (magistrate, District Court Division)",
+   "limit": 10000,
+   "limitText": "$10,000",
+   "limitNote": "G.S. 7A-210 sets $10,000, but the NC Judicial Branch says the maximum varies by county, from $5,000 to $10,000.",
+   "feeText": "$96",
+   "feeVaries": false,
+   "serviceText": "$30 if the sheriff serves; certified mail, return receipt requested, is also allowed.",
+   "sources": [
+    {
+     "label": "NC Judicial Branch, Small Claims",
+     "url": "https://www.nccourts.gov/help-topics/lawsuits-and-small-claims/small-claims"
+    },
+    {
+     "label": "N.C. Gen. Stat. § 7A-210",
+     "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_7A/GS_7A-210.html"
+    },
+    {
+     "label": "N.C. Gen. Stat. § 7A-305",
+     "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_7A/GS_7A-305.html"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court (District Court for smaller claims)",
+   "feeText": "Superior Court $200 ($180 GCJ fee + $16 facilities + $4 telecom). District Court $150 ($130 + $16 + $4). Complex business case fee is extra.",
+   "source": {
+    "label": "N.C. Gen. Stat. § 7A-305",
+    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_7A/GS_7A-305.html"
+   }
+  },
+  "divorce": {
+   "feeText": "$225",
+   "note": "District Court civil costs of $150 plus the $75 absolute divorce fee (G.S. 7A-305(a2)).",
+   "source": {
+    "label": "N.C. Gen. Stat. § 7A-305",
+    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_7A/GS_7A-305.html"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (N.C. Gen. Stat. § 1-52(16))",
+   "source": {
+    "label": "N.C. Gen. Stat. § 1-52",
+    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_1/GS_1-52.html"
+   }
+  },
+  "caps": {
+   "text": "No numeric statewide cap. Workers' compensation attorney fees require Industrial Commission approval (G.S. 97-90), and taking unapproved fees is a Class 1 misdemeanor.",
+   "source": {
+    "label": "N.C. Gen. Stat. § 97-90",
+    "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_97/GS_97-90.html"
+   }
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "North Carolina Bar Association Lawyer Referral Service",
+   "note": "$50 for an initial 30-minute consultation",
+   "url": "https://www.ncbar.org/public-resources/lawyer-referral-service/"
+  },
+  "legalAid": null,
+  "selfHelp": "https://www.nccourts.gov/help-topics"
+ },
+ {
+  "slug": "north-dakota",
+  "name": "North Dakota",
+  "sc": {
+   "court": "Small Claims Court (District Court)",
+   "limit": 15000,
+   "limitText": "$15,000 or less",
+   "limitNote": "Counterclaims have the same cap (N.D.C.C. 27-08.1-01).",
+   "feeText": "$20 (N.D.C.C. 27-05.2-03(1)(e))",
+   "feeVaries": false,
+   "serviceText": "The plaintiff arranges service of the claim affidavit and forms.",
+   "sources": [
+    {
+     "label": "ND Courts, Small Claims",
+     "url": "https://www.ndcourts.gov/legal-self-help/small-claims"
+    },
+    {
+     "label": "N.D.C.C. ch. 27-08.1",
+     "url": "https://ndlegis.gov/cencode/t27c08-1.pdf"
+    },
+    {
+     "label": "N.D.C.C. ch. 27-05.2",
+     "url": "https://ndlegis.gov/cencode/t27c05-2.pdf"
+    },
+    {
+     "label": "ND District Court Fees",
+     "url": "https://www.ndcourts.gov/Media/Default/district-courts/Court-Fees.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "$160 to file a civil action; $100 answer fee",
+   "source": {
+    "label": "N.D.C.C. ch. 27-05.2",
+    "url": "https://ndlegis.gov/cencode/t27c05-2.pdf"
+   }
+  },
+  "divorce": {
+   "feeText": "$160",
+   "note": "Petition for divorce, annulment or separation; fee schedule effective July 1, 2025.",
+   "source": {
+    "label": "ND District Court Fees",
+    "url": "https://www.ndcourts.gov/Media/Default/district-courts/Court-Fees.pdf"
+   }
+  },
+  "sol": {
+   "years": 6,
+   "text": "6 years (N.D.C.C. § 28-01-16(5)); § 28-01-18 sets 2 years for libel, slander, assault, battery, false imprisonment, malpractice and wrongful death",
+   "source": {
+    "label": "N.D.C.C. ch. 28-01",
+    "url": "https://ndlegis.gov/cencode/t28c01.pdf"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: claimant attorney fee may not exceed 20% of the amount awarded, subject to WSI administrative-rule maximums (N.D.C.C. 65-02-08(3)).",
+   "source": {
+    "label": "N.D.C.C. ch. 65-02",
+    "url": "https://ndlegis.gov/cencode/t65c02.pdf"
+   }
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "State Bar Association of North Dakota Lawyer Referral & Information Service",
+   "note": null,
+   "url": "https://www.sband.org/page/lawyer_referral_serv"
+  },
+  "legalAid": {
+   "name": "Legal Services of North Dakota",
+   "url": "https://www.lsnd.org/"
+  },
+  "selfHelp": "https://www.ndcourts.gov/legal-self-help"
+ },
+ {
+  "slug": "ohio",
+  "name": "Ohio",
+  "sc": {
+   "court": "Small Claims Division of Municipal/County Courts",
+   "limit": 6000,
+   "limitText": "$6,000 (excluding interest and costs)",
+   "limitNote": "Libel, slander, replevin, malicious prosecution, abuse of process, punitive damages and most assignee/agent claims are excluded (R.C. 1925.02).",
+   "feeText": null,
+   "feeVaries": true,
+   "serviceText": "Set by each court.",
+   "sources": [
+    {
+     "label": "Ohio Revised Code 1925.02",
+     "url": "https://codes.ohio.gov/ohio-revised-code/section-1925.02"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Court of Common Pleas",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county. The Supreme Court of Ohio provides standardized domestic relations forms, including a fee waiver affidavit.",
+   "source": {
+    "label": "Supreme Court of Ohio, Domestic Relations Forms",
+    "url": "https://www.supremecourt.ohio.gov/courts/services-to-courts/children-families/dom-rel-juvenile-forms/"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (R.C. 2305.10(A))",
+   "source": {
+    "label": "Ohio Revised Code 2305.10",
+    "url": "https://codes.ohio.gov/ohio-revised-code/section-2305.10"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "Registered Lawyer Referral & Information Services (Supreme Court of Ohio list)",
+   "note": "No single statewide bar referral service.",
+   "url": "https://www.supremecourt.ohio.gov/attorneys/referral-services/"
+  },
+  "legalAid": {
+   "name": "Ohio Legal Help",
+   "url": "https://www.ohiolegalhelp.org/"
+  },
+  "selfHelp": "https://www.supremecourt.ohio.gov/courts/services-to-courts/court-services/access-to-justice-resources/"
+ },
+ {
+  "slug": "oklahoma",
+  "name": "Oklahoma",
+  "sc": {
+   "court": "Small Claims Division of District Court",
+   "limit": 10000,
+   "limitText": "$10,000",
+   "limitNote": "Based on Oklahoma Bar Association information (12 O.S. §1751) revised November 2018; confirm with the court clerk.",
+   "feeText": "Varies by county. Example, Cherokee County: indebtedness under $5,000 $58 plus service; over $5,000 $219.14 plus service",
+   "feeVaries": true,
+   "serviceText": "Cherokee County example: certified mail $10, sheriff $50, private server comparable to sheriff.",
+   "sources": [
+    {
+     "label": "Oklahoma Bar Association, Small Claims",
+     "url": "https://www.okbar.org/freelegalinfo/smallclaims/"
+    },
+    {
+     "label": "Cherokee County Court Clerk, Small Claims",
+     "url": "https://cherokee.okcounties.org/departments/court-clerk/small-claims"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "Varies by county. Example, Cherokee County: CJ (over $10,000) $248.39; CS (under $10,000) $235.39",
+   "source": {
+    "label": "Cherokee County Court Clerk, Civil",
+    "url": "https://cherokee.okcounties.org/departments/court-clerk/civils"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county. Example, Cherokee County: $268.39 with or without minor children, plus a $10 summons fee and service costs.",
+   "source": {
+    "label": "Cherokee County Court Clerk, Divorce",
+    "url": "https://cherokee.okcounties.org/departments/court-clerk/divorce"
+   }
+  },
+  "sol": {
+   "years": null,
+   "text": null,
+   "source": null
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "Oklahoma Bar Association Find a Lawyer",
+   "note": "a lawyer directory, not a traditional referral service",
+   "url": "https://www.okbar.org/findalawyer/"
+  },
+  "legalAid": {
+   "name": "Legal Aid Services of Oklahoma",
+   "url": "https://www.legalaidok.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "oregon",
+  "name": "Oregon",
+  "sc": {
+   "court": "Small Claims Department of Circuit Court",
+   "limit": 10000,
+   "limitText": "$10,000",
+   "limitNote": "Claims of $750 or less must be filed in small claims (ORS 46.405).",
+   "feeText": "$57 for claims of $2,500 or less; $102 for claims over $2,500 (ORS 46.570). The defendant pays the same fee to demand a hearing.",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "ORS Chapter 46",
+     "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors046.html"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "Tiered (ORS 21.160(1)): $170 (≤$10k); $283 (>$10k to <$50k); $594 ($50k to <$1M); $884 ($1M to <$10M); $1,178 (≥$10M)",
+   "source": {
+    "label": "ORS Chapter 21",
+    "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors021.html"
+   }
+  },
+  "divorce": {
+   "feeText": "$301",
+   "note": "ORS 21.155. The same fee applies to the responding party's first appearance.",
+   "source": {
+    "label": "ORS Chapter 21",
+    "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors021.html"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (ORS 12.110(1))",
+   "source": {
+    "label": "ORS Chapter 12",
+    "url": "https://www.oregonlegislature.gov/bills_laws/ors/ors012.html"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation attorney fees are regulated by statute and Workers' Compensation Board rules; for example, the ORS 656.262(11)(a) fee maximum was $6,357 for orders from July 1, 2025 to June 30, 2026.",
+   "source": {
+    "label": "Oregon Workers' Compensation Board, Bulletin 1 (2025)",
+    "url": "https://www.oregon.gov/wcb/Documents/wcbbulletin/bulletin1-2025.pdf"
+   }
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "Oregon State Bar Legal Referral Service",
+   "note": "initial consult up to 30 minutes, max $50",
+   "url": "https://www.osbar.org/public/ris/"
+  },
+  "legalAid": {
+   "name": "Oregon Law Help",
+   "url": "https://www.oregonlawhelp.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "pennsylvania",
+  "name": "Pennsylvania",
+  "sc": {
+   "court": "Magisterial District Court (Philadelphia: Municipal Court)",
+   "limit": 12000,
+   "limitText": "$12,000 (Magisterial District Courts)",
+   "limitNote": "The Philadelphia Municipal Court limit may differ; check with the court.",
+   "feeText": "2024 statewide cost table: ≤$500 $65.00; $500.01-$2,000 $86.50; $2,000.01-$4,000 $108.00; $4,000.01-$12,000 $161.50. Costs are updated each year, so current amounts may be higher.",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "Unified Judicial System of Pennsylvania, 2024 MDJ Cost Table",
+     "url": "https://WWW.PACOURTS.US/Storage/media/pdfs/20231027/144408-2024costtable.pdf"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Court of Common Pleas",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county; costs vary by document and county.",
+   "source": {
+    "label": "Unified Judicial System of Pennsylvania, Representing Yourself",
+    "url": "https://www.pacourts.us/learn/representing-yourself"
+   }
+  },
+  "sol": {
+   "years": null,
+   "text": null,
+   "source": null
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "Pennsylvania Bar Association Lawyer Referral Service",
+   "note": "initial 30-minute consult not more than $30",
+   "url": "https://www.pabar.org/site/For-the-Public/Find-a-Lawyer"
+  },
+  "legalAid": {
+   "name": "PALawHelp.org",
+   "url": "https://www.palawhelp.org/"
+  },
+  "selfHelp": "https://www.pacourts.us/learn/representing-yourself"
+ },
+ {
+  "slug": "rhode-island",
+  "name": "Rhode Island",
+  "sc": {
+   "court": "District Court Small Claims",
+   "limit": 5000,
+   "limitText": "$5,000 (excluding interest and costs)",
+   "limitNote": "R.I. Gen. Laws § 10-16-1.",
+   "feeText": "$55.00 plus a technology surcharge (R.I. Gen. Laws § 9-29-1); the surcharge is capped at $25 and set by the court administrator (§ 8-15-11).",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "R.I. Gen. Laws § 10-16-1",
+     "url": "https://webserver.rilegislature.gov/Statutes/TITLE10/10-16/10-16-1.htm"
+    },
+    {
+     "label": "R.I. Gen. Laws § 9-29-1",
+     "url": "https://webserver.rilegislature.gov/Statutes/TITLE9/9-29/9-29-1.htm"
+    },
+    {
+     "label": "R.I. Gen. Laws § 8-15-11",
+     "url": "https://webserver.rilegislature.gov/Statutes/TITLE8/8-15/8-15-11.htm"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": "$160.00 plus technology surcharge (R.I. Gen. Laws § 9-29-18). District Court civil action: $80.00 plus surcharge.",
+   "source": {
+    "label": "R.I. Gen. Laws § 9-29-18",
+    "url": "https://webserver.rilegislature.gov/Statutes/TITLE9/9-29/9-29-18.htm"
+   }
+  },
+  "divorce": {
+   "feeText": "$120.00 plus technology surcharge",
+   "note": "Family Court entry fee for every petition, complaint or action (R.I. Gen. Laws § 9-29-19(a)(1)).",
+   "source": {
+    "label": "R.I. Gen. Laws § 9-29-19",
+    "url": "https://webserver.rilegislature.gov/Statutes/TITLE9/9-29/9-29-19.htm"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (R.I. Gen. Laws § 9-1-14(b))",
+   "source": {
+    "label": "R.I. Gen. Laws § 9-1-14",
+    "url": "https://webserver.rilegislature.gov/Statutes/TITLE9/9-1/9-1-14.htm"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "Rhode Island Bar Association fee arbitration (401-421-5740)",
+   "url": "https://ribar.com/for-the-public/finding-and-choosing-a-lawyer/"
+  },
+  "referral": {
+   "name": "Rhode Island Bar Association Lawyer Referral Service",
+   "note": "free initial consult up to 1/2 hour",
+   "url": "https://ribar.com/for-the-public/finding-and-choosing-a-lawyer/"
+  },
+  "legalAid": {
+   "name": "Rhode Island Legal Services",
+   "url": "https://www.rils.org"
+  },
+  "selfHelp": "https://www.courts.ri.gov/Public-Resources/Pages/default.aspx"
+ },
+ {
+  "slug": "south-carolina",
+  "name": "South Carolina",
+  "sc": {
+   "court": "Magistrates (Summary) Court",
+   "limit": 7500,
+   "limitText": "$7,500",
+   "limitNote": "Counterclaims that push the total above the limit are transferred to Circuit Court (S.C. Code § 22-3-30).",
+   "feeText": "$45 statutory magistrate fee for summons and judgment (S.C. Code § 8-21-1010(A)(6)); the total charged may be higher because of other assessments.",
+   "feeVaries": false,
+   "serviceText": "$5 plus mileage for serving a summons by a constable (S.C. Code § 8-21-1060(4)).",
+   "sources": [
+    {
+     "label": "S.C. Code Title 22, Chapter 3",
+     "url": "https://www.scstatehouse.gov/code/t22c003.php"
+    },
+    {
+     "label": "S.C. Code Title 8, Chapter 21",
+     "url": "https://www.scstatehouse.gov/code/t08c021.php"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court (Court of Common Pleas)",
+   "feeText": "$150 ($100 under S.C. Code § 8-21-310(C)(1) plus $50 under § 14-1-204(B)(1))",
+   "source": {
+    "label": "S.C. Code Title 14, Chapter 1",
+    "url": "https://www.scstatehouse.gov/code/t14c001.php"
+   }
+  },
+  "divorce": {
+   "feeText": "$150",
+   "note": "Based on the general fees for a first complaint or petition in courts of record ($100 under § 8-21-310(C)(1) plus $50 under § 14-1-204); the statute does not name divorce specifically. Family court motions cost $25 each (§ 8-21-320).",
+   "source": {
+    "label": "S.C. Code Title 8, Chapter 21",
+    "url": "https://www.scstatehouse.gov/code/t08c021.php"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (S.C. Code § 15-3-530(5))",
+   "source": {
+    "label": "S.C. Code Title 15, Chapter 3",
+    "url": "https://www.scstatehouse.gov/code/t15c003.php"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "SC Bar Resolution of Fee Disputes",
+   "url": "https://www.scbar.org/for-the-public/quicklinks/help-with-your-attorney/"
+  },
+  "referral": {
+   "name": "SC Bar Lawyer Referral Service",
+   "note": "max $50 for 30-minute consult",
+   "url": "https://www.scbar.org/for-the-public/quicklinks/get-legal-help/"
+  },
+  "legalAid": {
+   "name": "South Carolina Legal Services",
+   "url": "https://www.sclegal.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "south-dakota",
+  "name": "South Dakota",
+  "sc": {
+   "court": "Small Claims Court (Unified Judicial System; magistrate/circuit court)",
+   "limit": 12000,
+   "limitText": "$12,000 (not including allowable costs or attorney fees)",
+   "limitNote": "SDCL 15-39-45.1; confirm the limit with the clerk.",
+   "feeText": "Totals include the filing fee, $3 law library fee, court automation surcharge and certified-mail postage: $0.01-$100 = $24.84 (filing $4); $100-$1,000 = $30.84 (filing $10); $1,000.01-$3,999.99 = $40.84 (filing $20); $4,000-$12,000 = $42.84 (filing $20, surcharge $8). Counterclaim postage is $11.84. (UJS 'Small Claims Filing Fees' sheet dated July 12, 2026.)",
+   "feeVaries": false,
+   "serviceText": "The listed totals include certified-mail service postage: certification $5.55, return $4.65, two stamps at $0.82. Sheriff or personal service is priced separately.",
+   "sources": [
+    {
+     "label": "SDCL 15-39-45.1",
+     "url": "https://sdlegislature.gov/api/Statutes/15-39-45.1.html"
+    },
+    {
+     "label": "SD Unified Judicial System, Small Claims Filing Fees",
+     "url": "https://ujs.sd.gov/media/zqnnr2vz/small-claims-filing-fee-07_12_2026.pdf"
+    },
+    {
+     "label": "SD Unified Judicial System, Small Claims",
+     "url": "https://ujs.sd.gov/Small_Claims/"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "$72.00 total for a civil case filed for jury or court trial ($25 filing + $40 court automation surcharge + $7 law library)",
+   "source": {
+    "label": "SD Unified Judicial System, Schedule of Court Costs",
+    "url": "https://ujs.sd.gov/files/schedule-of-court-costs"
+   }
+  },
+  "divorce": {
+   "feeText": "$97.00",
+   "note": "$50 filing + $40 court automation surcharge + $7 law library. Confirm the current amount with the clerk.",
+   "source": {
+    "label": "SD Unified Judicial System, Schedule of Court Costs",
+    "url": "https://ujs.sd.gov/files/schedule-of-court-costs"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (SDCL 15-2-14(3))",
+   "source": {
+    "label": "SDCL 15-2-14",
+    "url": "https://sdlegislature.gov/api/Statutes/15-2-14.html"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "State Bar of South Dakota Lawyer Referral Service",
+   "note": null,
+   "url": "https://findalawyerinsd.com/"
+  },
+  "legalAid": {
+   "name": "SD Law Help (East River Legal Services, Dakota Plains Legal Services and Access to Justice, Inc.)",
+   "url": "https://www.sdlawhelp.org/"
+  },
+  "selfHelp": "http://ujslawhelp.sd.gov/"
+ },
+ {
+  "slug": "tennessee",
+  "name": "Tennessee",
+  "sc": {
+   "court": "General Sessions Court (no separate small claims court)",
+   "limit": 25000,
+   "limitText": "$25,000",
+   "limitNote": "Applies in all civil cases in all counties; eviction (forcible entry and detainer) cases have no limit, and attorney's fees and costs are excluded from the calculation (T.C.A. 16-15-501).",
+   "feeText": null,
+   "feeVaries": true,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "UT County Technical Assistance Service, General Sessions Jurisdiction",
+     "url": "https://ctas.tennessee.edu/eli/jurisdiction-general-sessions-court"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court / Chancery Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county clerk.",
+   "source": null
+  },
+  "sol": {
+   "years": 1,
+   "text": "1 year (T.C.A. 28-3-104(a)(1)); extended to 2 years under (a)(2) when criminal charges arise from the same conduct",
+   "source": {
+    "label": "Tennessee Court of Appeals, Younger v. Okbahhanes",
+    "url": "https://test-www.tncourts.gov/sites/default/files/e2020-429_younger_v._okbahhanes.pdf"
+   }
+  },
+  "caps": {
+   "text": "Medical malpractice: contingent fee capped at 33 1/3% of damages awarded (T.C.A. 29-26-120), as quoted in a Tennessee Court of Appeals opinion.",
+   "source": {
+    "label": "Tennessee Court of Appeals opinion (Newton)",
+    "url": "https://test-www.tncourts.gov/sites/default/files/OPINIONS/TCA/PDF/972/newtonwp.pdf"
+   }
+  },
+  "feeDispute": null,
+  "referral": null,
+  "legalAid": {
+   "name": "HELP4TN (Tennessee Alliance for Legal Services)",
+   "url": "https://www.help4tn.org/"
+  },
+  "selfHelp": null
+ },
+ {
+  "slug": "texas",
+  "name": "Texas",
+  "sc": {
+   "court": "Justice Court (small claims cases)",
+   "limit": 20000,
+   "limitText": "$20,000 (excluding statutory interest and court costs, but including attorney fees)",
+   "limitNote": null,
+   "feeText": "$54 in Tarrant County Justice Court 1; other counties differ",
+   "feeVaries": true,
+   "serviceText": "In Tarrant County, the constable fee is $90 for each person served in-county; for out-of-county service, the plaintiff arranges and pays the serving agency.",
+   "sources": [
+    {
+     "label": "Tarrant County Justice Court 1, Small Claim Cases",
+     "url": "https://www.tarrantcountytx.gov/en/justice-of-the-peace-courts/justice-1/civil-cases/small-claim-cases.html"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": "Varies by county district clerk.",
+   "source": null
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years from the injury (Tex. Civ. Prac. & Rem. Code §16.003(a))",
+   "source": {
+    "label": "Tex. Civ. Prac. & Rem. Code ch. 16",
+    "url": "https://tcss.legis.texas.gov/Docs/CP/htm/CP.16.htm"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: the claimant attorney fee is limited to 25% of each weekly income benefit payment, up to 25% of total income benefits (28 TAC 152.1(c), implementing Labor Code 408.221).",
+   "source": {
+    "label": "Texas Department of Insurance, Division of Workers' Compensation, Rule 152 document",
+    "url": "https://www.tdi.texas.gov/wc/rules/documents/dr152attyfee0826.pdf"
+   }
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "State Bar of Texas Lawyer Referral & Information Service",
+   "note": "(800) 252-9690. Bexar, Dallas, Harris, Jefferson, Travis and Tarrant Counties are referred to local certified services.",
+   "url": "https://www.texasbar.com/Content/NavigationMenu/ForThePublic/DoYouNeedaLawyer/LawyerReferralServiceLRIS/default.htm"
+  },
+  "legalAid": {
+   "name": "TexasLawHelp.org (Texas Legal Services Center)",
+   "url": "https://texaslawhelp.org/"
+  },
+  "selfHelp": "https://txcourts.gov/programs-services/self-help/self-represented-litigants/"
+ },
+ {
+  "slug": "utah",
+  "name": "Utah",
+  "sc": {
+   "court": "Small Claims Court (Justice Courts)",
+   "limit": 20000,
+   "limitText": "$20,000 (including attorney fees, excluding court costs and interest)",
+   "limitNote": "Applies from Jan 1, 2025 through Dec 31, 2029 and rises to $25,000 on Jan 1, 2030 (Utah Code 78A-8-102(1)(a)(i)).",
+   "feeText": "$60 if the claim is $2,000 or less; $100 if over $2,000 and under $7,500; $185 if $7,500 or more (up to $20,000). Counter affidavit: $50 / $70 / $120. (Utah Code 78A-2-301(1)(c),(e), version effective 5/6/2026; fees may change on 1/1/2027.)",
+   "feeVaries": false,
+   "serviceText": "The plaintiff must arrange service. In non-ODR cases service must be at least 30 days before trial; in ODR cases, within 120 days of filing.",
+   "sources": [
+    {
+     "label": "Utah Code 78A-8-102",
+     "url": "https://le.utah.gov/xcode/Title78A/Chapter8/C78A-8-S102_2022050420220504.pdf"
+    },
+    {
+     "label": "Utah Code 78A-2-301",
+     "url": "https://le.utah.gov/xcode/Title78A/Chapter2/C78A-2-S301_2026050620260506.pdf"
+    },
+    {
+     "label": "Utah Courts, Fees",
+     "url": "https://utcourts.gov/resources/fees.htm"
+    },
+    {
+     "label": "Utah Courts, Small Claims",
+     "url": "https://www.utcourts.gov/en/self-help/case-categories/small-claims.html"
+    }
+   ]
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": "$105 if the claim is $2,000 or less; $215 if over $2,000 and under $10,000; $375 if $10,000 or more (Utah Code 78A-2-301(1)(b))",
+   "source": {
+    "label": "Utah Courts, Fees",
+    "url": "https://utcourts.gov/resources/fees.htm"
+   }
+  },
+  "divorce": {
+   "feeText": "$350",
+   "note": "Utah Code 78A-2-301(1)(b)(iv). A petition for temporary separation is $35.",
+   "source": {
+    "label": "Utah Code 78A-2-301",
+    "url": "https://le.utah.gov/xcode/Title78A/Chapter2/C78A-2-S301_2026050620260506.pdf"
+   }
+  },
+  "sol": {
+   "years": 4,
+   "text": "4 years (Utah Code 78B-2-307(4), the catch-all period 'for relief not otherwise provided for by law' that applies to general negligence injury)",
+   "source": {
+    "label": "Utah Code 78B-2-307",
+    "url": "https://le.utah.gov/xcode/Title78B/Chapter2/C78B-2-S307_2023050320230503.pdf"
+   }
+  },
+  "caps": {
+   "text": "Medical malpractice against a health care provider: contingent fee may not exceed 33-1/3% of the amount recovered, whether by settlement, arbitration or judgment (Utah Code 78B-3-411).",
+   "source": {
+    "label": "Utah Code 78B-3-411",
+    "url": "https://le.utah.gov/xcode/Title78B/Chapter3/C78B-3-S411_1800010118000101.pdf"
+   }
+  },
+  "feeDispute": {
+   "name": "Utah State Bar Fee Dispute Program (voluntary)",
+   "url": "https://www.utahbar.org/?p=3977"
+  },
+  "referral": {
+   "name": "Licensed Lawyer (Utah State Bar referral service)",
+   "note": null,
+   "url": "https://licensedlawyer.org/"
+  },
+  "legalAid": {
+   "name": "UtahLegalHelp.org (sponsored by the Utah State Bar)",
+   "url": "https://www.utahlegalhelp.org/"
+  },
+  "selfHelp": "https://www.utcourts.gov/en/self-help.html"
+ },
+ {
+  "slug": "vermont",
+  "name": "Vermont",
+  "sc": {
+   "court": "Small Claims, Civil Division of the Superior Court",
+   "limit": 10000,
+   "limitText": "$10,000",
+   "limitNote": "Consumer credit debt and medical debt collection claims are capped at $5,000, slander and libel are excluded, and a defendant may request a special assignment of a judicial officer if the claim exceeds $3,500 (12 V.S.A. 5531).",
+   "feeText": "$65 if the claim is $1,000 or less; $90 if over $1,000 (to $10,000). Medical and consumer credit debt: $65 for $1,000 or less, $90 for $1,001-$5,000 (32 V.S.A. 1431(c)(1)).",
+   "feeVaries": false,
+   "serviceText": "The plaintiff first mails the papers by first-class mail; if there is no answer, service is by sheriff or constable. Court fees: certified restricted-delivery mail service $18.50; first-class mail with acknowledgment $3.00.",
+   "sources": [
+    {
+     "label": "12 V.S.A. § 5531",
+     "url": "https://legislature.vermont.gov/statutes/section/12/187/05531"
+    },
+    {
+     "label": "32 V.S.A. § 1431",
+     "url": "https://legislature.vermont.gov/statutes/section/32/017/01431"
+    },
+    {
+     "label": "Vermont Judiciary, Fees",
+     "url": "https://www.vtcourts.gov/fees"
+    },
+    {
+     "label": "Vermont Judiciary, Suing and Being Sued",
+     "url": "https://www.vtcourts.gov/civil/suing-and-being-sued"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court, Civil Division",
+   "feeText": "$295 (32 V.S.A. 1431(b)(1))",
+   "source": {
+    "label": "Vermont Judiciary, Fees",
+    "url": "https://www.vtcourts.gov/fees"
+   }
+  },
+  "divorce": {
+   "feeText": "$295",
+   "note": "With a stipulation for final order: $90 if one or both parties are residents, $180 if neither is (32 V.S.A. 1431(b)(2)). The fee is the same with or without children.",
+   "source": {
+    "label": "Vermont Judiciary, Fees",
+    "url": "https://www.vtcourts.gov/fees"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years, accruing on discovery of the injury (12 V.S.A. 512(4))",
+   "source": {
+    "label": "12 V.S.A. § 512",
+    "url": "https://legislature.vermont.gov/statutes/section/12/023/00512"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "Vermont Bar Association Fee Dispute Committee (free mediation and arbitration)",
+   "url": "https://www.vtbar.org/fee-dispute-information/"
+  },
+  "referral": {
+   "name": "Vermont Bar Association Lawyer Referral Service",
+   "note": "1-800-639-7036",
+   "url": "https://www.vtbar.org/find-a-lawyer/"
+  },
+  "legalAid": {
+   "name": "VTLawHelp.org (Vermont Legal Aid and Legal Services Vermont)",
+   "url": "https://vtlawhelp.org/"
+  },
+  "selfHelp": "https://www.vtcourts.gov/self-help/ARC"
+ },
+ {
+  "slug": "virginia",
+  "name": "Virginia",
+  "sc": {
+   "court": "Small Claims Court (division of the General District Court)",
+   "limit": 5000,
+   "limitText": "$5,000 (exclusive of interest)",
+   "limitNote": "Va. Code 16.1-122.2.",
+   "feeText": "$36 statutory fixed fee for district court civil proceedings (Va. Code 16.1-69.48:2; $10 of it goes to the Courts Technology Fund). Local add-on fees may apply.",
+   "feeVaries": true,
+   "serviceText": "$12 per service of civil process by an officer (Va. Code 17.1-272(A)).",
+   "sources": [
+    {
+     "label": "Va. Code § 16.1-122.2",
+     "url": "https://law.lis.virginia.gov/vacode/title16.1/chapter4.1/section16.1-122.2/"
+    },
+    {
+     "label": "Va. Code § 16.1-69.48:2",
+     "url": "https://law.lis.virginia.gov/vacode/title16.1/chapter4.1/section16.1-69.48:2/"
+    },
+    {
+     "label": "Va. Code § 17.1-272",
+     "url": "https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-272/"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "Clerk fee: $100 (recovery up to $49,999); $200 ($49,999-$100,000); $250 ($100,000-$500,000); $300 (over $500,000) (Va. Code 17.1-275(A)(13)). Other statutory add-on fees may apply.",
+   "source": {
+    "label": "Va. Code § 17.1-275",
+    "url": "https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-275/"
+   }
+  },
+  "divorce": {
+   "feeText": "$60 statutory clerk fee (Va. Code 17.1-275(A)(26))",
+   "note": "This is the base clerk fee only; the total with other add-ons is likely higher.",
+   "source": {
+    "label": "Va. Code § 17.1-275",
+    "url": "https://law.lis.virginia.gov/vacode/title17.1/chapter2/section17.1-275/"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (Va. Code 8.01-243(A))",
+   "source": {
+    "label": "Va. Code § 8.01-243",
+    "url": "https://law.lis.virginia.gov/vacode/title8.01/chapter4/section8.01-243/"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": null,
+  "referral": null,
+  "legalAid": {
+   "name": "Virginia Law Help (Virginia Poverty Law Center; legal aid line 866-534-5243)",
+   "url": "https://www.virginialawhelp.org/"
+  },
+  "selfHelp": "https://selfhelp.vacourts.gov/"
+ },
+ {
+  "slug": "washington",
+  "name": "Washington",
+  "sc": {
+   "court": "Small Claims Department of District Court",
+   "limit": 10000,
+   "limitText": "$10,000 for individuals; $5,000 in all other cases (e.g., businesses)",
+   "limitNote": "RCW 12.40.010.",
+   "feeText": "$35 plus any county dispute-resolution surcharge of up to $15 (RCW 12.40.020; RCW 7.75.035)",
+   "feeVaries": true,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "RCW 12.40.010",
+     "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=12.40.010"
+    },
+    {
+     "label": "RCW 12.40.020",
+     "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=12.40.020"
+    },
+    {
+     "label": "RCW 7.75.035",
+     "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=7.75.035"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Superior Court",
+   "feeText": "$200 base for the first document (RCW 36.18.020(2)(a)) plus a $40 surcharge ((5)(c)) and a $50 surcharge ((6)), about $290 in total; confirm with the county clerk.",
+   "source": {
+    "label": "RCW 36.18.020",
+    "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=36.18.020"
+   }
+  },
+  "divorce": {
+   "feeText": null,
+   "note": null,
+   "source": null
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (RCW 4.16.080(2))",
+   "source": {
+    "label": "RCW 4.16.080",
+    "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.16.080"
+   }
+  },
+  "caps": {
+   "text": "No percentage cap. RCW 4.24.005 lets a party in a tort action ask the court to review whether fees, including contingent fees, are reasonable.",
+   "source": {
+    "label": "RCW 4.24.005",
+    "url": "https://app.leg.wa.gov/RCW/default.aspx?cite=4.24.005"
+   }
+  },
+  "feeDispute": null,
+  "referral": null,
+  "legalAid": {
+   "name": "WashingtonLawHelp.org (Northwest Justice Project); CLEAR hotline 888-201-1014",
+   "url": "https://www.washingtonlawhelp.org/"
+  },
+  "selfHelp": "https://www.courts.wa.gov/self-help/"
+ },
+ {
+  "slug": "west-virginia",
+  "name": "West Virginia",
+  "sc": {
+   "court": "Magistrate Court",
+   "limit": 20000,
+   "limitText": "$20,000 (exclusive of interest and costs)",
+   "limitNote": "W. Va. Code 50-2-1.",
+   "feeText": "$30 for $500 or less; $35 for $500.01-$1,000; $40 for $1,000.01-$2,000; $50 over $2,000; $30 for non-money relief (W. Va. Code 50-3-1(a))",
+   "feeVaries": false,
+   "serviceText": "$5 per judgment-enforcement service (execution, suggestion, garnishment, suggestee execution) under W. Va. Code 50-3-1(b).",
+   "sources": [
+    {
+     "label": "W. Va. Code 50-2-1",
+     "url": "https://code.wvlegislature.gov/50-2-1/"
+    },
+    {
+     "label": "W. Va. Code 50-3-1",
+     "url": "https://code.wvlegislature.gov/50-3-1/"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "$200 (W. Va. Code 59-1-11(a)(1)); medical professional liability actions $280 after Dec 31, 2021; $15 per additional named defendant",
+   "source": {
+    "label": "W. Va. Code 59-1-11",
+    "url": "https://code.wvlegislature.gov/59-1-11/"
+   }
+  },
+  "divorce": {
+   "feeText": "$135",
+   "note": "Divorce, separate maintenance or annulment (W. Va. Code 59-1-11(a)(3)). The fee is the same with or without children.",
+   "source": {
+    "label": "W. Va. Code 59-1-11",
+    "url": "https://code.wvlegislature.gov/59-1-11/"
+   }
+  },
+  "sol": {
+   "years": 2,
+   "text": "2 years (W. Va. Code 55-2-12(b))",
+   "source": {
+    "label": "W. Va. Code 55-2-12",
+    "url": "https://code.wvlegislature.gov/55-2-12/"
+   }
+  },
+  "caps": {
+   "text": "Workers' compensation: claimant attorney fee may not exceed 20% of benefits, computed on benefits over a 208-week period (W. Va. Code 23-5-16a(a)).",
+   "source": {
+    "label": "W. Va. Code 23-5-16a",
+    "url": "https://code.wvlegislature.gov/23-5-16a/"
+   }
+  },
+  "feeDispute": {
+   "name": "West Virginia State Bar Voluntary Fee Dispute Resolution Program",
+   "url": "https://wvbar.org/public-information/voluntary-fee-dispute-resolution-program/"
+  },
+  "referral": {
+   "name": "West Virginia State Bar Lawyer Referral Service",
+   "note": null,
+   "url": "https://wvlawyerreferral.org/"
+  },
+  "legalAid": {
+   "name": "Legal Aid of West Virginia",
+   "url": "https://legalaidwv.org/"
+  },
+  "selfHelp": "https://www.courtswv.gov/public-resources/court-forms"
+ },
+ {
+  "slug": "wisconsin",
+  "name": "Wisconsin",
+  "sc": {
+   "court": "Circuit Court, Small Claims",
+   "limit": 10000,
+   "limitText": "$10,000 ($5,000 for personal injury and tort claims)",
+   "limitNote": "Eviction actions may be filed in small claims regardless of the rent amount (Wis. Stat. 799.01).",
+   "feeText": "$94.50 total for claims of $10,000 or less and for personal injury/tort claims of $5,000 or less (statutory base fee $22 under Wis. Stat. 814.62(3)(a), plus surcharges). E-filing adds $35 per case per party. (WI circuit court fee chart updated Sept 2, 2026.)",
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": [
+    {
+     "label": "Wis. Stat. 799.01",
+     "url": "https://docs.legis.wisconsin.gov/statutes/statutes/799/01"
+    },
+    {
+     "label": "Wis. Stat. 814.62",
+     "url": "https://docs.legis.wisconsin.gov/document/statutes/814.62"
+    },
+    {
+     "label": "Wisconsin Court System, Circuit Court Fee Chart",
+     "url": "https://www.wicourts.gov/courts/circuit/docs/fees.pdf"
+    },
+    {
+     "label": "Wisconsin Court System, Small Claims Self-Help",
+     "url": "https://www.wicourts.gov/services/public/selfhelp/smallclaims.htm"
+    }
+   ]
+  },
+  "civil": {
+   "court": "Circuit Court",
+   "feeText": "$265.50 (money judgment claim over $10,000, including foreclosure), plus $35 e-filing fee where applicable",
+   "source": {
+    "label": "Wisconsin Court System, Circuit Court Fee Chart",
+    "url": "https://www.wicourts.gov/courts/circuit/docs/fees.pdf"
+   }
+  },
+  "divorce": {
+   "feeText": "$184.50 with no request for support or maintenance; $194.50 with such a request",
+   "note": "The same amounts apply to annulment and legal separation. The fee chart is guidance; the statutes control.",
+   "source": {
+    "label": "Wisconsin Court System, Circuit Court Fee Chart",
+    "url": "https://www.wicourts.gov/courts/circuit/docs/fees.pdf"
+   }
+  },
+  "sol": {
+   "years": 3,
+   "text": "3 years (Wis. Stat. 893.54); motor-vehicle wrongful death: 2 years under sub. (2m)",
+   "source": {
+    "label": "Wis. Stat. 893.54",
+    "url": "https://docs.legis.wisconsin.gov/document/statutes/893.54"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": null,
+  "referral": {
+   "name": "State Bar of Wisconsin Lawyer Referral Service",
+   "note": "800-362-9082",
+   "url": "https://www.wisbar.org/forPublic/INeedaLawyer/Pages/i-need-a-lawyer.aspx"
+  },
+  "legalAid": {
+   "name": "Wisconsin State Law Library – Legal Resources in Wisconsin Counties",
+   "url": "https://wilawlibrary.gov/topics/assist.php"
+  },
+  "selfHelp": "https://www.wicourts.gov/services/public/selfhelp/"
+ },
+ {
+  "slug": "wyoming",
+  "name": "Wyoming",
+  "sc": {
+   "court": "Circuit Court (small claims cases)",
+   "limit": null,
+   "limitText": null,
+   "limitNote": null,
+   "feeText": null,
+   "feeVaries": false,
+   "serviceText": null,
+   "sources": []
+  },
+  "civil": {
+   "court": "District Court",
+   "feeText": null,
+   "source": null
+  },
+  "divorce": {
+   "feeText": null,
+   "note": null,
+   "source": null
+  },
+  "sol": {
+   "years": 4,
+   "text": "4 years (W.S. 1-3-105(a)(iv)(C), covering 'injury to the rights of the plaintiff, not arising on contract and not herein enumerated'); assault/battery is 1 year under (a)(v)(B)",
+   "source": {
+    "label": "Wyoming Statutes Title 1",
+    "url": "https://wyoleg.gov/statutes/compress/title01.pdf"
+   }
+  },
+  "caps": {
+   "text": null,
+   "source": null
+  },
+  "feeDispute": {
+   "name": "Wyoming State Bar Fee Arbitration (disputes over $500, requested within 1 year after the representation ends)",
+   "url": "https://www.wyomingbar.org/for-the-public/attorney-complaints/fee-disputes/"
+  },
+  "referral": {
+   "name": "Wyoming State Bar Lawyer Search and Referral",
+   "note": null,
+   "url": "https://www.wyomingbar.org/for-the-public/hire-a-lawyer/"
+  },
+  "legalAid": {
+   "name": "Equal Justice Wyoming (Wyoming Judicial Branch) – Find Legal Services",
+   "url": "https://www.wyocourts.gov/legal-help/"
+  },
+  "selfHelp": "https://www.wyocourts.gov/legal-assistance-and-forms/"
+ }
+]

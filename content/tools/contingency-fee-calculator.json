@@ -1,0 +1,64 @@
+{
+ "slug": "contingency-fee-calculator",
+ "navTitle": "Contingency Fee Calculator",
+ "title": "Contingency Fee Calculator: What You Keep After Fees, Costs and Liens",
+ "description": "Calculate a lawyer's contingency fee and your net recovery, with costs deducted before or after the fee and medical liens included.",
+ "h1": "Contingency fee calculator",
+ "lastReviewed": "2026-10-11",
+ "summary": "Your net recovery is the gross amount minus the lawyer's percentage, case costs and any liens. Whether costs come out before or after the percentage is calculated changes the result, and your written fee agreement must say which method applies. Some states and federal programs cap contingency percentages.",
+ "tool": "<form class=\"calc\" id=\"calc-contingency\" novalidate><div class=\"row\"><label for=\"cf-gross\">Gross settlement or award ($)<input id=\"cf-gross\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"1000\" value=\"100000\"></label><label for=\"cf-pct\">Fee percentage (%)<input id=\"cf-pct\" type=\"number\" inputmode=\"decimal\" min=\"0\" max=\"100\" step=\"0.5\" value=\"33.3\"></label><label for=\"cf-costs\">Case costs advanced by the lawyer ($)<input id=\"cf-costs\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"100\" value=\"6000\"></label><label for=\"cf-liens\">Medical liens / bills to repay ($)<input id=\"cf-liens\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"100\" value=\"10000\"></label><label for=\"cf-order\">Costs deducted<select id=\"cf-order\"><option value=\"after\">After the fee is calculated</option><option value=\"before\">Before the fee is calculated</option></select></label></div><button class=\"calc-button\" type=\"submit\">Calculate my net</button><div id=\"cf-result\" class=\"calc-out\" aria-live=\"polite\" hidden></div></form>",
+ "body": "<section id=\"before-or-after\"><h2>Costs before or after the fee: why it matters</h2><p>ABA Model Rule 1.5(c) requires a contingency agreement to be in writing, signed by the client, and to state the percentage, the litigation and other expenses to be deducted, and whether those expenses are deducted before or after the contingent fee is calculated<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>.</p><div class=\"example\"><p><strong>Example:</strong> $100,000 recovery, 33.3% fee, $6,000 costs. Costs after the fee: fee = $33,300, you receive $100,000 \u2212 $33,300 \u2212 $6,000 = $60,700. Costs before the fee: fee = 33.3% \u00d7 $94,000 = $31,302, you receive $62,698. Same case, about $2,000 difference.</p></div></section><section id=\"caps\"><h2>Legal caps on contingency percentages</h2><p>Some fees are capped by law. Examples: the Federal Tort Claims Act limits fees to 20% of an administrative settlement and 25% of a judgment or court settlement<sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>; New York's Judiciary Law \u00a7474-a sets a sliding scale for medical malpractice (30% of the first $250,000, falling to 10% above $1.25 million)<sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup>; Social Security disability representatives are generally limited to 25% of past-due benefits or $9,200, whichever is less<sup class=\"cite\"><a href=\"#src-4\">[4]</a></sup>. See our <a href=\"/pages/contingency-fee-explained\">contingency fee guide</a> for state rules.</p></section><section id=\"liens\"><h2>Liens and medical bills</h2><p>Health insurers, Medicare, Medicaid and hospitals may have a legal right to be repaid from an injury recovery. Those amounts come out of your share, not the lawyer's, unless the lawyer negotiates them down. Ask early who will negotiate liens and whether that work is included in the percentage.</p></section>",
+ "faq": [
+  {
+   "q": "What percentage do contingency lawyers take?",
+   "a": "The percentage is set by the written agreement and must be reasonable under the state's version of ABA Rule 1.5. Some areas are capped by law, such as federal tort claims (20% or 25%) and New York medical malpractice (a sliding scale starting at 30%)."
+  },
+  {
+   "q": "Is the fee calculated on the gross or net amount?",
+   "a": "Either, depending on the agreement. The agreement must say whether expenses are deducted before or after the fee is calculated; deducting them first lowers the fee."
+  },
+  {
+   "q": "Can a contingency percentage go up if the case goes to trial?",
+   "a": "Many agreements use a higher percentage once a lawsuit is filed or a trial begins. That is allowed if it is stated in the signed agreement and the total remains reasonable and within any legal cap."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Model Rule 1.5: Fees",
+   "publisher": "American Bar Association",
+   "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_5_fees/",
+   "accessed": "2026-10-11",
+   "note": "Fees must be reasonable; contingency agreements in writing; no contingency fees in criminal cases"
+  },
+  {
+   "label": "28 U.S. Code \u00a7 2678 \u2013 Attorney fees; penalty",
+   "publisher": "Legal Information Institute (Cornell)",
+   "url": "https://www.law.cornell.edu/uscode/text/28/2678",
+   "accessed": "2026-10-11",
+   "note": "FTCA fee caps of 20% and 25%"
+  },
+  {
+   "label": "Judiciary Law \u00a7 474-A",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/JUD/474-A",
+   "accessed": "2026-10-11",
+   "note": "Sliding-scale cap for medical malpractice contingency fees"
+  },
+  {
+   "label": "Fee Agreements",
+   "publisher": "Social Security Administration",
+   "url": "https://www.ssa.gov/representation/fee_agreements.htm",
+   "accessed": "2026-10-11",
+   "note": "Fee cap of 25% of past-due benefits up to $9,200"
+  }
+ ],
+ "related": [
+  "contingency-fee-explained",
+  "personal-injury-lawyer-cost",
+  "personal-injury-settlement-calculator",
+  "lawyer-cost-calculator",
+  "medical-malpractice-lawyer-cost"
+ ],
+ "product": "toolkit",
+ "lawdepot": []
+}

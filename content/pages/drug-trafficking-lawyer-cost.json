@@ -1,0 +1,122 @@
+{
+  "slug": "drug-trafficking-lawyer-cost",
+  "title": "Drug Trafficking Lawyer Cost: Fees, Forfeiture and Retainers (2026)",
+  "description": "What a drug trafficking defense costs, how fees are structured, and how forfeiture law limits paying a lawyer with tainted assets.",
+  "h1": "How much does a drug trafficking lawyer cost?",
+  "lastReviewed": "2026-10-11",
+  "summary": "Drug trafficking defense is billed as a flat fee per phase or hourly against a retainer, never on contingency, and the total depends on the court (state or federal), the evidence and whether the case goes to trial. Federal first offenses can carry five- or ten-year mandatory minimums, which drives up the work. Forfeiture law matters for fees: under Caplin & Drysdale (1989) forfeitable proceeds cannot be shielded by paying a lawyer, while Luis v. United States (2016) protects untainted assets needed to hire counsel.",
+  "body": "<section id=\"why-expensive\"><h2>Why drug trafficking defense is expensive</h2><p>Trafficking charges carry some of the heaviest sentences in the criminal system, and the cost of a defense tracks the stakes. In federal court, a first offense under 21 U.S.C. § 841 carries a five-year mandatory minimum at the § 841(b)(1)(B) quantity threshold and a ten-year minimum at the § 841(b)(1)(A) threshold <sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>. In fiscal year 2025 there were 16,144 federal drug trafficking cases; 56% of defendants were convicted of an offense carrying a mandatory minimum (44% of those were relieved of it, for example through the safety valve or cooperation), and the average sentence was 87 months <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>.</p><p>The work that drives the bill includes reviewing wiretap and phone-extraction evidence, challenging searches, testing drug quantity and purity, litigating whether a mandatory minimum applies, and preparing for sentencing. State trafficking cases are usually smaller in evidence volume but can carry their own statutory minimums.</p></section><section id=\"fee-structures\"><h2>How lawyers charge for drug cases</h2><p>Retained lawyers typically charge a flat fee per phase or bill hourly against an advance retainer held in trust <sup class=\"cite\"><a href=\"#src-9\">[9]</a></sup>. They cannot take a percentage of any outcome: ABA Model Rule 1.5(d)(2) bars contingent fees for criminal defendants <sup class=\"cite\"><a href=\"#src-8\">[8]</a></sup>. Rule 1.5(a) also requires that any fee be reasonable for the work involved <sup class=\"cite\"><a href=\"#src-8\">[8]</a></sup>.</p><div class=\"example\"><p><strong>Example (illustrative, not a quote):</strong> 100 hours of work through plea and a contested sentencing at the $349 national average rate <sup class=\"cite\"><a href=\"#src-11\">[11]</a></sup> = 100 × $349 = $34,900. If a court-appointed CJA lawyer did the same 100 hours, the government would pay 100 × $177 = $17,700 at the 2026 non-capital rate <sup class=\"cite\"><a href=\"#src-10\">[10]</a></sup>.</p></div><p>If you cannot afford a lawyer, ask for appointed counsel: a state public defender in state court, or a federal defender or CJA panel lawyer in federal court. See <a href=\"/pages/federal-criminal-defense-lawyer-cost\">federal criminal defense lawyer cost</a> for how CJA eligibility works.</p></section><section id=\"forfeiture\"><h2>Forfeiture: why \"how will you pay\" is a legal question</h2><p>Drug cases often come with criminal forfeiture under 21 U.S.C. § 853. Property that is proceeds of, or was used to commit, the offense is forfeitable, and the government's title is treated as vesting at the time of the offense <sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup>. That has three consequences for legal fees.</p><h3>1. Tainted money cannot safely pay the lawyer</h3><p>In <em>Caplin &amp; Drysdale v. United States</em> (1989), the Supreme Court held 5-4 that § 853 has no exception for assets a defendant wants to use to pay a defense lawyer, and that forfeiting them does not violate the Sixth Amendment: a defendant \"has no Sixth Amendment right to spend another person's money\" on a lawyer <sup class=\"cite\"><a href=\"#src-4\">[4]</a></sup>. A lawyer paid with forfeitable assets can be ordered to give them up unless the lawyer proves to be a bona fide purchaser for value who reasonably had no cause to believe the property was forfeitable <sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup>. That is why defense lawyers ask detailed questions about where the fee comes from.</p><h3>2. Untainted money is protected</h3><p>In <em>Luis v. United States</em> (2016), the Court held that a pretrial freeze of legitimate, untainted assets needed to retain counsel of choice violates the Sixth Amendment <sup class=\"cite\"><a href=\"#src-5\">[5]</a></sup>. So salary, savings that predate the alleged offense, or a relative's own money can generally be used, but expect the lawyer to document the source.</p><h3>3. Assets may be frozen before trial</h3><p>Courts can enter restraining orders to preserve forfeitable property before trial; pre-indictment orders require notice and a hearing and last up to 90 days unless extended or superseded by charges <sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup>. If your accounts are frozen, raise it with a lawyer immediately, because it can determine whether you can hire private counsel at all.</p><div class=\"note\">The money-laundering statute that criminalizes transactions over $10,000 in criminally derived property excludes transactions necessary to preserve a person's Sixth Amendment right to representation <sup class=\"cite\"><a href=\"#src-6\">[6]</a></sup>, but that does not protect the fee itself from forfeiture. Separately, a lawyer who receives more than $10,000 in cash for a fee must report it to the IRS on Form 8300 within 15 days <sup class=\"cite\"><a href=\"#src-7\">[7]</a></sup>. Ask any lawyer who offers to take a large cash fee \"off the books\" to stop: that is a red flag.</div></section><section id=\"family-paying\"><h2>When family members pay the fee</h2><p>Relatives often pay. That is allowed, but you remain the client. California's Rule 1.8.6, for example, lets a lawyer accept payment from someone else only if it does not interfere with the lawyer's independent judgment, your information stays confidential, and you give informed written consent <sup class=\"cite\"><a href=\"#src-12\">[12]</a></sup>; other states have similar rules. The payer does not get to direct the defense or see privileged information. The payer should use money that is clearly their own (for example, from their paycheck or savings) and keep records, because of the forfeiture rules above.</p><h3>Questions to ask</h3><ul><li>Is the fee flat or hourly, and does it include a trial? What is the trial fee?</li><li>Does it cover a suppression hearing, a lab or quantity expert, and sentencing advocacy?</li><li>How do you document that the fee comes from untainted funds?</li><li>What happens to the fee if the case is dismissed or I switch lawyers?</li><li>Have you handled safety-valve or mandatory-minimum litigation in this court?</li></ul></section><section id=\"state-vs-federal\"><h2>State vs federal trafficking cases</h2><p>Whether you are charged in state or federal court affects cost more than any other factor. Federal cases bring the Sentencing Guidelines, federal mandatory minimums and usually more evidence, which means more lawyer hours. State cases vary by state law and county; your <a href=\"/states/\">state page</a> lists the bar referral service and legal aid contacts. For other offense types, see <a href=\"/pages/criminal-defense-lawyer-cost\">criminal defense lawyer cost</a>.</p></section>",
+  "faq": [
+    {
+      "q": "Can I pay my lawyer with money the government says is drug money?",
+      "a": "Not safely. Under 21 U.S.C. § 853 and Caplin & Drysdale, forfeitable proceeds can be taken back from the lawyer unless the lawyer was a bona fide purchaser without reason to believe the money was forfeitable. Lawyers therefore ask where the fee comes from."
+    },
+    {
+      "q": "Can the government freeze all my money so I cannot hire a lawyer?",
+      "a": "It can seek to restrain assets that are forfeitable. In Luis v. United States (2016) the Supreme Court held that freezing untainted assets needed to hire counsel of choice before trial violates the Sixth Amendment."
+    },
+    {
+      "q": "Will a drug lawyer take a percentage of the case outcome?",
+      "a": "No. Contingent fees for criminal defense are prohibited under rules based on ABA Model Rule 1.5(d)(2). Expect a flat or hourly fee."
+    },
+    {
+      "q": "What if I cannot afford a private lawyer?",
+      "a": "Ask for appointed counsel at your first court appearance. In federal court that is a federal defender or a CJA panel lawyer; in state court it is the public defender or an appointed private lawyer."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Quick Facts: Drug Trafficking (FY2025)",
+      "publisher": "U.S. Sentencing Commission",
+      "url": "https://www.ussc.gov/research/quick-facts/drug-trafficking",
+      "accessed": "2026-10-11",
+      "note": "FY2025: 16,144 drug trafficking cases; 56% convicted of an offense carrying a mandatory minimum, 44% of those relieved; average sentence 87 months"
+    },
+    {
+      "label": "21 U.S. Code § 841",
+      "publisher": "Legal Information Institute, Cornell Law School",
+      "url": "https://www.law.cornell.edu/uscode/text/21/841",
+      "accessed": "2026-10-11",
+      "note": "Five- and ten-year mandatory minimums for first offenses under 841(b)(1)(B) and (A)"
+    },
+    {
+      "label": "21 U.S. Code § 853 (criminal forfeiture)",
+      "publisher": "Legal Information Institute, Cornell Law School",
+      "url": "https://www.law.cornell.edu/uscode/text/21/853",
+      "accessed": "2026-10-11",
+      "note": "Title vests in the U.S. at the time of the offense; third-party transfers; pretrial restraining orders"
+    },
+    {
+      "label": "Caplin & Drysdale, Chartered v. United States, 491 U.S. 617 (1989)",
+      "publisher": "Justia U.S. Supreme Court Center",
+      "url": "https://supreme.justia.com/cases/federal/us/491/617/",
+      "accessed": "2026-10-11",
+      "note": "No Sixth Amendment exception for forfeitable assets used to pay defense counsel (5-4, June 22, 1989)"
+    },
+    {
+      "label": "Luis v. United States, 578 U.S. 5 (2016)",
+      "publisher": "Legal Information Institute, Cornell Law School",
+      "url": "https://www.law.cornell.edu/supremecourt/text/14-419",
+      "accessed": "2026-10-11",
+      "note": "Pretrial restraint of untainted assets needed to retain counsel of choice violates the Sixth Amendment (March 30, 2016)"
+    },
+    {
+      "label": "18 U.S. Code § 1957",
+      "publisher": "Legal Information Institute, Cornell Law School",
+      "url": "https://www.law.cornell.edu/uscode/text/18/1957",
+      "accessed": "2026-10-11",
+      "note": "Monetary transactions over $10,000 in criminally derived property; exclusion for transactions necessary to preserve the right to counsel"
+    },
+    {
+      "label": "IRS Form 8300 Reference Guide",
+      "publisher": "Internal Revenue Service",
+      "url": "https://www.irs.gov/businesses/small-businesses-self-employed/irs-form-8300-reference-guide",
+      "accessed": "2026-10-11",
+      "note": "Businesses, including attorneys, must report cash over $10,000 within 15 days"
+    },
+    {
+      "label": "Model Rule 1.5: Fees",
+      "publisher": "American Bar Association",
+      "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_5_fees/",
+      "accessed": "2026-10-11",
+      "note": "Rule 1.5(d): no contingent fees in criminal defense or in divorce, alimony, support or property-settlement matters"
+    },
+    {
+      "label": "Model Rule 1.15: Safekeeping Property",
+      "publisher": "American Bar Association",
+      "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_15_safekeeping_property/",
+      "accessed": "2026-10-11",
+      "note": "Advance fees are held in a client trust account and withdrawn only as earned"
+    },
+    {
+      "label": "Defender Services",
+      "publisher": "Administrative Office of the U.S. Courts",
+      "url": "https://www.uscourts.gov/about-federal-courts/defender-services",
+      "accessed": "2026-10-11",
+      "note": "CJA panel rates $177/hour non-capital and up to $226/hour capital for work on or after Jan. 1, 2026; case thresholds; 83 federal defender organizations; 60/40 split of appointments"
+    },
+    {
+      "label": "Compare Lawyer Rates (2025 Legal Trends Report data)",
+      "publisher": "Clio",
+      "url": "https://www.clio.com/resources/legal-trends/compare-lawyer-rates/",
+      "accessed": "2026-10-11",
+      "note": "2025 average hourly rates: all lawyers $349; by practice area (criminal, family, employment, immigration, bankruptcy, workers' comp)"
+    },
+    {
+      "label": "California Rules of Professional Conduct, Rule 1.8.6 (rule text and executive summary)",
+      "publisher": "State Bar of California",
+      "url": "https://www.calbar.ca.gov/Portals/0/documents/rules/Rule_1.8.6-Exec_Summary-Redline.pdf",
+      "accessed": "2026-10-11",
+      "note": "Conditions for a lawyer accepting payment from someone other than the client"
+    }
+  ],
+  "related": [
+    "federal-criminal-defense-lawyer-cost",
+    "criminal-defense-lawyer-cost",
+    "white-collar-crime-lawyer-cost",
+    "can-i-afford-a-lawyer",
+    "hourly-vs-flat-fee-lawyer"
+  ],
+  "product": "toolkit",
+  "lawdepot": []
+}

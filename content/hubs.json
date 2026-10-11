@@ -1,0 +1,15 @@
+{
+ "guides": [
+  {"id":"hiring","title":"Hiring a lawyer and paying fees","slugs":["how-much-does-a-lawyer-cost","lawyer-consultation-fee","hourly-vs-flat-fee-lawyer","contingency-fee-explained","contingency-fee-lawyer-finder","can-i-afford-a-lawyer","legal-aid-guide"]},
+  {"id":"courts","title":"Courts, lawsuits and disputes","slugs":["how-much-does-a-lawsuit-cost","small-claims-court-cost","mediation-cost-guide","class-action-lawsuit-cost"]},
+  {"id":"family","title":"Family law","slugs":["divorce-lawyer-cost","child-custody-lawyer-cost"]},
+  {"id":"estate","title":"Wills, estates and documents","slugs":["will-cost-guide","estate-planning-lawyer-cost","power-of-attorney-cost","notary-cost-guide"]},
+  {"id":"criminal","title":"Criminal defense","slugs":["criminal-defense-lawyer-cost","dui-lawyer-cost","federal-criminal-defense-lawyer-cost","white-collar-crime-lawyer-cost","drug-trafficking-lawyer-cost"]},
+  {"id":"injury","title":"Injury and accident claims","slugs":["personal-injury-lawyer-cost","motorcycle-accident-lawyer-cost","truck-accident-lawyer-cost","uber-lyft-accident-lawyer-cost","medical-malpractice-lawyer-cost","birth-injury-lawyer-cost","workers-comp-lawyer-cost"]},
+  {"id":"mass-torts","title":"Mass torts and large litigation","intro":"Status pages for large litigations, dated and sourced. We do not estimate what individual claims are worth.","slugs":["mesothelioma-lawyer-cost","camp-lejeune-lawsuit-cost","roundup-lawsuit-cost","talcum-powder-lawsuit-cost"]},
+  {"id":"work-money","title":"Work, money and business","slugs":["employment-lawyer-cost","bankruptcy-lawyer-cost","social-security-disability-lawyer-cost","immigration-lawyer-cost","business-lawyer-cost","trademark-lawyer-cost","patent-lawyer-cost","real-estate-lawyer-cost","landlord-tenant-lawyer-cost"]}
+ ],
+ "calculators": [
+  {"id":"calculators","title":"Free calculators","intro":"Each calculator shows its formula and uses only the numbers you enter or official fee data we cite.","slugs":["lawyer-cost-calculator","contingency-fee-calculator","small-claims-filing-fee-calculator","personal-injury-settlement-calculator","mesothelioma-settlement-calculator"]}
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "slug": "hourly-vs-flat-fee-lawyer",
+ "title": "Hourly vs. Flat Fee Lawyers: Which Costs Less? Worked Examples (2026)",
+ "description": "Hourly or flat fee? Break-even math, how billing increments add up, scope traps in flat-fee deals, and a checklist for choosing between the two.",
+ "h1": "Hourly vs. flat fee: which lawyer fee is better for you?",
+ "lastReviewed": "2026-10-11",
+ "summary": "A flat fee fixes the price of a defined task, so the risk of extra hours sits with the lawyer; hourly billing charges for the time actually spent, so that risk sits with you. To compare them, divide the flat fee by the hourly rate: at Clio's 2025 national average of $349 an hour, a $2,000 flat fee breaks even at about 5.7 hours. Flat fees suit predictable tasks with a clear finish line; hourly billing fits disputes whose length nobody can predict.",
+ "body": "<section id=\"how-each-works\"><h2>How each model works</h2><div class=\"table-wrap\"><table class=\"data-table\"><caption>Hourly, flat and hybrid arrangements compared</caption><thead><tr><th></th><th>Hourly</th><th>Flat fee</th><th>Hybrid</th></tr></thead><tbody><tr><td>You pay</td><td>Rate × time recorded</td><td>One agreed price</td><td>Flat price for a defined stage, hourly beyond it</td></tr><tr><td>Who carries the risk of extra work</td><td>You</td><td>The lawyer, within the agreed scope</td><td>Shared</td></tr><tr><td>Fits best</td><td>Disputes, negotiations, open-ended advice</td><td>Repeatable tasks with a clear end point</td><td>Matters that start simple but might become contested</td></tr><tr><td>Main thing to check</td><td>Rate per person, billing increment, estimate</td><td>What is excluded from the scope</td><td>The exact event that switches billing to hourly</td></tr></tbody></table></div><p>Whichever model you choose, ABA Model Rule 1.5(b) expects the lawyer to communicate the scope of the work and the basis or rate of the fee, preferably in writing, before or soon after the work begins<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>. A retainer is not a third pricing model: it is an advance deposit, and under ABA Model Rule 1.15(c) money paid in advance goes into a client trust account and is withdrawn only as fees are earned or expenses incurred<sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>.</p></section><section id=\"break-even\"><h2>The break-even test</h2><p>The quickest way to compare a flat quote with an hourly quote is:</p><p><strong>Break-even hours = flat fee ÷ hourly rate.</strong></p><p>If you expect the work to take longer than the break-even, the flat fee is the better deal; if shorter, hourly is. The table uses Clio's 2025 national average rate of $349<sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup> as an illustrative rate; substitute the rate you were quoted.</p><div class=\"table-wrap\"><table class=\"data-table\"><caption>Illustrative break-even points at $349 an hour</caption><thead><tr><th>Flat fee quoted</th><th>Arithmetic</th><th>Break-even</th></tr></thead><tbody><tr><td>$1,500</td><td>$1,500 ÷ $349</td><td>4.3 hours</td></tr><tr><td>$2,000</td><td>$2,000 ÷ $349</td><td>5.7 hours</td></tr><tr><td>$2,500</td><td>$2,500 ÷ $349</td><td>7.2 hours</td></tr><tr><td>$5,000</td><td>$5,000 ÷ $349</td><td>14.3 hours</td></tr></tbody></table></div><p>The hard part is the estimate of hours. Ask the hourly lawyer for a written estimate with a low and high case, and ask the flat-fee lawyer what they assume the work involves.</p></section><section id=\"example-predictable\"><h2>Example 1: a predictable task</h2><div class=\"example\"><p>You need a set of contract documents drafted for a small business. Lawyer A bills hourly and estimates 4 to 6 hours. Lawyer B quotes a flat $1,800. Using $349 as the hourly rate: 4 × $349 = $1,396 and 6 × $349 = $2,094. The flat fee falls inside that range, so the choice turns on certainty. If you value knowing the price in advance, the flat fee costs you at most $404 more than the best hourly case ($1,800 − $1,396) and saves up to $294 against the worst ($2,094 − $1,800).</p></div></section><section id=\"example-dispute\"><h2>Example 2: a dispute that may or may not escalate</h2><div class=\"example\"><p>You receive a demand letter. Lawyer A offers a flat $3,000 to handle the response and negotiation, excluding any lawsuit. Lawyer B bills hourly at $349.</p><ul><li>If the other side backs down after one letter and a call (about 5 hours): hourly = 5 × $349 = $1,745, which is $1,255 less than the flat fee.</li><li>If negotiation drags on (about 15 hours): hourly = 15 × $349 = $5,235, which is $2,235 more than the flat fee.</li></ul><p>The flat fee is effectively insurance against a long negotiation. Whether it is worth $1,255 in the quick scenario depends on how likely you think a quick resolution is. Neither quote covers a lawsuit, so ask what each lawyer would charge if one is filed.</p></div></section><section id=\"example-increments\"><h2>Example 3: how billing increments add up</h2><p>Hourly lawyers record time in minimum units. The unit matters most when there are many short tasks such as emails and calls.</p><div class=\"example\"><p>Over a month, the lawyer handles 20 short emails and calls that each take 3 minutes, one hour of real work in total. At $349 an hour:</p><ul><li>Billed by the actual minute: 1.0 hour × $349 = $349.</li><li>Billed in 6-minute units (0.1 hour), each task rounded up: 20 × 0.1 = 2.0 hours × $349 = $698.</li><li>Billed in 15-minute units (0.25 hour), each task rounded up: 20 × 0.25 = 5.0 hours × $349 = $1,745.</li></ul></div><p>Ask what increment the lawyer uses and whether short tasks are grouped. Sending one organized email instead of five quick ones also helps.</p></section><section id=\"scope-traps\"><h2>Flat-fee scope traps</h2><p>A flat fee is only as good as its scope description. Before you sign, ask whether the fee covers:</p><ul><li>court filing fees, service of process and other government charges (usually not);</li><li>more than one hearing or court appearance;</li><li>responding if the other side contests or files motions;</li><li>revisions after the first draft, and how many;</li><li>work after the main event, such as preparing the final order or closing paperwork;</li><li>appeals (almost never).</li></ul><div class=\"example\"><p><strong>Hybrid example.</strong> A lawyer quotes $2,500 flat for an uncontested matter plus $349 an hour if a contested hearing is needed. If the other side objects and the hearing takes 4 hours of preparation and attendance: $2,500 + (4 × $349) = $2,500 + $1,396 = $3,896.</p></div><p>Also ask what happens to the money if the matter ends early or you change lawyers. Labels such as \"earned on receipt\" or \"non-refundable\" do not override the requirement in Rule 1.5(a) that a fee be reasonable<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>, and state rules on these terms differ, so get the refund terms in writing.</p></section><section id=\"choose\"><h2>Which should you choose?</h2><ul><li><strong>Choose a flat fee</strong> when the task is well defined, the lawyer does it often, and you want a fixed budget: simple wills, uncontested filings, standard documents.</li><li><strong>Choose hourly</strong> when the matter could resolve quickly or the scope genuinely cannot be predicted, and ask for an estimate, monthly invoices and a heads-up before the estimate is exceeded.</li><li><strong>Ask for a hybrid</strong> when the matter is simple unless the other side fights.</li><li><strong>Consider limited scope</strong> help when you only need part of the job done, such as a document review or hearing preparation<sup class=\"cite\"><a href=\"#src-4\">[4]</a></sup>.</li></ul><p>Personal injury and similar claims usually follow a third model; see <a href=\"/pages/contingency-fee-explained\">contingency fees explained</a>. To compare quotes, try the <a href=\"/pages/lawyer-cost-calculator\">lawyer cost calculator</a> or read <a href=\"/pages/how-much-does-a-lawyer-cost\">how much a lawyer costs</a>.</p></section>",
+ "faq": [
+  {
+   "q": "Is a flat fee always cheaper than hourly billing?",
+   "a": "No. A flat fee is cheaper only if the work would have taken more hours than the flat fee divided by the hourly rate. For quick matters hourly billing can cost less; the flat fee buys certainty."
+  },
+  {
+   "q": "Can I ask an hourly lawyer for a cap?",
+   "a": "Yes. You can ask for a written estimate, a cap for a defined stage, or a commitment to warn you before fees pass a set amount. Not every lawyer will agree to a hard cap, but most can give an estimate."
+  },
+  {
+   "q": "Is a retainer the same as a flat fee?",
+   "a": "No. A retainer is usually an advance deposit that the lawyer bills hourly time against, and unused funds are normally returned. A flat fee is the full price for a defined task."
+  },
+  {
+   "q": "Do flat fees include court filing fees?",
+   "a": "Usually not. Filing fees, service of process and other government charges are typically billed separately as costs, so ask for them to be listed in the agreement."
+  },
+  {
+   "q": "What happens to a flat fee if I fire the lawyer early?",
+   "a": "It depends on the agreement and your state's rules. Any fee must be reasonable, so a lawyer who has done little of the work may have to refund part of it; if you cannot agree, many state bars offer fee dispute programs."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Model Rule 1.5: Fees",
+   "publisher": "American Bar Association",
+   "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_5_fees/",
+   "accessed": "2026-10-11",
+   "note": "Reasonable-fee factors, fee communication, written contingency agreements, contingency bans and fee division"
+  },
+  {
+   "label": "Model Rule 1.15: Safekeeping Property",
+   "publisher": "American Bar Association",
+   "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_15_safekeeping_property/",
+   "accessed": "2026-10-11",
+   "note": "Advance fees and expenses go into a client trust account and are withdrawn only as earned or incurred"
+  },
+  {
+   "label": "Compare Lawyer Rates (2025 Legal Trends Report data)",
+   "publisher": "Clio",
+   "url": "https://www.clio.com/resources/legal-trends/compare-lawyer-rates/",
+   "accessed": "2026-10-11",
+   "note": "U.S. national average lawyer hourly rate of $349 (2025), used only for illustrative arithmetic"
+  },
+  {
+   "label": "Delivery of Legal Services: Resources (unbundling / limited scope representation)",
+   "publisher": "American Bar Association Standing Committee on the Delivery of Legal Services",
+   "url": "https://www.americanbar.org/groups/delivery_legal_services/resources/",
+   "accessed": "2026-10-11",
+   "note": "Describes limited scope (unbundled) representation as an alternative to full-service representation"
+  }
+ ],
+ "related": [
+  "how-much-does-a-lawyer-cost",
+  "contingency-fee-explained",
+  "lawyer-consultation-fee",
+  "lawyer-cost-calculator",
+  "can-i-afford-a-lawyer"
+ ],
+ "product": "toolkit",
+ "lawdepot": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "patent-lawyer-cost",
+  "title": "Patent Lawyer Cost: USPTO Fees by Entity Size and Attorney Costs (2026)",
+  "description": "USPTO patent fees by entity size, provisional vs nonprovisional costs, what drives patent attorney fees, and a worked budget example.",
+  "h1": "How much does a patent lawyer cost?",
+  "lastReviewed": "2026-10-11",
+  "summary": "USPTO fees to file a utility patent application total $2,000, or $800 for a small entity and $400 for a micro entity; a provisional application costs $325, $130 or $65. The issue fee adds $1,290, $516 or $258. Attorney or agent time is usually the larger cost: at Clio's all-practice average of $349 an hour, 25 hours of drafting alone would be $8,725.",
+  "body": "\n<section id=\"uspto-fees\"><h2>USPTO patent fees by entity size</h2>\n<p>The USPTO charges three fees when you file a utility (nonprovisional) application: a basic filing fee, a search fee and an examination fee. The amounts drop by 60% for small entities and 80% for micro entities <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>.</p>\n<div class=\"table-wrap\"><table class=\"data-table\"><caption>Core USPTO utility patent fees (effective January 19, 2025) <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup></caption>\n<thead><tr><th scope=\"col\">Fee</th><th scope=\"col\">Undiscounted</th><th scope=\"col\">Small entity</th><th scope=\"col\">Micro entity</th></tr></thead><tbody>\n<tr><td>Basic filing</td><td>$350</td><td>$140</td><td>$70</td></tr>\n<tr><td>Search</td><td>$770</td><td>$308</td><td>$154</td></tr>\n<tr><td>Examination</td><td>$880</td><td>$352</td><td>$176</td></tr>\n<tr><th scope=\"row\">Total to file</th><td>$2,000</td><td>$800</td><td>$400</td></tr>\n<tr><td>Provisional application filing</td><td>$325</td><td>$130</td><td>$65</td></tr>\n<tr><td>Issue fee (when allowed)</td><td>$1,290</td><td>$516</td><td>$258</td></tr>\n<tr><td>First maintenance fee (due at 3.5 years)</td><td>$2,150</td><td>$860</td><td>$430</td></tr>\n<tr><td>One-month extension of time to respond</td><td>$235</td><td>$94</td><td>$47</td></tr>\n</tbody></table></div>\n<p>All figures are from the USPTO fee schedule <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>. Extra fees apply for claims beyond the included number, long applications and later maintenance fees, so check the schedule for your case.</p>\n<h3>Which entity size are you?</h3>\n<ul>\n<li><strong>Small entity:</strong> individual inventors, nonprofits and universities, and businesses that meet the SBA size standards, as long as you have not licensed or assigned rights to a larger company <sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>.</li>\n<li><strong>Micro entity:</strong> a small entity whose inventors are named on no more than four previous nonprovisional applications and whose gross income last year was no more than three times the U.S. median household income. Applicants employed by or assigning to a university can also qualify <sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup>.</li>\n</ul>\n<div class=\"note\"><p>Claiming a discount you do not qualify for can put the patent at risk. If you license the invention to a large company, your entity status changes.</p></div>\n</section>\n\n<section id=\"provisional\"><h2>Provisional vs nonprovisional applications</h2>\n<p>A provisional application is a cheaper placeholder. It gives you a filing date and lets you say \"patent pending,\" but it is not examined and never becomes a patent on its own. You must file a nonprovisional application within 12 months to claim the provisional's filing date <sup class=\"cite\"><a href=\"#src-4\">[4]</a></sup>.</p>\n<div class=\"table-wrap\"><table class=\"data-table\"><caption>Provisional and nonprovisional compared</caption>\n<thead><tr><th scope=\"col\"></th><th scope=\"col\">Provisional</th><th scope=\"col\">Nonprovisional (utility)</th></tr></thead><tbody>\n<tr><td>USPTO filing fees, small entity</td><td>$130 <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup></td><td>$800 (filing + search + exam) <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup></td></tr>\n<tr><td>Claims required</td><td>No</td><td>Yes</td></tr>\n<tr><td>Examined</td><td>No</td><td>Yes</td></tr>\n<tr><td>Lifespan</td><td>12 months to file the nonprovisional <sup class=\"cite\"><a href=\"#src-4\">[4]</a></sup></td><td>Can mature into a patent</td></tr>\n</tbody></table></div>\n<p>The common mistake is treating the provisional as a cheap patent. Its value depends entirely on how well it describes the invention. If the later nonprovisional claims something the provisional did not disclose, those claims do not get the earlier date. A thin provisional saves money now and may cost you priority later.</p>\n</section>\n\n<section id=\"attorney-fees\"><h2>What patent attorneys charge for</h2>\n<p>Most of the cost of a patent is professional time, not USPTO fees. Patent attorneys and patent agents (registered non-lawyers who can prosecute applications) usually quote a flat fee for drafting and bill hourly or per response for prosecution. We have not found a free, reliable national survey of patent drafting fees, so we show how the time adds up instead of a market range.</p>\n<h3>What drives the cost up</h3>\n<ul>\n<li><strong>Technology complexity.</strong> Software, chemistry and biotech applications take longer to draft than a simple mechanical device.</li>\n<li><strong>Prior art search.</strong> A professional search before drafting adds cost but can stop you spending on an unpatentable idea.</li>\n<li><strong>Drawings.</strong> Formal patent drawings are often a separate charge.</li>\n<li><strong>Office actions.</strong> Most applications receive at least one rejection that must be answered with arguments or amendments, and each response is billed.</li>\n<li><strong>Extensions.</strong> Paying for extra time to respond adds USPTO fees, starting at $94 for one month for a small entity <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>.</li>\n<li><strong>Foreign filing.</strong> Each country or regional office adds its own fees and local counsel.</li>\n</ul>\n<div class=\"example\"><p><strong>Example (small entity, hourly illustration):</strong> using Clio's all-practice national average of $349 an hour <sup class=\"cite\"><a href=\"#src-5\">[5]</a></sup>, 25 hours of drafting = 25 × $349 = $8,725, plus $800 in USPTO filing fees. Two Office action responses at 8 hours each = 16 × $349 = $5,584. Issue fee: $516 <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>. Total: $8,725 + $800 + $5,584 + $516 = $15,625. The hours here are assumptions for illustration; ask each attorney for an estimate based on your invention, and note that patent specialists often bill above or below the all-practice average.</p></div>\n</section>\n\n<section id=\"ways-to-save\"><h2>When you can save and when you should not</h2>\n<p><strong>Reasonable savings:</strong> doing your own preliminary search on the USPTO's free search tools before hiring anyone, confirming whether you qualify for small or micro entity fees, writing a clear invention disclosure (what it does, how it works, alternatives, drawings) so the attorney spends less time learning it, and asking for a flat fee for drafting.</p>\n<p><strong>Risky savings:</strong> filing a do-it-yourself nonprovisional with claims you drafted yourself, or relying on a thin provisional for a product you are about to launch. Claims define what the patent protects, and errors are hard to fix later.</p>\n<h3>Questions to ask a patent attorney or agent</h3>\n<ul>\n<li>Is drafting a flat fee, and what does it include (search, drawings, filing, the first response)?</li>\n<li>How are Office action responses billed?</li>\n<li>Are you registered to practice before the USPTO, and have you handled inventions in my field?</li>\n<li>What is the total budget through issue, including USPTO fees for my entity size?</li>\n</ul>\n<p>For brand names and logos, see <a href=\"/pages/trademark-lawyer-cost\">trademark lawyer cost</a>; for setting up the company that will own the patent, see <a href=\"/pages/business-lawyer-cost\">business lawyer cost</a>.</p>\n</section>\n",
+  "faq": [
+    {
+      "q": "How much are USPTO fees for a utility patent?",
+      "a": "Filing, search and examination together cost $2,000 undiscounted, $800 for a small entity and $400 for a micro entity. The issue fee and maintenance fees come later."
+    },
+    {
+      "q": "How much does a provisional patent application cost to file?",
+      "a": "The USPTO fee is $325, or $130 for a small entity and $65 for a micro entity. Attorney drafting time is extra and depends on how thoroughly the invention is described."
+    },
+    {
+      "q": "How long does a provisional patent last?",
+      "a": "You must file the nonprovisional application within 12 months of the provisional to claim its filing date. The provisional itself is never examined or issued."
+    },
+    {
+      "q": "Who qualifies as a micro entity?",
+      "a": "A small entity whose inventors are named on no more than four prior nonprovisional applications and whose gross income was no more than three times the U.S. median household income in the previous year, or that is tied to a university."
+    },
+    {
+      "q": "Can I file a patent without a lawyer?",
+      "a": "Yes, inventors can file their own applications, and registered patent agents are a non-lawyer option. The risk is in drafting the claims, which set the scope of protection."
+    }
+  ],
+  "sources": [
+    {
+      "label": "USPTO Fee Schedule (patent fees; effective January 19, 2025)",
+      "publisher": "U.S. Patent and Trademark Office",
+      "url": "https://www.uspto.gov/learning-and-resources/fees-and-payment/uspto-fee-schedule",
+      "accessed": "2026-10-11",
+      "note": "Filing, search, examination, provisional, issue, maintenance and extension fees by entity size"
+    },
+    {
+      "label": "37 CFR 1.27 (definition of small entities)",
+      "publisher": "eCFR",
+      "url": "https://www.ecfr.gov/current/title-37/chapter-I/subchapter-A/part-1/subpart-A/subject-group-ECFR6f0ef3a5f5d3f87/section-1.27",
+      "accessed": "2026-10-11",
+      "note": "Who qualifies for small entity fees"
+    },
+    {
+      "label": "37 CFR 1.29 (micro entity status)",
+      "publisher": "eCFR",
+      "url": "https://www.ecfr.gov/current/title-37/chapter-I/subchapter-A/part-1/subpart-A/subject-group-ECFR6f0ef3a5f5d3f87/section-1.29",
+      "accessed": "2026-10-11",
+      "note": "Micro entity: four-application limit and income test"
+    },
+    {
+      "label": "35 U.S.C. 119 (benefit of earlier filing date)",
+      "publisher": "Legal Information Institute, Cornell Law School",
+      "url": "https://www.law.cornell.edu/uscode/text/35/119",
+      "accessed": "2026-10-11",
+      "note": "Nonprovisional must be filed within 12 months of the provisional"
+    },
+    {
+      "label": "Compare Lawyer Rates (2025 Legal Trends Report)",
+      "publisher": "Clio",
+      "url": "https://www.clio.com/resources/legal-trends/compare-lawyer-rates/",
+      "accessed": "2026-10-11",
+      "note": "US national average lawyer hourly rate of $349"
+    }
+  ],
+  "related": [
+    "trademark-lawyer-cost",
+    "business-lawyer-cost",
+    "hourly-vs-flat-fee-lawyer",
+    "how-much-does-a-lawyer-cost",
+    "lawyer-cost-calculator"
+  ],
+  "product": "toolkit",
+  "lawdepot": []
+}

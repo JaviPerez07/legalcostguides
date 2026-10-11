@@ -1,0 +1,43 @@
+{
+ "slug": "small-claims-filing-fee-calculator",
+ "navTitle": "Small Claims Fee Lookup",
+ "title": "Small Claims Filing Fee Calculator: Fees and Limits by State",
+ "description": "Pick your state and claim amount to see the small claims limit, filing fee and service costs we verified, with links to the official sources.",
+ "h1": "Small claims filing fee and limit lookup",
+ "lastReviewed": "2026-10-11",
+ "summary": "Choose your state and enter your claim amount to see whether it fits the state's small claims limit and what the court charges to file. Fees come from statutes and court fee pages we checked on October 11, 2026; where a fee varies by county or we have not verified it, the tool says so instead of guessing.",
+ "tool": "<form class=\"calc\" id=\"calc-small-claims\" novalidate><div class=\"row\"><label for=\"sc-state\">State<select id=\"sc-state\"><!--SC_OPTIONS--></select></label><label for=\"sc-amount\">Amount you are claiming ($)<input id=\"sc-amount\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"50\" value=\"3000\"></label></div><button class=\"calc-button\" type=\"submit\">Look up</button><div id=\"sc-result\" class=\"calc-out\" aria-live=\"polite\" hidden></div></form><!--SC_DATA-->",
+ "body": "<section id=\"what-it-shows\"><h2>What the lookup shows</h2><p>For each state, the lookup returns three things from our verified state data: the maximum amount you can claim in small claims court, the filing fee, and what we found about the cost of serving the other party. Each state guide links to the statute or court page behind those numbers. We do not fill gaps with estimates: when a fee depends on the county or we have not been able to confirm it, the result says so.</p></section><section id=\"other-costs\"><h2>Costs beyond the filing fee</h2><ul><li><strong>Service of process:</strong> sheriff, constable, certified mail or a private process server, depending on the state.</li><li><strong>Subpoenas and witness fees</strong> if you need someone to testify.</li><li><strong>Collecting the judgment:</strong> winning does not guarantee payment; wage garnishment and bank levies usually carry their own fees.</li><li><strong>Fee waivers:</strong> if you cannot afford the fees, ask the clerk for the fee waiver form.</li></ul><p>In many courts the winner can ask for filing and service costs to be added to the judgment. Our <a href=\"/pages/small-claims-court-cost\">small claims cost guide</a> covers the full process and compares all 50 states.</p></section>",
+ "faq": [
+  {
+   "q": "Can I claim more than the small claims limit?",
+   "a": "Usually you must either reduce your claim to the limit (giving up the rest) or file in a higher civil court, where fees and procedures are more complex. Do not split one claim into several cases to get under the limit; courts generally do not allow it."
+  },
+  {
+   "q": "Do I get my filing fee back if I win?",
+   "a": "Often the judge can add your filing and service costs to the judgment, but you still have to collect the judgment from the other party."
+  },
+  {
+   "q": "Why does the tool say a fee is not verified?",
+   "a": "Some states let each county set fees, and some official fee schedules were not available when we checked. We would rather tell you to call the clerk than publish a number we cannot support."
+  }
+ ],
+ "sources": [
+  {
+   "label": "State small claims data (statutes and court fee pages for each state)",
+   "publisher": "LegalCostGuides state guides",
+   "url": "https://legalcostguides.com/states/",
+   "accessed": "2026-10-11",
+   "note": "Each state guide lists the official source behind every figure"
+  }
+ ],
+ "related": [
+  "small-claims-court-cost",
+  "how-much-does-a-lawsuit-cost",
+  "lawyer-cost-calculator"
+ ],
+ "product": "smallclaims",
+ "lawdepot": [
+  "demand-letter"
+ ]
+}

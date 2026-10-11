@@ -1,0 +1,54 @@
+{
+ "slug": "lawyer-cost-calculator",
+ "navTitle": "Lawyer Cost Calculator",
+ "title": "Lawyer Cost Calculator: Estimate Hourly, Flat or Contingency Fees",
+ "description": "Estimate a lawyer's total bill from the hourly rate, hours, flat fee or contingency percentage, plus expenses and court fees. Shows the formula.",
+ "h1": "Lawyer cost calculator",
+ "lastReviewed": "2026-10-11",
+ "summary": "Multiply the lawyer's hourly rate by a realistic low and high number of hours, then add expenses and court fees; for flat fees, add a buffer for work outside the agreed scope; for contingency fees, multiply the expected recovery by the percentage. The national average billed rate in Clio's 2025 data is $349 an hour, which this calculator uses as its starting value.",
+ "tool": "<form class=\"calc\" id=\"calc-lawyer-cost\" novalidate><fieldset><legend>How will the lawyer charge?</legend><div class=\"row\"><label for=\"lc-model\">Billing model<select id=\"lc-model\"><option value=\"hourly\">Hourly</option><option value=\"flat\">Flat fee</option><option value=\"contingency\">Contingency (percentage of recovery)</option></select></label></div></fieldset><fieldset data-model=\"hourly\"><legend>Hourly billing</legend><div class=\"row\"><label for=\"lc-rate\">Hourly rate ($)<input id=\"lc-rate\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"1\" value=\"349\"><span class=\"hint\">Default: Clio national average, 2025 data</span></label><label for=\"lc-hours-low\">Hours, low estimate<input id=\"lc-hours-low\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"0.5\" value=\"5\"></label><label for=\"lc-hours-high\">Hours, high estimate<input id=\"lc-hours-high\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"0.5\" value=\"15\"></label></div></fieldset><fieldset data-model=\"flat\"><legend>Flat fee</legend><div class=\"row\"><label for=\"lc-flat\">Quoted flat fee ($)<input id=\"lc-flat\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"50\" value=\"1500\"></label></div></fieldset><fieldset data-model=\"contingency\"><legend>Contingency</legend><div class=\"row\"><label for=\"lc-recovery\">Amount you might recover ($)<input id=\"lc-recovery\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"1000\" value=\"50000\"><span class=\"hint\">Your own assumption; we do not predict case values</span></label><label for=\"lc-pct\">Fee percentage (%)<input id=\"lc-pct\" type=\"number\" inputmode=\"decimal\" min=\"0\" max=\"100\" step=\"0.5\" value=\"33.3\"></label></div></fieldset><fieldset><legend>Costs outside the fee</legend><div class=\"row\"><label for=\"lc-expenses\">Expenses ($)<input id=\"lc-expenses\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"50\" value=\"0\"><span class=\"hint\">Records, experts, transcripts, travel</span></label><label for=\"lc-courtfees\">Court filing and service fees ($)<input id=\"lc-courtfees\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"5\" value=\"0\"></label><label for=\"lc-buffer\" data-model=\"hourly flat\">Overrun buffer (%)<input id=\"lc-buffer\" type=\"number\" inputmode=\"decimal\" min=\"0\" max=\"200\" step=\"5\" value=\"20\"></label></div></fieldset><button class=\"calc-button\" type=\"submit\">Calculate</button><div id=\"lc-result\" class=\"calc-out\" aria-live=\"polite\" hidden></div></form>",
+ "body": "<section id=\"how-it-works\"><h2>How the calculator works</h2><p>The calculator does simple, visible arithmetic. It does not look up prices or guess what your case needs:</p><ul><li><strong>Hourly:</strong> rate \u00d7 low hours, and rate \u00d7 high hours plus your overrun buffer, then expenses and court fees are added to both ends.</li><li><strong>Flat fee:</strong> the quoted fee, plus the buffer on the high end for work the flat fee does not cover (ask the lawyer to list exclusions in writing).</li><li><strong>Contingency:</strong> the recovery you assume \u00d7 the percentage, plus expenses and court fees. The fee is owed only if there is a recovery, but expenses may be owed either way depending on the agreement.</li></ul><p>The default rate of $349 is the national average billed rate in Clio's 2025 Legal Trends data<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>. Replace it with the rate a lawyer actually quotes you: rates vary widely by practice area, experience and city.</p></section><section id=\"estimating-hours\"><h2>Estimating hours honestly</h2><p>The hours are the part people get most wrong. Ask each lawyer two questions: \"How many hours does a matter like mine usually take if it settles early?\" and \"How many if it goes to a hearing or trial?\" Use the first answer as your low estimate and the second as your high estimate. If a lawyer will not give any range, that is useful information too.</p><div class=\"example\"><p><strong>Example:</strong> a lawyer quotes $300 an hour and estimates 8 to 20 hours. With a 20% buffer and $250 in court fees, the range is (8 \u00d7 $300) + $250 = $2,650 to (20 \u00d7 $300 \u00d7 1.2) + $250 = $7,450.</p></div></section><section id=\"what-the-agreement-must-say\"><h2>What a written fee agreement should tell you</h2><p>ABA Model Rule 1.5, which most states have adopted in some form, requires fees to be reasonable and the basis of the fee to be communicated, preferably in writing; contingency agreements must be in writing and explain how the percentage is calculated and which expenses are deducted<sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>. Before you sign, check that the agreement states the hourly rate of every person who may bill (partner, associate, paralegal), the billing increment (for example 0.1 hour), whether a retainer is refundable, and what happens to unused funds.</p></section><section id=\"compare-quotes\"><h2>Comparing quotes from different lawyers</h2><p>Quotes are only comparable when they are on the same basis. A $250-an-hour lawyer who needs 30 hours costs more than a $400-an-hour lawyer who needs 15. Convert each quote into an estimated total range with this calculator, then compare totals, not rates. Also compare what is excluded: court reporters, expert witnesses and appeals are often outside the quote.</p></section>",
+ "faq": [
+  {
+   "q": "What is the average hourly rate for a lawyer?",
+   "a": "Clio's 2025 Legal Trends data puts the national average billed rate at $349 an hour. Individual quotes vary widely by practice area, experience and location, so use the rate a lawyer actually quotes you."
+  },
+  {
+   "q": "Should I choose a flat fee or hourly billing?",
+   "a": "A flat fee gives you price certainty for well-defined work, such as a simple will or an uncontested filing. Hourly billing is common when the amount of work is unpredictable, such as contested litigation. Ask what is excluded from any flat fee."
+  },
+  {
+   "q": "Do I pay expenses if I lose a contingency case?",
+   "a": "It depends on the written agreement. Some agreements make the client responsible for case expenses regardless of the outcome; others waive them if there is no recovery. The agreement must say which."
+  },
+  {
+   "q": "Is this calculator's result a quote?",
+   "a": "No. It only multiplies and adds the numbers you enter. A lawyer's written fee agreement is the only reliable statement of what you will be charged."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Compare Lawyer Rates (2025 Legal Trends Report data)",
+   "publisher": "Clio",
+   "url": "https://www.clio.com/resources/legal-trends/compare-lawyer-rates/",
+   "accessed": "2026-10-11",
+   "note": "National average billed rate $349/hour"
+  },
+  {
+   "label": "Model Rule 1.5: Fees",
+   "publisher": "American Bar Association",
+   "url": "https://www.americanbar.org/groups/professional_responsibility/publications/model_rules_of_professional_conduct/rule_1_5_fees/",
+   "accessed": "2026-10-11",
+   "note": "Fees must be reasonable; contingency agreements in writing; no contingency fees in criminal cases"
+  }
+ ],
+ "related": [
+  "how-much-does-a-lawyer-cost",
+  "hourly-vs-flat-fee-lawyer",
+  "lawyer-consultation-fee",
+  "contingency-fee-calculator",
+  "can-i-afford-a-lawyer"
+ ],
+ "product": "toolkit",
+ "lawdepot": []
+}

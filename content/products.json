@@ -1,0 +1,91 @@
+{
+  "currency": "usd",
+  "items": [
+    {
+      "sku": "toolkit",
+      "slug": "lawyer-quote-fee-agreement-toolkit",
+      "url": "/products/lawyer-quote-fee-agreement-toolkit",
+      "name": "Lawyer Quote & Fee Agreement Toolkit",
+      "price": 24,
+      "priceDisplay": "$24",
+      "status": "draft",
+      "version": "1.0",
+      "cta": {
+        "headline": "Compare lawyer quotes side by side before you sign",
+        "copy": "A spreadsheet that puts up to 3 quotes on the same basis (hourly, flat, retainer or contingency), a fee-agreement review checklist, consultation questions and a bill tracker to check invoices against the agreement.",
+        "button": "See what's in the toolkit",
+        "image": "/assets/products/toolkit-cta.webp",
+        "imageAlt": "Quote comparison sheet showing three lawyer quotes converted to an estimated total"
+      }
+    },
+    {
+      "sku": "divorce",
+      "slug": "divorce-cost-budget-planner",
+      "url": "/products/divorce-cost-budget-planner",
+      "name": "Divorce Cost & Lawyer Budget Planner",
+      "price": 27,
+      "priceDisplay": "$27",
+      "status": "draft",
+      "version": "1.0",
+      "cta": {
+        "headline": "Budget your divorce before the retainer runs out",
+        "copy": "Estimate legal fees by scenario, track retainer draw-down, and plan the household budget for two homes, with filled examples and a printable workbook.",
+        "button": "See the divorce planner",
+        "image": "/assets/products/divorce-cta.webp",
+        "imageAlt": "Divorce budget planner showing a retainer balance chart"
+      }
+    },
+    {
+      "sku": "estate",
+      "slug": "if-something-happens-binder",
+      "url": "/products/if-something-happens-binder",
+      "name": "\"If Something Happens\" Family Information Binder",
+      "price": 19,
+      "priceDisplay": "$19",
+      "status": "draft",
+      "version": "1.0",
+      "cta": {
+        "headline": "Leave your family a map, not a mystery",
+        "copy": "A fillable organizer listing where documents are, who to call and which accounts exist, without storing passwords or full account numbers. It is not a will.",
+        "button": "See the binder",
+        "image": "/assets/products/estate-cta.webp",
+        "imageAlt": "Pages of the family information binder"
+      }
+    },
+    {
+      "sku": "smallclaims",
+      "slug": "small-claims-filing-kit",
+      "url": "/products/small-claims-filing-kit",
+      "name": "Small Claims Filing Kit",
+      "price": 19,
+      "priceDisplay": "$19",
+      "status": "draft",
+      "version": "1.0",
+      "cta": {
+        "headline": "Organize your small claims case in one place",
+        "copy": "A case organizer with damages math, a demand-letter worksheet, evidence and witness logs, and a court-day checklist, plus a fee and limit reference for the states we have verified.",
+        "button": "See the small claims kit",
+        "image": "/assets/products/smallclaims-cta.webp",
+        "imageAlt": "Small claims organizer with damages calculation"
+      }
+    },
+    {
+      "sku": "bundle",
+      "slug": "legal-cost-planning-bundle",
+      "url": "/products/legal-cost-planning-bundle",
+      "name": "Legal Cost Planning Bundle (all 4 kits)",
+      "price": 59,
+      "priceDisplay": "$59",
+      "status": "draft",
+      "version": "1.0",
+      "includes": ["toolkit", "divorce", "estate", "smallclaims"],
+      "cta": {
+        "headline": "All four planning kits",
+        "copy": "Toolkit, divorce planner, family binder and small claims kit for $59 instead of $89 bought separately.",
+        "button": "See the bundle",
+        "image": null,
+        "imageAlt": ""
+      }
+    }
+  ]
+}

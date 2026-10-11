@@ -1,0 +1,11 @@
+{
+ "urlPath": "/404",
+ "title": "Page Not Found | LegalCostGuides",
+ "description": "The page you were looking for does not exist.",
+ "h1": "Page not found",
+ "noByline": true,
+ "lastReviewed": "2026-10-11",
+ "robots": "noindex,follow",
+ "ads": false,
+ "body": "<p>That page does not exist or has moved. Try the <a href=\"/guides\">guides</a>, the <a href=\"/states/\">state guides</a> or the <a href=\"/calculators\">calculators</a>.</p>"
+}

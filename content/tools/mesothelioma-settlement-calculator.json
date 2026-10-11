@@ -1,0 +1,44 @@
+{
+ "slug": "mesothelioma-settlement-calculator",
+ "navTitle": "Mesothelioma Compensation Calculator",
+ "title": "Mesothelioma Compensation Calculator: Net After Fees, by Source",
+ "description": "Add up mesothelioma compensation from trust claims, lawsuits and VA benefits you've been offered, and see the net after fees and costs.",
+ "h1": "Mesothelioma compensation: net amount calculator",
+ "lastReviewed": "2026-10-11",
+ "summary": "Mesothelioma compensation often comes from several sources at once: asbestos bankruptcy trust claims, lawsuits against solvent companies, and for veterans, VA benefits. Enter the amounts you have actually been offered or awarded and the fee percentage in your agreement to see the net; we do not predict compensation values.",
+ "tool": "<form class=\"calc\" id=\"calc-net-offer\" novalidate><div class=\"row\"><label for=\"no-offer\">Total offered from trusts and lawsuits ($)<input id=\"no-offer\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"1000\" value=\"150000\"></label><label for=\"no-pct\">Contingency fee (%)<input id=\"no-pct\" type=\"number\" inputmode=\"decimal\" min=\"0\" max=\"100\" step=\"0.5\" value=\"33.3\"></label><label for=\"no-costs\">Case costs ($)<input id=\"no-costs\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"500\" value=\"5000\"></label><label for=\"no-liens\">Liens to repay ($)<input id=\"no-liens\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"500\" value=\"0\"></label><label for=\"no-med\">Medical bills ($)<input id=\"no-med\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"500\" value=\"0\"></label><label for=\"no-wages\">Lost income ($)<input id=\"no-wages\" type=\"number\" inputmode=\"decimal\" min=\"0\" step=\"500\" value=\"0\"></label></div><button class=\"calc-button\" type=\"submit\">Calculate net</button><div id=\"no-result\" class=\"calc-out\" aria-live=\"polite\" hidden></div></form>",
+ "body": "<section id=\"sources-of-compensation\"><h2>Where mesothelioma compensation comes from</h2><ul><li><strong>Asbestos bankruptcy trusts.</strong> Many former asbestos companies reorganized in bankruptcy and set up trusts that pay claims according to their own procedures and payment percentages. A GAO review found the trusts paid a percentage of each claim's scheduled value, and that the percentages varied widely between trusts<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>. Those figures are dated, so ask for each trust's current payment percentage.</li><li><strong>Lawsuits</strong> against companies that are still solvent.</li><li><strong>VA benefits</strong> for veterans exposed to asbestos during service<sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>. Fees for representation before the VA are regulated separately from lawsuit fees.</li></ul></section><section id=\"fees\"><h2>How lawyers are paid</h2><p>Mesothelioma lawyers usually work on contingency; the percentage, and whether it differs between trust claims and lawsuits, must be in the written agreement. Ask whether trust claims, which involve paperwork rather than litigation, are charged at the same percentage as a trial. See our <a href=\"/pages/mesothelioma-lawyer-cost\">mesothelioma lawyer cost guide</a> for details.</p></section><section id=\"why-no-prediction\"><h2>Why there is no value prediction here</h2><p>Earlier versions of this page produced compensation ranges from a few multiple-choice answers. We removed them: no public data supports turning a diagnosis and a state into a dollar figure, and such numbers can mislead people at a vulnerable time.</p></section>",
+ "faq": [
+  {
+   "q": "Can I file trust claims and a lawsuit at the same time?",
+   "a": "Often yes. Many people pursue claims against several trusts and a lawsuit against solvent defendants; your lawyer should explain how each is charged under the fee agreement."
+  },
+  {
+   "q": "Do veterans need a lawyer for VA asbestos benefits?",
+   "a": "No. Veterans can apply on their own or get free help from accredited veterans service organizations; fees for paid representation before the VA are regulated."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Asbestos Injury Compensation: The Role and Administration of Asbestos Trusts (GAO-11-819)",
+   "publisher": "U.S. Government Accountability Office",
+   "url": "https://www.gao.gov/products/gao-11-819",
+   "accessed": "2026-10-11",
+   "note": "Trust payment percentages vary by trust (2011 report)"
+  },
+  {
+   "label": "Asbestos exposure",
+   "publisher": "U.S. Department of Veterans Affairs",
+   "url": "https://www.va.gov/disability/eligibility/hazardous-materials-exposure/asbestos/",
+   "accessed": "2026-10-11",
+   "note": "VA eligibility for asbestos-related conditions"
+  }
+ ],
+ "related": [
+  "mesothelioma-lawyer-cost",
+  "contingency-fee-calculator",
+  "personal-injury-settlement-calculator"
+ ],
+ "product": "none",
+ "lawdepot": []
+}

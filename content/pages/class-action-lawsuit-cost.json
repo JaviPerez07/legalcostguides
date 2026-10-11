@@ -1,0 +1,67 @@
+{
+ "slug": "class-action-lawsuit-cost",
+ "title": "Class Action Lawsuit Cost: How Class Counsel Is Paid (2026)",
+ "description": "Class members usually pay nothing. How class counsel fees are set (percentage vs. lodestar), court approval, opting out and spotting fake claim sites.",
+ "h1": "How much does a class action lawsuit cost a class member?",
+ "lastReviewed": "2026-10-11",
+ "summary": "Class members normally pay nothing out of pocket. Class counsel are paid only what the court approves as reasonable, usually from the settlement fund, measured as a percentage of the fund or by hours times reasonable rates (lodestar), after class members get notice and a chance to object (FRCP 23(h)). Opting out costs nothing but means you receive nothing from the settlement and must pay for your own case if you sue. Real claim processes never require a fee to collect.",
+ "body": "<section id=\"short-answer\"><h2>What a class member pays</h2>\n<p>If you are simply a member of a class (you got a notice in the mail or by email, or you are filing a claim on a settlement website), you normally pay nothing out of pocket. You do not sign a fee agreement, and the lawyers who represent the class are paid only what the court awards, usually from the settlement fund or by the defendant. In a federal class action, the court may award class counsel \"reasonable attorney's fees and nontaxable costs\" authorized by law or by the parties' agreement, after a motion that class members are told about and can object to.<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup></p>\n<p>The cost to you is indirect: every dollar awarded to class counsel from a common fund is a dollar not distributed to class members. That is why the fee request is worth reading.</p>\n</section>\n\n<section id=\"how-class-counsel-is-paid\"><h2>How class counsel is paid: two methods</h2>\n<p>The legal basis is the common-fund doctrine: a lawyer who recovers a fund for the benefit of others is entitled to a reasonable fee from the fund as a whole.<sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup> Courts usually measure \"reasonable\" in one of two ways, and often check one against the other.</p>\n<h3>Percentage of the fund</h3>\n<p>The court awards a percentage of the total settlement fund. The percentage is decided case by case and differs among courts, so look at the actual request in your case rather than a rule of thumb.</p>\n<h3>Lodestar</h3>\n<p>The court multiplies the hours reasonably worked by a reasonable hourly rate, then may adjust the result up or down with a multiplier for risk, results and quality of work. Lodestar is common where there is no fund to take a percentage from, such as cases that win mainly a change in practices, or where fees are paid by the defendant under a fee-shifting statute.</p>\n<div class=\"example\">\n<p><strong>Illustrative arithmetic only (hypothetical case).</strong> A $10,000,000 settlement fund. Class counsel request 25%: $10,000,000 × 0.25 = $2,500,000. Their records show 4,000 hours at a blended $450/hour: 4,000 × $450 = $1,800,000 lodestar. The request equals a multiplier of $2,500,000 ÷ $1,800,000 ≈ 1.39. If the court instead awarded 20% ($2,000,000), class members would share an extra $500,000. With 50,000 valid claims, that is $500,000 ÷ 50,000 = $10 more each.</p>\n</div>\n<h3>Coupon settlements</h3>\n<p>Where class members receive coupons, federal law ties the part of the fee attributable to coupons to the value of coupons actually redeemed, not the face value offered.<sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup></p>\n</section>\n\n<section id=\"court-approval\"><h2>The court's approval step</h2>\n<p>A settlement that binds class members can be approved only after a hearing and a finding that it is fair, reasonable and adequate. One of the factors is \"the terms of any proposed award of attorney's fees, including timing of payment.\"<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup> Fee motions are decided separately under Rule 23(h), and the court must make findings and state its legal conclusions; it may refer the amount to a special master or magistrate judge.<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup> Any class member may object to the settlement, stating the grounds with specificity, and payments to objectors for dropping objections or appeals need court approval.<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup></p>\n</section>\n\n<section id=\"your-options\"><h2>Your options when you get a notice</h2>\n<p>In damages class actions, the court must send the best notice practicable, explaining in plain language what the case is about, who is in the class, your right to appear through your own lawyer, your right to be excluded and how, and the binding effect of the judgment.<sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup></p>\n<div class=\"table-wrap\"><table class=\"data-table\"><caption>Choices in a typical damages class settlement</caption><thead><tr><th>Option</th><th>Cost to you</th><th>What you give up or keep</th></tr></thead><tbody><tr><td>Do nothing</td><td>Nothing</td><td>Bound by the settlement; you may receive nothing if a claim form is required</td></tr><tr><td>File a claim</td><td>Nothing to file</td><td>Bound by the settlement; you receive your share if the claim is valid</td></tr><tr><td>Opt out (exclude yourself)</td><td>Nothing to opt out; your own lawyer if you later sue</td><td>Not bound and receive nothing from the settlement; you keep the right to sue on your own, subject to deadlines</td></tr><tr><td>Object</td><td>Nothing unless you hire a lawyer</td><td>You stay in the class and ask the court to reject or change the settlement or fee</td></tr><tr><td>Appear through your own lawyer</td><td>Whatever you agree to pay that lawyer</td><td>Your lawyer can speak for you at hearings</td></tr></tbody></table></div>\n<p>Opting out makes sense mainly when your individual losses are large enough to justify your own case, which usually means paying a lawyer on contingency or by the hour. See <a href=\"/pages/how-much-does-a-lawsuit-cost\">what a lawsuit costs</a>.</p>\n</section>\n\n<section id=\"filing-a-claim\"><h2>How to file a claim safely</h2>\n<ol>\n<li>Find the case name, court and case number in the notice.</li>\n<li>Confirm the settlement website and claims administrator are the ones named in the court-approved notice or on the court's docket.</li>\n<li>Note the claim and opt-out deadlines, which the court sets.</li>\n<li>File only on that site or by mail to the listed administrator; keep a copy and the confirmation number.</li>\n</ol>\n<h3>Spotting fake settlement sites and notices</h3>\n<ul>\n<li>A real claim process does not ask you to pay a fee to receive money. The FTC warns that it will never say you must transfer money to \"get a refund,\" and that anyone who does is a scammer.<sup class=\"cite\"><a href=\"#src-4\">[4]</a></sup></li>\n<li>Be suspicious of requests for your full Social Security number, bank password or card PIN, or for payment by gift card or wire.</li>\n<li>Check that the website name matches the one in the court notice exactly; copycat domains are common.</li>\n<li>If in doubt, look up the case through the court or contact the administrator using details from the court record, not from the message.</li>\n</ul>\n</section>",
+ "faq": [
+  {
+   "q": "Do I have to pay a lawyer to join a class action?",
+   "a": "No. Class members do not pay class counsel directly; the court awards class counsel a fee, usually from the settlement fund, after notice and a chance to object. You pay only if you choose to hire your own lawyer."
+  },
+  {
+   "q": "How much do class action lawyers get?",
+   "a": "Whatever the court approves as reasonable, measured as a percentage of the fund, by hours times rates (lodestar), or both. The figure is in class counsel's fee motion, which is usually posted on the settlement website before the final approval hearing."
+  },
+  {
+   "q": "Should I opt out of a class action settlement?",
+   "a": "Consider it only if your own losses are large enough to justify an individual case and the deadline to sue has not passed. If you opt out you receive nothing from the settlement but keep your right to sue."
+  },
+  {
+   "q": "How can I tell if a class action settlement email is real?",
+   "a": "Check the case name and court, confirm the website and administrator match the court-approved notice, and never pay a fee to collect. The FTC warns that demands to transfer money to get a refund are a scam."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Federal Rule of Civil Procedure 23",
+   "publisher": "Legal Information Institute, Cornell Law School",
+   "url": "https://www.law.cornell.edu/rules/frcp/rule_23",
+   "accessed": "2026-10-11",
+   "note": "Notice, opt-out, objections, settlement approval and Rule 23(h) fee awards"
+  },
+  {
+   "label": "Boeing Co. v. Van Gemert, 444 U.S. 472 (1980)",
+   "publisher": "Justia",
+   "url": "https://supreme.justia.com/cases/federal/us/444/472/",
+   "accessed": "2026-10-11",
+   "note": "Common-fund doctrine: reasonable fee paid from the fund as a whole"
+  },
+  {
+   "label": "28 U.S.C. 1712: Coupon settlements",
+   "publisher": "Legal Information Institute, Cornell Law School",
+   "url": "https://www.law.cornell.edu/uscode/text/28/1712",
+   "accessed": "2026-10-11",
+   "note": "Fees tied to coupons are based on coupons actually redeemed"
+  },
+  {
+   "label": "FTC refunds",
+   "publisher": "Federal Trade Commission",
+   "url": "https://www.ftc.gov/enforcement/refunds",
+   "accessed": "2026-10-11",
+   "note": "Warning that the FTC never asks you to transfer money to get a refund"
+  }
+ ],
+ "related": [
+  "how-much-does-a-lawsuit-cost",
+  "roundup-lawsuit-cost",
+  "talcum-powder-lawsuit-cost",
+  "contingency-fee-explained",
+  "small-claims-court-cost",
+  "legal-aid-guide"
+ ],
+ "product": "none",
+ "lawdepot": []
+}

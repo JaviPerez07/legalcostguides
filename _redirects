@@ -1,6 +1,21 @@
-/reports/* /404 404
-/index.html / 301!
-/index / 301!
+# Canonical host and protocol
 http://legalcostguides.com/* https://legalcostguides.com/:splat 301!
 http://www.legalcostguides.com/* https://legalcostguides.com/:splat 301!
 https://www.legalcostguides.com/* https://legalcostguides.com/:splat 301!
+/index.html / 301!
+/index / 301!
+
+# Merged pages (2026-10 rebuild): duplicate topics folded into one stronger page
+/pages/18-wheeler-accident-lawyer-cost /pages/truck-accident-lawyer-cost 301
+/pages/asbestos-lawsuit-cost /pages/mesothelioma-lawyer-cost 301
+/pages/surgical-error-lawyer-cost /pages/medical-malpractice-lawyer-cost 301
+/pages/wrongful-termination-lawyer-cost /pages/employment-lawyer-cost 301
+/pages/legal-fee-calculator /pages/lawyer-cost-calculator 301
+/sitemap /guides 301
+
+# Malformed URLs seen in Search Console
+/states/west-vinyl /states/west-virginia-lawyer-costs 301
+/states/north-dakota-north-dakota /states/north-dakota-lawyer-costs 301
+/states/delaware-layer-costs /states/delaware-lawyer-costs 301
+/states/new-new-mexico /states/new-mexico-lawyer-costs 301
+/states/index /states/ 301

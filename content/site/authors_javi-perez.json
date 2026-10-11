@@ -1,0 +1,30 @@
+{
+ "urlPath": "/authors/javi-perez/",
+ "title": "Javi P\u00e9rez \u2014 Independent Legal-Cost Researcher",
+ "description": "Javi P\u00e9rez writes and maintains LegalCostGuides. He is not a lawyer; his work is sourcing U.S. legal fees and rules from official documents.",
+ "h1": "Javi P\u00e9rez",
+ "crumb": "Javi P\u00e9rez",
+ "lastReviewed": "2026-10-11",
+ "noByline": true,
+ "jsonld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "ProfilePage",
+   "mainEntity": {
+    "@type": "Person",
+    "name": "Javi P\u00e9rez",
+    "jobTitle": "Independent legal-cost researcher",
+    "url": "https://legalcostguides.com/authors/javi-perez/",
+    "sameAs": [
+     "https://www.linkedin.com/in/javi-perez-guides"
+    ],
+    "email": "javiperezguides@gmail.com",
+    "homeLocation": {
+     "@type": "Place",
+     "name": "Almer\u00eda, Spain"
+    }
+   }
+  }
+ ],
+ "body": "<div class=\"editorial-byline\"><img src=\"/assets/javi-perez-guides.jpg\" alt=\"Javi P\u00e9rez\" width=\"96\" height=\"96\"><div><strong>Independent legal-cost researcher</strong><span class=\"byline-meta\">Almer\u00eda, Spain \u00b7 <a href=\"mailto:javiperezguides@gmail.com\">javiperezguides@gmail.com</a> \u00b7 <a href=\"https://www.linkedin.com/in/javi-perez-guides\" rel=\"noopener\" target=\"_blank\">LinkedIn</a></span></div></div>\n<section id=\"role\"><h2>What I do on this site</h2><p>I research, write and maintain every page on LegalCostGuides. My background is in IT and content operations, not law: <strong>I am not an attorney or a paralegal, and nothing I publish is legal advice.</strong> My work is the sourcing: reading court fee schedules, statutes, agency fee pages and published rate surveys, and turning them into plain-English explanations with a link to each source.</p></section>\n<section id=\"standards\"><h2>How I work</h2><ul><li>Every dollar figure, percentage or deadline is cited at the claim, or shown as a labeled example with its arithmetic.</li><li>When I cannot verify a fee, the page says \"not verified\" rather than guessing.</li><li>Litigation status pages are dated and re-checked; nothing on the site predicts what a case is worth.</li><li>Commercial relationships (AdSense, LawDepot affiliate links, our own planning kits) are disclosed where they appear and on the <a href=\"/affiliate-disclosure\">disclosure page</a>.</li></ul><p>If you find an error, email me with the source and I will check it.</p></section>"
+}
