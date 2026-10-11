@@ -1,0 +1,110 @@
+{
+ "sku": "smallclaims",
+ "title": "Small Claims Filing Kit (Case Organizer + Worksheets) — $19",
+ "description": "Organize a small claims case: limit check, damages calculator, evidence and witness logs, demand letter worksheet and court-day checklist. $19.",
+ "h1": "Small Claims Filing Kit",
+ "outcome": "Walk into small claims court with your amount calculated, your evidence numbered and a 3-minute summary ready, after checking your state's limit and filing fee.",
+ "benefits": [
+  "Case summary that checks your total against your state's small claims limit",
+  "Damages calculator that separates items you can prove from items you can't yet",
+  "Evidence log, witness list, timeline, costs and deadline tracker",
+  "Demand letter worksheet, hearing outline and court-day checklist (PDF)",
+  "50-state reference of limits and filing fees with official source links (40 states fully verified)"
+ ],
+ "formats": "Excel/Google Sheets workbook + fillable PDF",
+ "updated": "October 2026",
+ "updatedISO": "2026-10-11",
+ "samples": [
+  {
+   "src": "/assets/products/smallclaims-case-example.webp",
+   "alt": "Case summary showing a claim within the Michigan limit",
+   "caption": "Case Summary: limit check with the published fee",
+   "w": 1200,
+   "h": 773
+  },
+  {
+   "src": "/assets/products/smallclaims-damages-example.webp",
+   "alt": "Damages calculator with proof status",
+   "caption": "Damages: proven vs not-yet-proven amounts",
+   "w": 1200,
+   "h": 837
+  },
+  {
+   "src": "/assets/products/smallclaims-state-reference.webp",
+   "alt": "State reference table of limits and fees",
+   "caption": "State Reference: limits, fees and official sources",
+   "w": 1200,
+   "h": 764
+  },
+  {
+   "src": "/assets/products/smallclaims-demand-worksheet.webp",
+   "alt": "Demand letter planning worksheet",
+   "caption": "Demand letter worksheet (PDF)",
+   "w": 1200,
+   "h": 1520
+  }
+ ],
+ "files": [
+  {
+   "name": "LCG-Small-Claims-Organizer.xlsx",
+   "format": "Excel workbook (10 tabs)",
+   "does": "Case Summary, Damages, Evidence Log, Witnesses, Timeline, Costs & Deadlines, State Reference, plus filled examples"
+  },
+  {
+   "name": "LCG-Small-Claims-Worksheets.pdf",
+   "format": "Fillable PDF, 5 pages, US Letter",
+   "does": "Quick start, demand letter worksheet, hearing outline, court-day checklist, evidence index"
+  }
+ ],
+ "steps": [
+  "Choose your state: the kit shows the claim limit and the published filing fee.",
+  "List each amount you are claiming and the proof for it.",
+  "Plan and send a demand letter; many disputes end there.",
+  "Number your evidence and write your 3-minute summary.",
+  "Track filing, service and hearing dates, then pack with the checklist."
+ ],
+ "forWho": [
+  "People filing a small claims case without a lawyer",
+  "Landlords, tenants, customers and small businesses with a money dispute under the state limit",
+  "Defendants who want to organize their side of the story"
+ ],
+ "notFor": [
+  "Claims above your state's small claims limit (see the <a href=\"/pages/small-claims-court-cost\">50-state table</a>)",
+  "Anyone needing official court forms: get those from your court",
+  "Anyone wanting legal advice on whether to sue"
+ ],
+ "compat": "Excel 365, LibreOffice Calc 7+ and Google Sheets (File → Import; sheet protection is not carried over). PDFs are US Letter and fillable in Adobe Acrobat Reader and most browser PDF viewers.",
+ "limits": [
+  "It does not provide court forms or file anything for you.",
+  "State figures were checked on October 11, 2026; fees change and often vary by county. Ten states are marked \"not verified\" for at least one figure.",
+  "It cannot tell you whether you will win."
+ ],
+ "faq": [
+  {
+   "q": "Which states does it cover?",
+   "a": "All 50 states are listed. For 40 states we verified both the small claims limit and the filing fee against official sources; the others are marked \"not verified\" for the missing figure so you know to ask the clerk."
+  },
+  {
+   "q": "Does it include a demand letter template?",
+   "a": "It includes a worksheet that helps you plan what to say (facts, amount, deadline). You write the letter in your own words or use a template."
+  },
+  {
+   "q": "Refunds?",
+   "a": "Within 14 days, no questions asked."
+  }
+ ],
+ "related": [
+  [
+   "/pages/small-claims-court-cost",
+   "Small claims court costs by state"
+  ],
+  [
+   "/pages/small-claims-filing-fee-calculator",
+   "Small claims fee lookup"
+  ],
+  [
+   "/pages/how-much-does-a-lawsuit-cost",
+   "How much does a lawsuit cost?"
+  ]
+ ]
+}

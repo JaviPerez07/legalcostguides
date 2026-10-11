@@ -1,1 +1,173 @@
-{}
+{
+ "how-much-does-a-lawyer-cost": {
+  "productAfter": 3
+ },
+ "lawyer-consultation-fee": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Take the same questions to every consultation",
+   "copy": "The toolkit includes a printable consultation worksheet and a spreadsheet that turns each lawyer's answers into a comparable estimated total."
+  }
+ },
+ "contingency-fee-explained": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "hourly-vs-flat-fee-lawyer": {
+  "productAfter": 3
+ },
+ "personal-injury-lawyer-cost": {
+  "productAfter": 4,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "motorcycle-accident-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "truck-accident-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "uber-lyft-accident-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "medical-malpractice-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "birth-injury-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "mesothelioma-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "contingency-fee-lawyer-finder": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing contingency agreements? Do the math first",
+   "copy": "The toolkit shows each lawyer's fee and what you would receive under their agreement (percentage, step-ups and whether costs come off before or after the fee), plus a 23-point agreement checklist."
+  }
+ },
+ "criminal-defense-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing defense lawyers' flat fees and retainers?",
+   "copy": "Put each lawyer's quote on the same basis, list what every flat fee excludes (trial, motions, appeals) and check the written agreement before you sign."
+  }
+ },
+ "dui-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing defense lawyers' flat fees and retainers?",
+   "copy": "Put each lawyer's quote on the same basis, list what every flat fee excludes (trial, motions, appeals) and check the written agreement before you sign."
+  }
+ },
+ "federal-criminal-defense-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing defense lawyers' flat fees and retainers?",
+   "copy": "Put each lawyer's quote on the same basis, list what every flat fee excludes (trial, motions, appeals) and check the written agreement before you sign."
+  }
+ },
+ "white-collar-crime-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing defense lawyers' flat fees and retainers?",
+   "copy": "Put each lawyer's quote on the same basis, list what every flat fee excludes (trial, motions, appeals) and check the written agreement before you sign."
+  }
+ },
+ "drug-trafficking-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Comparing defense lawyers' flat fees and retainers?",
+   "copy": "Put each lawyer's quote on the same basis, list what every flat fee excludes (trial, motions, appeals) and check the written agreement before you sign."
+  }
+ },
+ "divorce-lawyer-cost": {
+  "productAfter": 2
+ },
+ "small-claims-court-cost": {
+  "productAfter": 1
+ },
+ "estate-planning-lawyer-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Organize what your family will need to find",
+   "copy": "Whatever documents you choose, the binder records where they are, who to call and which accounts exist, without passwords or full account numbers. It is not a will."
+  }
+ },
+ "will-cost-guide": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "After the will: tell your family where everything is",
+   "copy": "The binder records where your will and other documents are kept, key contacts and accounts, without passwords or full account numbers. It does not replace a will."
+  }
+ },
+ "power-of-attorney-cost": {
+  "productAfter": 3,
+  "copy": {
+   "headline": "Help your agent find what they need",
+   "copy": "The binder lists where documents are, which accounts exist and who to call, so the person you name can act quickly. It is not a power of attorney."
+  }
+ },
+ "can-i-afford-a-lawyer": {
+  "productAfter": 4
+ },
+ "how-much-does-a-lawsuit-cost": {
+  "productAfter": 3
+ },
+ "business-lawyer-cost": {
+  "productAfter": 3
+ },
+ "trademark-lawyer-cost": {
+  "productAfter": 3
+ },
+ "patent-lawyer-cost": {
+  "productAfter": 3
+ },
+ "employment-lawyer-cost": {
+  "productAfter": 3
+ },
+ "immigration-lawyer-cost": {
+  "productAfter": 3
+ },
+ "bankruptcy-lawyer-cost": {
+  "productAfter": 3
+ },
+ "child-custody-lawyer-cost": {
+  "productAfter": 3
+ },
+ "real-estate-lawyer-cost": {
+  "productAfter": 3
+ },
+ "landlord-tenant-lawyer-cost": {
+  "productAfter": 3
+ }
+}

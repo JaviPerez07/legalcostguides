@@ -1,0 +1,109 @@
+{
+ "sku": "estate",
+ "title": "\"If Something Happens\" Family Information Binder (PDF) — $19",
+ "description": "A fillable binder that tells your family where documents are, who to call and which accounts exist, without storing passwords. Not a will. $19.",
+ "h1": "\"If Something Happens\" Family Information Binder",
+ "outcome": "Leave the people you trust a clear map of your documents, contacts, accounts and wishes, so they are not searching through drawers in a crisis.",
+ "benefits": [
+  "10-page fillable PDF: contacts, legal documents, money, home, digital life, dependents, wishes",
+  "Designed for safety: no fields for passwords, PINs or full account numbers",
+  "Digital accounts page built around legacy contacts and password-manager emergency access",
+  "Companion spreadsheet for long lists of accounts, policies and documents",
+  "Annual review log so it stays current"
+ ],
+ "formats": "Fillable PDF + spreadsheet",
+ "updated": "October 2026",
+ "updatedISO": "2026-10-11",
+ "samples": [
+  {
+   "src": "/assets/products/estate-start.webp",
+   "alt": "Binder start page with a warning not to write passwords",
+   "caption": "Start page: what to write and what not to",
+   "w": 1200,
+   "h": 1520
+  },
+  {
+   "src": "/assets/products/estate-accounts.webp",
+   "alt": "Accounts and policies page using last 4 digits only",
+   "caption": "Money page: institution and last 4 digits only",
+   "w": 1200,
+   "h": 1520
+  },
+  {
+   "src": "/assets/products/estate-digital.webp",
+   "alt": "Digital life page with legacy contact column",
+   "caption": "Digital life: legacy contacts, no passwords",
+   "w": 1200,
+   "h": 1520
+  },
+  {
+   "src": "/assets/products/estate-documents.webp",
+   "alt": "Legal documents location page",
+   "caption": "Legal documents: where each original is kept",
+   "w": 1200,
+   "h": 1520
+  }
+ ],
+ "files": [
+  {
+   "name": "LCG-If-Something-Happens-Binder.pdf",
+   "format": "Fillable PDF, 10 pages, US Letter",
+   "does": "Start here, about me, contacts, legal documents, money, home and property, digital life, dependents and pets, wishes, review log"
+  },
+  {
+   "name": "LCG-Family-Information-Inventory.xlsx",
+   "format": "Excel workbook (6 tabs)",
+   "does": "Accounts, insurance, documents, digital accounts and bills lists"
+  }
+ ],
+ "steps": [
+  "Open the PDF in Adobe Acrobat Reader or your browser, or print it.",
+  "Start with emergency contacts and where your legal documents are.",
+  "List accounts and policies by institution and last 4 digits only.",
+  "Tell one trusted person where the binder is kept.",
+  "Review it once a year with the log on the last page."
+ ],
+ "forWho": [
+  "Parents, caregivers and anyone who manages household paperwork",
+  "Adults helping aging parents get organized",
+  "Anyone who has (or is about to make) a will and wants their family to find things"
+ ],
+ "notFor": [
+  "Anyone looking for a will, trust or power of attorney: this binder is not a legal document",
+  "People who want to store passwords: use a password manager with emergency access instead"
+ ],
+ "compat": "PDF fillable in Adobe Acrobat Reader and most browser PDF viewers (save a copy after filling); printable on US Letter. Spreadsheet works in Excel, Google Sheets and LibreOffice.",
+ "limits": [
+  "It does not make or replace a will, trust, power of attorney or advance directive.",
+  "It does not give anyone legal authority to act for you.",
+  "It deliberately does not store passwords or full account numbers."
+ ],
+ "faq": [
+  {
+   "q": "Is this a will?",
+   "a": "No. It records where your documents are and what your wishes are, but it has no legal effect. Wills, powers of attorney and advance directives must meet your state's legal formalities."
+  },
+  {
+   "q": "Why are there no password fields?",
+   "a": "A binder with passwords and full account numbers is a security risk if it is lost or seen by the wrong person. The binder points to safer tools such as legacy contacts and password-manager emergency access."
+  },
+  {
+   "q": "Refunds?",
+   "a": "Within 14 days, no questions asked."
+  }
+ ],
+ "related": [
+  [
+   "/pages/estate-planning-lawyer-cost",
+   "Estate planning lawyer cost"
+  ],
+  [
+   "/pages/will-cost-guide",
+   "How much does a will cost?"
+  ],
+  [
+   "/pages/power-of-attorney-cost",
+   "Power of attorney cost"
+  ]
+ ]
+}

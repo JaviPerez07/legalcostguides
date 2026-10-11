@@ -1,0 +1,13 @@
+{
+ "urlPath": "/access/",
+ "title": "Your Downloads | LegalCostGuides",
+ "description": "Download the planning kit you purchased.",
+ "h1": "Your downloads",
+ "crumb": "Downloads",
+ "lastReviewed": "2026-10-11",
+ "noByline": true,
+ "robots": "noindex,nofollow",
+ "ads": false,
+ "noindex": true,
+ "body": "<div id=\"access-app\" aria-live=\"polite\"><div class=\"status wait\">Loading your order\u2026</div></div><noscript><p class=\"status err\">This page needs JavaScript to check your payment. Email javiperezguides@gmail.com if you cannot enable it.</p></noscript>"
+}

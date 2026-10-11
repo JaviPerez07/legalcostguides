@@ -1,0 +1,13 @@
+{
+ "urlPath": "/access/recover",
+ "title": "Recover Your Download Access | LegalCostGuides",
+ "description": "Get back to your planning kit downloads with your checkout email and order code.",
+ "h1": "Recover your download access",
+ "crumb": "Recover access",
+ "lastReviewed": "2026-10-11",
+ "noByline": true,
+ "robots": "noindex,nofollow",
+ "ads": false,
+ "noindex": true,
+ "body": "<p>Enter the email you used at checkout and either your <strong>order code</strong> (shown on your download page, it looks like LCG-XXXX-XXXX) or the <strong>receipt number</strong> from the payment receipt emailed by Stripe.</p><form id=\"recover-form\" class=\"calc\" novalidate><div class=\"row\"><label for=\"rc-email\">Checkout email<input id=\"rc-email\" type=\"email\" autocomplete=\"email\" required></label><label for=\"rc-code\">Order code or receipt number<input id=\"rc-code\" type=\"text\" autocomplete=\"off\" required></label></div><button class=\"calc-button\" type=\"submit\">Recover access</button><div id=\"recover-result\" aria-live=\"polite\"></div></form><p>Can't find either? Email <a href=\"mailto:javiperezguides@gmail.com\">javiperezguides@gmail.com</a> from the address you used at checkout and we will send you your link.</p>"
+}

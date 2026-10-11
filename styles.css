@@ -451,7 +451,7 @@ details.faq-item .faq-answer{display:block}
 .buy-box{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:1.2rem;box-shadow:var(--shadow)}
 .buy-box .button-primary{display:block;text-align:center;font-size:1.1rem;padding:.9rem 1rem}
 .buy-box ul{padding-left:1.1rem;font-size:.92rem}
-.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:1rem}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,440px),1fr));gap:1rem}
 .gallery figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:.6rem}
 .gallery figcaption{font-size:.85rem;color:var(--muted);margin-top:.4rem}
 .check-list{list-style:none;padding:0}
@@ -488,3 +488,7 @@ nav.breadcrumb{width:min(var(--max),calc(100% - 2rem));margin:.8rem auto 0;font-
 .editorial-byline{display:flex;gap:.8rem;align-items:center;margin:.6rem 0 1rem;font-size:.92rem}
 .editorial-byline img{width:48px;height:48px;border-radius:50%;object-fit:cover;flex:none}
 .byline-meta{display:block;color:var(--muted);font-size:.86rem}
+.hero-copy-dark{font-size:1.15rem;color:var(--ink)}
+.row-2{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem}
+@media (max-width:760px){.row-2{grid-template-columns:1fr}}
+.buy-again{margin:2rem 0;max-width:420px}

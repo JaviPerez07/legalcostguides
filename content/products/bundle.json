@@ -1,0 +1,123 @@
+{
+ "sku": "bundle",
+ "title": "Legal Cost Planning Bundle: All 4 Planning Kits — $59",
+ "description": "All four LegalCostGuides planning kits: lawyer quote toolkit, divorce budget planner, family information binder and small claims kit. $59.",
+ "h1": "Legal Cost Planning Bundle (all 4 kits)",
+ "outcome": "All four planning kits for $59 instead of $89 bought separately: compare lawyer quotes, budget a divorce, organize family information and prepare a small claims case.",
+ "benefits": [
+  "<a href=\"/products/lawyer-quote-fee-agreement-toolkit\">Lawyer Quote &amp; Fee Agreement Toolkit</a> ($24)",
+  "<a href=\"/products/divorce-cost-budget-planner\">Divorce Cost &amp; Lawyer Budget Planner</a> ($27)",
+  "<a href=\"/products/if-something-happens-binder\">\"If Something Happens\" Family Information Binder</a> ($19)",
+  "<a href=\"/products/small-claims-filing-kit\">Small Claims Filing Kit</a> ($19)",
+  "8 files, one download page, one 14-day refund window"
+ ],
+ "formats": "4 spreadsheets + 4 fillable PDFs",
+ "updated": "October 2026",
+ "updatedISO": "2026-10-11",
+ "samples": [
+  {
+   "src": "/assets/products/toolkit-compare-example.webp",
+   "alt": "Compare quotes sheet filled with three fictional lawyer quotes",
+   "caption": "Compare Quotes: three fictional quotes entered side by side",
+   "w": 1200,
+   "h": 834
+  },
+  {
+   "src": "/assets/products/divorce-scenarios-example.webp",
+   "alt": "Divorce cost scenarios comparing uncontested, mediated and contested totals",
+   "caption": "Cost Scenarios: fictional example comparing three paths",
+   "w": 1200,
+   "h": 816
+  },
+  {
+   "src": "/assets/products/estate-accounts.webp",
+   "alt": "Accounts and policies page using last 4 digits only",
+   "caption": "Money page: institution and last 4 digits only",
+   "w": 1200,
+   "h": 1520
+  },
+  {
+   "src": "/assets/products/smallclaims-case-example.webp",
+   "alt": "Case summary showing a claim within the Michigan limit",
+   "caption": "Case Summary: limit check with the published fee",
+   "w": 1200,
+   "h": 773
+  }
+ ],
+ "files": [
+  {
+   "name": "LCG-Lawyer-Quote-Toolkit.xlsx",
+   "format": "Excel workbook (8 tabs)",
+   "does": "Start Here, Compare Quotes, Fee Agreement Check, Bill Tracker, Consult Questions, plus 3 filled example tabs"
+  },
+  {
+   "name": "LCG-Lawyer-Quote-Toolkit-Worksheets.pdf",
+   "format": "Fillable PDF, 6 pages, US Letter",
+   "does": "Quick start, consultation worksheet, fee agreement checklist, bill review steps and an invoice questions log"
+  },
+  {
+   "name": "LCG-Divorce-Budget-Planner.xlsx",
+   "format": "Excel workbook (10 tabs)",
+   "does": "Cost Scenarios, Retainer Tracker, Two Households, Assets & Debts, Documents, State filing fees, plus filled examples"
+  },
+  {
+   "name": "LCG-Divorce-Budget-Planner-Workbook.pdf",
+   "format": "Fillable PDF, 5 pages, US Letter",
+   "does": "Quick start, questions for each lawyer, monthly budget, document checklist and meeting notes"
+  },
+  {
+   "name": "LCG-If-Something-Happens-Binder.pdf",
+   "format": "Fillable PDF, 10 pages, US Letter",
+   "does": "Start here, about me, contacts, legal documents, money, home and property, digital life, dependents and pets, wishes, review log"
+  },
+  {
+   "name": "LCG-Family-Information-Inventory.xlsx",
+   "format": "Excel workbook (6 tabs)",
+   "does": "Accounts, insurance, documents, digital accounts and bills lists"
+  },
+  {
+   "name": "LCG-Small-Claims-Organizer.xlsx",
+   "format": "Excel workbook (10 tabs)",
+   "does": "Case Summary, Damages, Evidence Log, Witnesses, Timeline, Costs & Deadlines, State Reference, plus filled examples"
+  },
+  {
+   "name": "LCG-Small-Claims-Worksheets.pdf",
+   "format": "Fillable PDF, 5 pages, US Letter",
+   "does": "Quick start, demand letter worksheet, hearing outline, court-day checklist, evidence index"
+  }
+ ],
+ "steps": [
+  "Buy once and download all eight files from your download page.",
+  "Open each kit's Start Here tab or Quick Start page.",
+  "Use the kits you need now; keep the rest for later."
+ ],
+ "forWho": [
+  "Households who want all four tools in one place",
+  "Anyone who expects to hire a lawyer and also wants their family paperwork organized"
+ ],
+ "notFor": [
+  "Anyone who only needs one kit: buy it on its own",
+  "Anyone looking for legal advice or legal documents"
+ ],
+ "compat": "Excel 365, LibreOffice Calc 7+ and Google Sheets (File → Import; sheet protection is not carried over). PDFs are US Letter and fillable in Adobe Acrobat Reader and most browser PDF viewers.",
+ "limits": [
+  "Each kit has the limits described on its own page.",
+  "None of the kits is legal advice or a legal document."
+ ],
+ "faq": [
+  {
+   "q": "Is the bundle cheaper?",
+   "a": "Yes: $59 for all four, versus $89 if bought separately."
+  },
+  {
+   "q": "Refunds?",
+   "a": "Within 14 days, no questions asked."
+  }
+ ],
+ "related": [
+  [
+   "/products/",
+   "All planning kits"
+  ]
+ ]
+}

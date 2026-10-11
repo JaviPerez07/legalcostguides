@@ -1,0 +1,115 @@
+{
+ "sku": "toolkit",
+ "title": "Lawyer Quote & Fee Agreement Toolkit (Spreadsheet + PDF) — $24",
+ "description": "Compare up to 3 lawyer quotes on the same basis, check the fee agreement before you sign and track invoices. Excel/Sheets + fillable PDF, $24.",
+ "h1": "Lawyer Quote & Fee Agreement Toolkit",
+ "outcome": "Know which lawyer quote actually costs less, what to fix in the fee agreement before you sign, and whether each bill matches what you agreed.",
+ "benefits": [
+  "Turns hourly, flat-fee, contingency and mixed quotes into comparable estimated totals",
+  "23-point fee agreement check per lawyer, with every \"No\" or \"Unclear\" flagged",
+  "Contingency math: fee and what you would receive, with costs before or after the fee",
+  "Bill tracker that flags rates that differ from your agreement and budget overruns",
+  "Printable consultation questions and agreement checklist to take to meetings"
+ ],
+ "formats": "Excel/Google Sheets workbook + fillable PDF",
+ "updated": "October 2026",
+ "updatedISO": "2026-10-11",
+ "samples": [
+  {
+   "src": "/assets/products/toolkit-compare-example.webp",
+   "alt": "Compare quotes sheet filled with three fictional lawyer quotes",
+   "caption": "Compare Quotes: three fictional quotes entered side by side",
+   "w": 1200,
+   "h": 834
+  },
+  {
+   "src": "/assets/products/toolkit-results-example.webp",
+   "alt": "Estimated totals and ranking for three quotes",
+   "caption": "Results: low/high totals, contingency net and ranking",
+   "w": 1200,
+   "h": 304
+  },
+  {
+   "src": "/assets/products/toolkit-agreement-check.webp",
+   "alt": "Fee agreement checklist with Yes, No and Unclear answers",
+   "caption": "Fee Agreement Check: answers flagged in red and amber",
+   "w": 1200,
+   "h": 814
+  },
+  {
+   "src": "/assets/products/toolkit-bill-tracker.webp",
+   "alt": "Bill tracker flagging a rate that differs from the agreement",
+   "caption": "Bill Tracker: a billed rate that does not match the agreement is flagged",
+   "w": 1200,
+   "h": 832
+  }
+ ],
+ "files": [
+  {
+   "name": "LCG-Lawyer-Quote-Toolkit.xlsx",
+   "format": "Excel workbook (8 tabs)",
+   "does": "Start Here, Compare Quotes, Fee Agreement Check, Bill Tracker, Consult Questions, plus 3 filled example tabs"
+  },
+  {
+   "name": "LCG-Lawyer-Quote-Toolkit-Worksheets.pdf",
+   "format": "Fillable PDF, 6 pages, US Letter",
+   "does": "Quick start, consultation worksheet, fee agreement checklist, bill review steps and an invoice questions log"
+  }
+ ],
+ "steps": [
+  "Before each consultation, print the question sheet or open the Consult Questions tab.",
+  "After each meeting, enter the lawyer's rate, estimated hours, flat fee or percentage in the yellow cells.",
+  "Read each draft fee agreement with the 23-point check. Ask about every No or Unclear.",
+  "Compare the estimated totals and watch-outs, not the hourly rates.",
+  "After hiring, log invoices in the Bill Tracker; it flags rate mismatches and budget overruns."
+ ],
+ "forWho": [
+  "Anyone collecting quotes from two or three lawyers",
+  "People about to sign a retainer or contingency agreement",
+  "Small business owners hiring a lawyer for a defined project",
+  "Clients who want to check invoices against the agreement"
+ ],
+ "notFor": [
+  "People looking for legal advice on their case: talk to a lawyer",
+  "People who qualify for free legal aid (see our <a href=\"/pages/legal-aid-guide\">legal aid guide</a>)",
+  "Anyone wanting a prediction of what a case is worth"
+ ],
+ "compat": "Excel 365, LibreOffice Calc 7+ and Google Sheets (File → Import; sheet protection is not carried over). PDFs are US Letter and fillable in Adobe Acrobat Reader and most browser PDF viewers.",
+ "limits": [
+  "It does not tell you which lawyer to hire or whether a fee is \"fair\"; it puts quotes on the same basis so you can ask better questions.",
+  "Totals are only as good as the estimates the lawyers give you.",
+  "It is not legal advice and does not review your agreement for legal validity."
+ ],
+ "faq": [
+  {
+   "q": "Do I need Excel?",
+   "a": "No. The workbook also works in Google Sheets (File → Import) and LibreOffice Calc. The PDF worksheets can be filled in on screen or printed."
+  },
+  {
+   "q": "Can I compare a contingency quote with an hourly quote?",
+   "a": "Yes. Enter an amount you assume might be recovered; the toolkit shows the contingency fee and what you would receive, next to the hourly and flat-fee totals. We do not estimate what your case is worth."
+  },
+  {
+   "q": "What if I am not happy with it?",
+   "a": "Email us within 14 days for a full refund. No questions asked."
+  },
+  {
+   "q": "Is my information sent anywhere?",
+   "a": "No. The files work offline on your device. We never see what you type into them."
+  }
+ ],
+ "related": [
+  [
+   "/pages/how-much-does-a-lawyer-cost",
+   "How much does a lawyer cost?"
+  ],
+  [
+   "/pages/lawyer-consultation-fee",
+   "Lawyer consultation fees"
+  ],
+  [
+   "/pages/contingency-fee-explained",
+   "Contingency fees explained"
+  ]
+ ]
+}

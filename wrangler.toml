@@ -1,0 +1,20 @@
+# Cloudflare Pages configuration (source of truth for bindings and vars).
+name = "legalcostguides"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-04-21"
+
+[vars]
+STRIPE_LIVEMODE = "true"
+# Stripe Payment Links (live). Public identifiers, not secrets.
+PAYMENT_LINKS = '{"plink_1UPCvJE2RGgqV82n9EM9YEd1": "toolkit", "plink_1UPCvQE2RGgqV82nzWl4hnUQ": "divorce", "plink_1UPCvTE2RGgqV82nKemr5Por": "estate", "plink_1UPCw6E2RGgqV82nKD9RNgxA": "smallclaims", "plink_1UPCw8E2RGgqV82neWri4rHr": "bundle"}'
+PAYMENT_LINK_URLS = '{"toolkit": "https://buy.stripe.com/eVqeVd7DJdPQ9or6cD9fW0T", "divorce": "https://buy.stripe.com/3cIbJ16zFeTU44744v9fW0U", "estate": "https://buy.stripe.com/14A14n8HN4fg9or9oP9fW0V", "smallclaims": "https://buy.stripe.com/eVq7sLcY313458basT9fW0W", "bundle": "https://buy.stripe.com/6oU6oHaPVfXY0RV8kL9fW0X"}'
+
+[[d1_databases]]
+binding = "DB"
+database_name = "legalcostguides-shop"
+database_id = "dec51f67-3e10-444a-a7a3-907224d5cd6f"
+migrations_dir = "migrations"
+
+[[kv_namespaces]]
+binding = "FILES"
+id = "f55167a4efe74a04907d97409fa3c5be"

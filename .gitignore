@@ -47,3 +47,5 @@ reports/
 dist/
 # Premium product files never go in this public repo
 products-private/
+.dev.vars
+.wrangler/

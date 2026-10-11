@@ -1,95 +1,95 @@
 {
-  "slug": "estate-planning-lawyer-cost",
-  "title": "Estate Planning Lawyer Cost: Probate Fees, Statutory Schedules and Trusts (2026)",
-  "description": "How probate fees are set, California's §10810 statutory schedule with examples, Florida and New York rules, and the cost trade-off of a trust vs a will.",
-  "h1": "How much does an estate planning lawyer cost?",
-  "lastReviewed": "2026-10-11",
-  "summary": "Estate planning costs come in two bills: the plan you pay for now and the probate or trust administration your family pays later. In California the statutory probate attorney fee is 4% of the first $100,000 of gross estate value, 3% of the next $100,000 and 2% of the next $800,000, so a $500,000 estate means $13,000 for the attorney and up to $13,000 more for the executor. A revocable trust costs more to set up but can avoid that probate.",
-  "body": "\n<section id=\"two-costs\"><h2>Two different bills: planning now and settling the estate later</h2>\n<p>Estate planning has an upfront cost, paid by you, for documents such as a will, a trust, powers of attorney and health care directives. It also shapes a second cost, paid by your family after you die: probate or trust administration. A plan that costs more today can cost your heirs much less later, and the reverse is also true. This page focuses on that second bill and on the will-versus-trust decision. For the cost of a will on its own and the rules for signing one, see the <a href=\"/pages/will-cost-guide\">will cost guide</a>.</p>\n</section>\n\n<section id=\"probate-drivers\"><h2>What drives probate costs</h2>\n<ul>\n<li><strong>Estate size and how fees are set.</strong> A few states tie attorney and executor fees to the value of the estate by statute (see below). Elsewhere fees are hourly or flat and must be reasonable.</li>\n<li><strong>Real estate.</strong> Selling or transferring a house adds appraisals, court filings and sometimes court confirmation of the sale.</li>\n<li><strong>Property in more than one state.</strong> Real estate in another state can require a second, \"ancillary\" probate there.</li>\n<li><strong>Disputes.</strong> A will contest or a fight between heirs turns routine administration into litigation, billed by the hour.</li>\n<li><strong>Creditors and taxes.</strong> Notices to creditors, claims, and final income or estate tax returns all add work.</li>\n<li><strong>Organization.</strong> An executor who can quickly find accounts, titles and passwords saves billable hours.</li>\n</ul>\n<p>Not every estate needs full probate. California, for example, lets heirs collect property by affidavit when the estate is below a threshold the statute sets at $166,250 and adjusts periodically, so check the current figure with the court <sup class=\"cite\"><a href=\"#src-4\">[4]</a></sup>.</p>\n</section>\n\n<section id=\"statutory-fees\"><h2>States where probate fees are set by statute</h2>\n<h3>California: a fixed percentage schedule</h3>\n<p>California is the best-known example. For ordinary probate services, the attorney's fee is set by Probate Code §10810 as a percentage of the estate's gross value, without subtracting mortgages or other debts <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>:</p>\n<div class=\"table-wrap\"><table class=\"data-table\"><caption>California statutory attorney fee for ordinary probate services (Probate Code §10810) <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup></caption>\n<thead><tr><th scope=\"col\">Portion of estate value</th><th scope=\"col\">Rate</th></tr></thead><tbody>\n<tr><td>First $100,000</td><td>4%</td></tr>\n<tr><td>Next $100,000</td><td>3%</td></tr>\n<tr><td>Next $800,000</td><td>2%</td></tr>\n<tr><td>Next $9,000,000</td><td>1%</td></tr>\n<tr><td>Next $15,000,000</td><td>0.5%</td></tr>\n<tr><td>Above $25,000,000</td><td>Reasonable amount set by the court</td></tr>\n</tbody></table></div>\n<p>The executor (personal representative) is entitled to compensation on the same schedule <sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>. The court can also allow additional compensation for extraordinary services, such as litigation, in an amount it finds just and reasonable <sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup>.</p>\n<div class=\"example\"><p><strong>Example (California, $500,000 house with a $300,000 mortgage):</strong> the fee is based on $500,000, not the $200,000 of equity <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>. Attorney fee: 4% × $100,000 + 3% × $100,000 + 2% × $300,000 = $4,000 + $3,000 + $6,000 = $13,000. If the executor also takes the statutory fee, that is another $13,000 <sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>, for $26,000 in total before court costs.</p></div>\n<h3>Florida: a presumed-reasonable schedule</h3>\n<p>Florida states that there is no mandatory statutory attorney fee, but sets a schedule that is presumed reasonable for ordinary services: $1,500 for estates up to $40,000, $750 more up to $70,000, $750 more up to $100,000, then 3% of the next $900,000, with lower rates above $1 million <sup class=\"cite\"><a href=\"#src-5\">[5]</a></sup>. The value includes probate assets plus income earned during administration <sup class=\"cite\"><a href=\"#src-5\">[5]</a></sup>.</p>\n<div class=\"example\"><p><strong>Example (Florida, $500,000 probate estate):</strong> $1,500 + $750 + $750 = $3,000 for the first $100,000, plus 3% × $400,000 = $12,000. Presumed-reasonable fee: $15,000 <sup class=\"cite\"><a href=\"#src-5\">[5]</a></sup>.</p></div>\n<h3>New York: executor commissions</h3>\n<p>New York sets executor commissions, not attorney fees, by statute: 5% of the first $100,000, 4% of the next $200,000, 3% of the next $700,000, 2.5% of the next $4,000,000 and 2% above $5,000,000 <sup class=\"cite\"><a href=\"#src-6\">[6]</a></sup>. The estate's lawyer is paid separately, subject to the Surrogate's Court's review for reasonableness.</p>\n</section>\n\n<section id=\"trust-vs-will\"><h2>Trust vs will: paying more now to spend less later</h2>\n<p>Assets held in a funded revocable living trust pass to beneficiaries without probate. That is the main reason people pay more upfront for a trust. The trade-off:</p>\n<div class=\"table-wrap\"><table class=\"data-table\"><caption>Will-based plan vs revocable trust plan</caption>\n<thead><tr><th scope=\"col\"></th><th scope=\"col\">Will-based plan</th><th scope=\"col\">Revocable trust plan</th></tr></thead><tbody>\n<tr><td>Upfront drafting</td><td>Less work</td><td>More documents and a funding step</td></tr>\n<tr><td>Funding</td><td>Not needed</td><td>You must retitle accounts and record new deeds, or the assets still go through probate</td></tr>\n<tr><td>At death</td><td>Probate for assets in your name alone</td><td>Trust administration by your successor trustee, usually without court involvement</td></tr>\n<tr><td>Privacy</td><td>Probate filings are generally public</td><td>Trust terms usually stay private</td></tr>\n</tbody></table></div>\n<div class=\"example\"><p><strong>Example (California, hourly illustration):</strong> suppose a will package takes 3 hours and a trust package with funding help takes 8 hours. At Clio's national average of $349 an hour <sup class=\"cite\"><a href=\"#src-7\">[7]</a></sup>, that is 3 × $349 = $1,047 versus 8 × $349 = $2,792, a difference of $1,745. For the $500,000 California estate above, statutory probate fees could reach $26,000 <sup class=\"cite\"><a href=\"#src-1\">[1]</a><a href=\"#src-2\">[2]</a></sup>. Trust administration is not free, but it is not tied to that percentage schedule. The hours are assumptions; ask lawyers for flat quotes for both options.</p></div>\n<p>A trust is less compelling when your estate would qualify for a simplified small-estate procedure, when most assets already pass by beneficiary designation or joint ownership, or when you live in a state where probate is relatively quick and inexpensive.</p>\n</section>\n\n<section id=\"hiring\"><h2>Hiring an estate planning lawyer</h2>\n<h3>Questions to ask</h3>\n<ul>\n<li>Is the plan a flat fee? Which documents are included: will, trust, pour-over will, powers of attorney, health care directive?</li>\n<li>Does the fee include funding the trust, such as preparing and recording deeds?</li>\n<li>For probate: do you bill hourly, flat or by the statutory schedule? Which services would you treat as \"extraordinary\"?</li>\n<li>Who on your team does the work, and at what rate?</li>\n</ul>\n<p>Related reading: <a href=\"/pages/power-of-attorney-cost\">power of attorney cost</a>, <a href=\"/pages/hourly-vs-flat-fee-lawyer\">hourly vs flat-fee lawyers</a> and <a href=\"/pages/lawyer-consultation-fee\">consultation fees</a>.</p>\n</section>\n",
-  "faq": [
-    {
-      "q": "How much does probate cost in California?",
-      "a": "For ordinary services, the attorney fee is 4% of the first $100,000 of gross estate value, 3% of the next $100,000 and 2% of the next $800,000, and the executor can claim the same amount. On a $500,000 estate, that is $13,000 each."
-    },
-    {
-      "q": "Is a living trust worth it compared with a will?",
-      "a": "It can be when probate in your state is expensive or slow, you own real estate in more than one state, or you want privacy. It costs more upfront and only works if you actually transfer assets into the trust."
-    },
-    {
-      "q": "Are probate attorney fees based on the estate's net or gross value?",
-      "a": "In California the statutory fee is based on gross value, without subtracting mortgages or other debts. Florida's presumed-reasonable schedule uses the inventory value of probate assets plus income earned during administration."
-    },
-    {
-      "q": "Can I avoid probate without a trust?",
-      "a": "Often partly. Beneficiary designations, payable-on-death accounts and joint ownership pass outside probate, and small estates may qualify for an affidavit procedure, such as California's under Probate Code §13100."
-    },
-    {
-      "q": "Who pays the probate lawyer?",
-      "a": "The estate normally pays the lawyer for the personal representative, which reduces what heirs receive. Fees usually need to be disclosed and, in statutory-fee states such as California, approved by the court."
-    }
-  ],
-  "sources": [
-    {
-      "label": "Cal. Prob. Code §10810 (attorney compensation for ordinary services)",
-      "publisher": "California (public.law mirror)",
-      "url": "https://california.public.law/codes/ca_prob_code_section_10810",
-      "accessed": "2026-10-11",
-      "note": "Statutory attorney fee schedule: 4/3/2/1/0.5% tiers on gross estate value"
-    },
-    {
-      "label": "Cal. Prob. Code §10800 (personal representative compensation)",
-      "publisher": "California (public.law mirror)",
-      "url": "https://california.public.law/codes/ca_prob_code_section_10800",
-      "accessed": "2026-10-11",
-      "note": "Executor fee uses the same schedule"
-    },
-    {
-      "label": "Cal. Prob. Code §10811 (extraordinary services)",
-      "publisher": "California (public.law mirror)",
-      "url": "https://california.public.law/codes/ca_prob_code_section_10811",
-      "accessed": "2026-10-11",
-      "note": "Court may allow additional just and reasonable compensation for extraordinary services"
-    },
-    {
-      "label": "Cal. Prob. Code §13100 (collection of property by affidavit)",
-      "publisher": "California (public.law mirror)",
-      "url": "https://california.public.law/codes/ca_prob_code_section_13100",
-      "accessed": "2026-10-11",
-      "note": "Small-estate affidavit threshold of $166,250, adjusted periodically under §890"
-    },
-    {
-      "label": "Fla. Stat. §733.6171 (compensation of attorney for the personal representative)",
-      "publisher": "Florida Legislature",
-      "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0733/Sections/0733.6171.html",
-      "accessed": "2026-10-11",
-      "note": "Presumed-reasonable fee schedule; no mandatory statutory fee"
-    },
-    {
-      "label": "N.Y. Surrogate's Court Procedure Act §2307 (commissions of fiduciaries)",
-      "publisher": "New York State Senate",
-      "url": "https://www.nysenate.gov/legislation/laws/SCP/2307",
-      "accessed": "2026-10-11",
-      "note": "Executor commission schedule 5/4/3/2.5/2%"
-    },
-    {
-      "label": "Compare Lawyer Rates (2025 Legal Trends Report)",
-      "publisher": "Clio",
-      "url": "https://www.clio.com/resources/legal-trends/compare-lawyer-rates/",
-      "accessed": "2026-10-11",
-      "note": "US national average lawyer hourly rate of $349"
-    }
-  ],
-  "related": [
-    "will-cost-guide",
-    "power-of-attorney-cost",
-    "real-estate-lawyer-cost",
-    "hourly-vs-flat-fee-lawyer",
-    "how-much-does-a-lawyer-cost"
-  ],
-  "product": "estate",
-  "lawdepot": [
-    "last-will-and-testament",
-    "living-will",
-    "revocable-living-trust"
-  ]
+ "slug": "estate-planning-lawyer-cost",
+ "title": "Estate Planning Lawyer Cost: Probate Fees and Trusts (2026)",
+ "description": "How probate fees are set, California's §10810 statutory schedule with examples, Florida and New York rules, and the cost trade-off of a trust vs a will.",
+ "h1": "How much does an estate planning lawyer cost?",
+ "lastReviewed": "2026-10-11",
+ "summary": "Estate planning costs come in two bills: the plan you pay for now and the probate or trust administration your family pays later. In California the statutory probate attorney fee is 4% of the first $100,000 of gross estate value, 3% of the next $100,000 and 2% of the next $800,000, so a $500,000 estate means $13,000 for the attorney and up to $13,000 more for the executor. A revocable trust costs more to set up but can avoid that probate.",
+ "body": "\n<section id=\"two-costs\"><h2>Two different bills: planning now and settling the estate later</h2>\n<p>Estate planning has an upfront cost, paid by you, for documents such as a will, a trust, powers of attorney and health care directives. It also shapes a second cost, paid by your family after you die: probate or trust administration. A plan that costs more today can cost your heirs much less later, and the reverse is also true. This page focuses on that second bill and on the will-versus-trust decision. For the cost of a will on its own and the rules for signing one, see the <a href=\"/pages/will-cost-guide\">will cost guide</a>.</p>\n</section>\n\n<section id=\"probate-drivers\"><h2>What drives probate costs</h2>\n<ul>\n<li><strong>Estate size and how fees are set.</strong> A few states tie attorney and executor fees to the value of the estate by statute (see below). Elsewhere fees are hourly or flat and must be reasonable.</li>\n<li><strong>Real estate.</strong> Selling or transferring a house adds appraisals, court filings and sometimes court confirmation of the sale.</li>\n<li><strong>Property in more than one state.</strong> Real estate in another state can require a second, \"ancillary\" probate there.</li>\n<li><strong>Disputes.</strong> A will contest or a fight between heirs turns routine administration into litigation, billed by the hour.</li>\n<li><strong>Creditors and taxes.</strong> Notices to creditors, claims, and final income or estate tax returns all add work.</li>\n<li><strong>Organization.</strong> An executor who can quickly find accounts, titles and passwords saves billable hours.</li>\n</ul>\n<p>Not every estate needs full probate. California, for example, lets heirs collect property by affidavit when the estate is below a threshold the statute sets at $166,250 and adjusts periodically, so check the current figure with the court <sup class=\"cite\"><a href=\"#src-4\">[4]</a></sup>.</p>\n</section>\n\n<section id=\"statutory-fees\"><h2>States where probate fees are set by statute</h2>\n<h3>California: a fixed percentage schedule</h3>\n<p>California is the best-known example. For ordinary probate services, the attorney's fee is set by Probate Code §10810 as a percentage of the estate's gross value, without subtracting mortgages or other debts <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>:</p>\n<div class=\"table-wrap\"><table class=\"data-table\"><caption>California statutory attorney fee for ordinary probate services (Probate Code §10810) <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup></caption>\n<thead><tr><th scope=\"col\">Portion of estate value</th><th scope=\"col\">Rate</th></tr></thead><tbody>\n<tr><td>First $100,000</td><td>4%</td></tr>\n<tr><td>Next $100,000</td><td>3%</td></tr>\n<tr><td>Next $800,000</td><td>2%</td></tr>\n<tr><td>Next $9,000,000</td><td>1%</td></tr>\n<tr><td>Next $15,000,000</td><td>0.5%</td></tr>\n<tr><td>Above $25,000,000</td><td>Reasonable amount set by the court</td></tr>\n</tbody></table></div>\n<p>The executor (personal representative) is entitled to compensation on the same schedule <sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>. The court can also allow additional compensation for extraordinary services, such as litigation, in an amount it finds just and reasonable <sup class=\"cite\"><a href=\"#src-3\">[3]</a></sup>.</p>\n<div class=\"example\"><p><strong>Example (California, $500,000 house with a $300,000 mortgage):</strong> the fee is based on $500,000, not the $200,000 of equity <sup class=\"cite\"><a href=\"#src-1\">[1]</a></sup>. Attorney fee: 4% × $100,000 + 3% × $100,000 + 2% × $300,000 = $4,000 + $3,000 + $6,000 = $13,000. If the executor also takes the statutory fee, that is another $13,000 <sup class=\"cite\"><a href=\"#src-2\">[2]</a></sup>, for $26,000 in total before court costs.</p></div>\n<h3>Florida: a presumed-reasonable schedule</h3>\n<p>Florida states that there is no mandatory statutory attorney fee, but sets a schedule that is presumed reasonable for ordinary services: $1,500 for estates up to $40,000, $750 more up to $70,000, $750 more up to $100,000, then 3% of the next $900,000, with lower rates above $1 million <sup class=\"cite\"><a href=\"#src-5\">[5]</a></sup>. The value includes probate assets plus income earned during administration <sup class=\"cite\"><a href=\"#src-5\">[5]</a></sup>.</p>\n<div class=\"example\"><p><strong>Example (Florida, $500,000 probate estate):</strong> $1,500 + $750 + $750 = $3,000 for the first $100,000, plus 3% × $400,000 = $12,000. Presumed-reasonable fee: $15,000 <sup class=\"cite\"><a href=\"#src-5\">[5]</a></sup>.</p></div>\n<h3>New York: executor commissions</h3>\n<p>New York sets executor commissions, not attorney fees, by statute: 5% of the first $100,000, 4% of the next $200,000, 3% of the next $700,000, 2.5% of the next $4,000,000 and 2% above $5,000,000 <sup class=\"cite\"><a href=\"#src-6\">[6]</a></sup>. The estate's lawyer is paid separately, subject to the Surrogate's Court's review for reasonableness.</p>\n</section>\n\n<section id=\"trust-vs-will\"><h2>Trust vs will: paying more now to spend less later</h2>\n<p>Assets held in a funded revocable living trust pass to beneficiaries without probate. That is the main reason people pay more upfront for a trust. The trade-off:</p>\n<div class=\"table-wrap\"><table class=\"data-table\"><caption>Will-based plan vs revocable trust plan</caption>\n<thead><tr><th scope=\"col\"></th><th scope=\"col\">Will-based plan</th><th scope=\"col\">Revocable trust plan</th></tr></thead><tbody>\n<tr><td>Upfront drafting</td><td>Less work</td><td>More documents and a funding step</td></tr>\n<tr><td>Funding</td><td>Not needed</td><td>You must retitle accounts and record new deeds, or the assets still go through probate</td></tr>\n<tr><td>At death</td><td>Probate for assets in your name alone</td><td>Trust administration by your successor trustee, usually without court involvement</td></tr>\n<tr><td>Privacy</td><td>Probate filings are generally public</td><td>Trust terms usually stay private</td></tr>\n</tbody></table></div>\n<div class=\"example\"><p><strong>Example (California, hourly illustration):</strong> suppose a will package takes 3 hours and a trust package with funding help takes 8 hours. At Clio's national average of $349 an hour <sup class=\"cite\"><a href=\"#src-7\">[7]</a></sup>, that is 3 × $349 = $1,047 versus 8 × $349 = $2,792, a difference of $1,745. For the $500,000 California estate above, statutory probate fees could reach $26,000 <sup class=\"cite\"><a href=\"#src-1\">[1]</a><a href=\"#src-2\">[2]</a></sup>. Trust administration is not free, but it is not tied to that percentage schedule. The hours are assumptions; ask lawyers for flat quotes for both options.</p></div>\n<p>A trust is less compelling when your estate would qualify for a simplified small-estate procedure, when most assets already pass by beneficiary designation or joint ownership, or when you live in a state where probate is relatively quick and inexpensive.</p>\n</section>\n\n<section id=\"hiring\"><h2>Hiring an estate planning lawyer</h2>\n<h3>Questions to ask</h3>\n<ul>\n<li>Is the plan a flat fee? Which documents are included: will, trust, pour-over will, powers of attorney, health care directive?</li>\n<li>Does the fee include funding the trust, such as preparing and recording deeds?</li>\n<li>For probate: do you bill hourly, flat or by the statutory schedule? Which services would you treat as \"extraordinary\"?</li>\n<li>Who on your team does the work, and at what rate?</li>\n</ul>\n<p>Related reading: <a href=\"/pages/power-of-attorney-cost\">power of attorney cost</a>, <a href=\"/pages/hourly-vs-flat-fee-lawyer\">hourly vs flat-fee lawyers</a> and <a href=\"/pages/lawyer-consultation-fee\">consultation fees</a>.</p>\n</section>\n",
+ "faq": [
+  {
+   "q": "How much does probate cost in California?",
+   "a": "For ordinary services, the attorney fee is 4% of the first $100,000 of gross estate value, 3% of the next $100,000 and 2% of the next $800,000, and the executor can claim the same amount. On a $500,000 estate, that is $13,000 each."
+  },
+  {
+   "q": "Is a living trust worth it compared with a will?",
+   "a": "It can be when probate in your state is expensive or slow, you own real estate in more than one state, or you want privacy. It costs more upfront and only works if you actually transfer assets into the trust."
+  },
+  {
+   "q": "Are probate attorney fees based on the estate's net or gross value?",
+   "a": "In California the statutory fee is based on gross value, without subtracting mortgages or other debts. Florida's presumed-reasonable schedule uses the inventory value of probate assets plus income earned during administration."
+  },
+  {
+   "q": "Can I avoid probate without a trust?",
+   "a": "Often partly. Beneficiary designations, payable-on-death accounts and joint ownership pass outside probate, and small estates may qualify for an affidavit procedure, such as California's under Probate Code §13100."
+  },
+  {
+   "q": "Who pays the probate lawyer?",
+   "a": "The estate normally pays the lawyer for the personal representative, which reduces what heirs receive. Fees usually need to be disclosed and, in statutory-fee states such as California, approved by the court."
+  }
+ ],
+ "sources": [
+  {
+   "label": "Cal. Prob. Code §10810 (attorney compensation for ordinary services)",
+   "publisher": "California (public.law mirror)",
+   "url": "https://california.public.law/codes/ca_prob_code_section_10810",
+   "accessed": "2026-10-11",
+   "note": "Statutory attorney fee schedule: 4/3/2/1/0.5% tiers on gross estate value"
+  },
+  {
+   "label": "Cal. Prob. Code §10800 (personal representative compensation)",
+   "publisher": "California (public.law mirror)",
+   "url": "https://california.public.law/codes/ca_prob_code_section_10800",
+   "accessed": "2026-10-11",
+   "note": "Executor fee uses the same schedule"
+  },
+  {
+   "label": "Cal. Prob. Code §10811 (extraordinary services)",
+   "publisher": "California (public.law mirror)",
+   "url": "https://california.public.law/codes/ca_prob_code_section_10811",
+   "accessed": "2026-10-11",
+   "note": "Court may allow additional just and reasonable compensation for extraordinary services"
+  },
+  {
+   "label": "Cal. Prob. Code §13100 (collection of property by affidavit)",
+   "publisher": "California (public.law mirror)",
+   "url": "https://california.public.law/codes/ca_prob_code_section_13100",
+   "accessed": "2026-10-11",
+   "note": "Small-estate affidavit threshold of $166,250, adjusted periodically under §890"
+  },
+  {
+   "label": "Fla. Stat. §733.6171 (compensation of attorney for the personal representative)",
+   "publisher": "Florida Legislature",
+   "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0733/Sections/0733.6171.html",
+   "accessed": "2026-10-11",
+   "note": "Presumed-reasonable fee schedule; no mandatory statutory fee"
+  },
+  {
+   "label": "N.Y. Surrogate's Court Procedure Act §2307 (commissions of fiduciaries)",
+   "publisher": "New York State Senate",
+   "url": "https://www.nysenate.gov/legislation/laws/SCP/2307",
+   "accessed": "2026-10-11",
+   "note": "Executor commission schedule 5/4/3/2.5/2%"
+  },
+  {
+   "label": "Compare Lawyer Rates (2025 Legal Trends Report)",
+   "publisher": "Clio",
+   "url": "https://www.clio.com/resources/legal-trends/compare-lawyer-rates/",
+   "accessed": "2026-10-11",
+   "note": "US national average lawyer hourly rate of $349"
+  }
+ ],
+ "related": [
+  "will-cost-guide",
+  "power-of-attorney-cost",
+  "real-estate-lawyer-cost",
+  "hourly-vs-flat-fee-lawyer",
+  "how-much-does-a-lawyer-cost"
+ ],
+ "product": "estate",
+ "lawdepot": [
+  "last-will-and-testament",
+  "living-will",
+  "revocable-living-trust"
+ ]
 }

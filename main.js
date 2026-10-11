@@ -164,8 +164,62 @@
     });
   }
 
+
+  // ---- purchase access page ----
+  function initAccess() {
+    const box = $('#access-app'); if (!box) return;
+    const params = new URLSearchParams(location.search);
+    const sid = params.get('session_id') || '';
+    const show = (cls, html) => { box.innerHTML = `<div class="status ${cls}" role="status">${html}</div>`; };
+    if (!/^cs_(live|test)_[A-Za-z0-9]{10,200}$/.test(sid)) { show('err', 'This page needs the link you were sent to after checkout. If you bought a kit, <a href="/access/recover">recover your access here</a>.'); return; }
+    let tries = 0;
+    const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+    const load = async () => {
+      tries++;
+      let d;
+      try { const r = await fetch('/api/access?session_id=' + encodeURIComponent(sid), { cache: 'no-store' }); d = await r.json(); } catch (_) { d = { status: 'network' }; }
+      if (d.status === 'paid') {
+        const size = (n) => n ? ' · ' + (n > 1048576 ? (n / 1048576).toFixed(1) + ' MB' : Math.round(n / 1024) + ' KB') : '';
+        box.innerHTML = `<div class="status ok" role="status"><strong>Payment confirmed.</strong> Thank you! Your files are ready.</div>
+          <div class="access-box"><h2>${esc(d.product)}</h2><ul class="access-files">${d.files.map((f) => `<li><span><strong>${esc(f.name)}</strong><span class="calc-formula">${size(f.size)} · ${f.remaining} downloads left</span></span><a class="button-primary" href="${f.url}" rel="nofollow">Download</a></li>`).join('')}</ul>
+          <p class="calc-formula">Download links refresh each time you open this page (they expire after 15 minutes for security).</p></div>
+          <div class="access-box"><h2>Keep your access</h2><p><strong>Bookmark this page</strong>: you can come back to it for 12 months. Your order code is <strong><code>${esc(d.code)}</code></strong>. With it and your checkout email you can <a href="/access/recover">recover access</a> on any device.</p><p>Questions or a refund (within 14 days): <a href="mailto:javiperezguides@gmail.com">javiperezguides@gmail.com</a>. We do not add you to any mailing list.</p></div>`;
+        return;
+      }
+      if (d.status === 'unknown' || d.status === 'network') {
+        if (tries < 20) { show('wait', `<strong>Confirming your payment with Stripe…</strong> This usually takes a few seconds. This page updates automatically.`); setTimeout(load, tries < 6 ? 2000 : 5000); return; }
+        show('err', 'We have not received a payment confirmation for this checkout yet. If you completed payment, wait a minute and reload this page. If it still does not work, email javiperezguides@gmail.com with your checkout email.'); return;
+      }
+      const msg = { pending: '<strong>Your payment is processing.</strong> Some payment methods take time to confirm. Your files will appear here once Stripe confirms the payment; you can bookmark this page and come back.',
+        failed: 'The payment did not go through, so no files are available. You have not been charged for this order. You can <a href="/products/">try again</a>.',
+        expired: 'This checkout expired before payment was completed, so no files are available. You can <a href="/products/">start again</a>.',
+        refunded: 'This order was refunded, so its download access has ended.',
+        access_expired: 'Access to this order has ended (12 months after purchase). Email javiperezguides@gmail.com if you need the files again.',
+        review: 'We need to check this order manually. Please email javiperezguides@gmail.com and we will sort it out quickly.',
+        invalid: 'This link is not valid.' }[d.status] || 'Something went wrong. Please email javiperezguides@gmail.com.';
+      show(d.status === 'pending' ? 'wait' : 'err', msg);
+      if (d.status === 'pending' && tries < 60) setTimeout(load, 10000);
+    };
+    load();
+  }
+
+  function initRecover() {
+    const f = $('#recover-form'); if (!f) return;
+    f.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const out = $('#recover-result');
+      out.innerHTML = '<div class="status wait">Checking…</div>';
+      try {
+        const r = await fetch('/api/recover', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email: $('#rc-email').value, code: $('#rc-code').value }) });
+        const d = await r.json();
+        if (d.ok) { location.href = d.url; return; }
+        out.innerHTML = `<div class="status err">${d.message}</div>`;
+      } catch (_) { out.innerHTML = '<div class="status err">Network error. Please try again.</div>'; }
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', () => {
     initNav(); initTOC(); initSortable(); initPrivacyChoices(); initTracking();
-    lawyerCostCalc(); contingencyCalc(); smallClaimsCalc(); netOfferCalc();
+    lawyerCostCalc(); contingencyCalc(); smallClaimsCalc(); netOfferCalc(); initAccess(); initRecover();
   });
 })();

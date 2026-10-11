@@ -1,0 +1,110 @@
+{
+ "sku": "divorce",
+ "title": "Divorce Cost & Lawyer Budget Planner (Spreadsheet + PDF) — $27",
+ "description": "Estimate divorce costs under three scenarios, track your retainer, plan two household budgets and gather documents. Spreadsheet + fillable PDF, $27.",
+ "h1": "Divorce Cost & Lawyer Budget Planner",
+ "outcome": "See what an uncontested, mediated or contested divorce could cost you in your own numbers, keep the retainer from surprising you, and plan the budget for two homes.",
+ "benefits": [
+  "Cost scenarios: hours per phase × your lawyer's rate, plus outside costs, side by side",
+  "Retainer tracker that warns you before a top-up request",
+  "Two-household monthly budget with the shortfall calculated for you",
+  "Assets and debts inventory (no account numbers) and a document checklist",
+  "Divorce filing fee reference for all 50 states, with official sources (checked October 2026)"
+ ],
+ "formats": "Excel/Google Sheets workbook + fillable PDF",
+ "updated": "October 2026",
+ "updatedISO": "2026-10-11",
+ "samples": [
+  {
+   "src": "/assets/products/divorce-scenarios-example.webp",
+   "alt": "Divorce cost scenarios comparing uncontested, mediated and contested totals",
+   "caption": "Cost Scenarios: fictional example comparing three paths",
+   "w": 1200,
+   "h": 816
+  },
+  {
+   "src": "/assets/products/divorce-households-example.webp",
+   "alt": "Two household monthly budget",
+   "caption": "Two Households: today vs after separation",
+   "w": 1200,
+   "h": 796
+  },
+  {
+   "src": "/assets/products/divorce-retainer-example.webp",
+   "alt": "Retainer tracker with a top-up warning",
+   "caption": "Retainer Tracker: balance and top-up warning",
+   "w": 1200,
+   "h": 815
+  },
+  {
+   "src": "/assets/products/divorce-pdf-budget.webp",
+   "alt": "Printable monthly budget worksheet",
+   "caption": "Printable, fillable monthly budget",
+   "w": 1200,
+   "h": 1520
+  }
+ ],
+ "files": [
+  {
+   "name": "LCG-Divorce-Budget-Planner.xlsx",
+   "format": "Excel workbook (10 tabs)",
+   "does": "Cost Scenarios, Retainer Tracker, Two Households, Assets & Debts, Documents, State filing fees, plus filled examples"
+  },
+  {
+   "name": "LCG-Divorce-Budget-Planner-Workbook.pdf",
+   "format": "Fillable PDF, 5 pages, US Letter",
+   "does": "Quick start, questions for each lawyer, monthly budget, document checklist and meeting notes"
+  }
+ ],
+ "steps": [
+  "Fill in the two-household budget so you know what you can afford monthly.",
+  "Ask each lawyer for estimated hours per phase and enter them for each scenario.",
+  "Add your state's filing fee and expected outside costs (mediator, appraisals).",
+  "Compare the totals; they show what a dispute costs compared with an agreement.",
+  "After hiring, log deposits and invoices in the retainer tracker."
+ ],
+ "forWho": [
+  "People considering or starting a divorce who want a realistic budget",
+  "Anyone deciding between mediation and litigation on cost grounds",
+  "People already paying a retainer who want to track it"
+ ],
+ "notFor": [
+  "Anyone needing advice on custody, support or property division: speak to a family lawyer",
+  "People in danger: contact the National Domestic Violence Hotline (1-800-799-7233) or 911",
+  "Anyone expecting the planner to say what they will receive or owe"
+ ],
+ "compat": "Excel 365, LibreOffice Calc 7+ and Google Sheets (File → Import; sheet protection is not carried over). PDFs are US Letter and fillable in Adobe Acrobat Reader and most browser PDF viewers.",
+ "limits": [
+  "It does not calculate child support or alimony (each state has its own formula).",
+  "It does not decide what is marital or separate property.",
+  "It is not legal or financial advice."
+ ],
+ "faq": [
+  {
+   "q": "Does it include my state's filing fee?",
+   "a": "The workbook lists the divorce filing fee we verified for each state, with the official source, as of October 2026. Where a fee varies by county or was not verified, it says so. Always confirm with your court clerk."
+  },
+  {
+   "q": "Can a divorce lawyer work on contingency?",
+   "a": "No. ABA Model Rule 1.5(d), adopted in some form by most states, bars contingency fees that depend on securing a divorce or the amount of support or property. That is why budgeting the hourly fees matters."
+  },
+  {
+   "q": "Refunds?",
+   "a": "Within 14 days, no questions asked: email javiperezguides@gmail.com."
+  }
+ ],
+ "related": [
+  [
+   "/pages/divorce-lawyer-cost",
+   "Divorce lawyer cost"
+  ],
+  [
+   "/pages/mediation-cost-guide",
+   "Mediation cost"
+  ],
+  [
+   "/pages/child-custody-lawyer-cost",
+   "Child custody lawyer cost"
+  ]
+ ]
+}
