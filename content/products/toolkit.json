@@ -111,5 +111,10 @@
    "/pages/contingency-fee-explained",
    "Contingency fees explained"
   ]
- ]
+ ],
+ "video": {
+  "src": "/assets/video/toolkit-demo.mp4",
+  "poster": "/assets/video/toolkit-demo-poster.jpg",
+  "vtt": "/assets/video/toolkit-demo.en.vtt"
+ }
 }

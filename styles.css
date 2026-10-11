@@ -492,3 +492,4 @@ nav.breadcrumb{width:min(var(--max),calc(100% - 2rem));margin:.8rem auto 0;font-
 .row-2{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem}
 @media (max-width:760px){.row-2{grid-template-columns:1fr}}
 .buy-again{margin:2rem 0;max-width:420px}
+.home-hero{background:linear-gradient(90deg,rgba(27,42,74,.96) 0%,rgba(27,42,74,.88) 45%,rgba(27,42,74,.55) 100%),url(/assets/home-hero.webp) center/cover no-repeat}

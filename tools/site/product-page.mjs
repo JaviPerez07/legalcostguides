@@ -10,7 +10,7 @@ export function renderProductPage(s, p, { addSitemap }) {
   const body = `<div class="container article-layout wide"><article class="article-content" data-offer-view="${p.sku}">
 <p class="product-cta-label">Planning kit from LegalCostGuides</p><h1>${esc(s.h1)}</h1>
 <div class="sales-hero"><div><p class="hero-copy-dark">${esc(s.outcome)}</p>${list(s.benefits)}</div>${buyBox}</div>
-${gallery}
+${s.video ? `<section id="demo"><h2>See it in 25 seconds</h2><video controls muted playsinline preload="none" width="1280" height="720" poster="${s.video.poster}" style="width:100%;height:auto;border-radius:8px;border:1px solid var(--line)"><source src="${s.video.src}" type="video/mp4"><track kind="captions" srclang="en" label="English" src="${s.video.vtt}" default>Your browser does not support video. The screenshots above show the same steps.</video><p class="calc-formula">Silent demo with captions, using the filled fictional example.</p></section>` : ''}
 <section id="included"><h2>What's included</h2><div class="table-wrap"><table class="data-table"><thead><tr><th scope="col">File</th><th scope="col">Format</th><th scope="col">What it does</th></tr></thead><tbody>${s.files.map((f) => `<tr><td><strong>${esc(f.name)}</strong></td><td>${esc(f.format)}</td><td>${esc(f.does)}</td></tr>`).join('')}</tbody></table></div></section>
 <section id="how-it-works"><h2>How it works</h2><ol>${s.steps.map((x) => `<li>${x}</li>`).join('')}</ol></section>
 <section id="who"><h2>Who it's for, and who it isn't</h2><div class="row-2"><div><h3>Good fit</h3>${list(s.forWho)}</div><div><h3>Not a fit</h3>${list(s.notFor, 'check-list x-list')}</div></div></section>

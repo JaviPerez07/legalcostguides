@@ -83,7 +83,7 @@ export function breadcrumbLD(crumbs) {
 export const PERSON = { '@type': 'Person', name: 'Javi Pérez', url: SITE + '/authors/javi-perez/', jobTitle: 'Independent legal-cost researcher (not a lawyer)' };
 export const ORG = { '@type': 'Organization', name: SITE_NAME, url: SITE + '/', logo: { '@type': 'ImageObject', url: SITE + '/assets/legalcostguides-logo-square.png' }, email: CONTACT_EMAIL };
 
-export function page({ urlPath, title, description, body, crumbs = null, jsonld = [], ads = true, robots = 'index,follow,max-image-preview:large', ogType = 'article', extraHead = '', bodyClass = '', ogImage = '/assets/social-cover.png' }) {
+export function page({ urlPath, title, description, body, crumbs = null, jsonld = [], ads = true, robots = 'index,follow,max-image-preview:large', ogType = 'article', extraHead = '', bodyClass = '', ogImage = '/assets/social-cover.jpg' }) {
   const canonical = SITE + (urlPath === '/' ? '/' : urlPath);
   const css = '/styles.css?v=' + hashFile('styles.css');
   const js = '/main.js?v=' + hashFile('main.js');
